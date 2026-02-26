@@ -126,10 +126,12 @@ session: 3
 - **Viggio is gone.** He slipped out — looked like he was deliberately trying not to be seen doing it.
 
 ### The Sitting Room
-- Kane is trying to work toward a **locked door**, using his smooch session with Margeet as cover
+- Kane is trying to work toward a **locked door**, using his smooch session with [[Margeet Patel|Margeet]] as cover
 - Doesn't get through
 - **Kane notices dampness on the floor**
 - Identifies wet footprints that seem to walk directly through a wall
+
+> *Note: The raw session notes say "Kane is planning to break the locked door, with some advanced smooching with Drago." This is almost certainly a note-taking slip — Kane was in the sitting room with Margeet, not [[Elaine Drago]]. Recorded here as Margeet.*
 
 ---
 

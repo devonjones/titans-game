@@ -48,8 +48,12 @@ Arrived in Daggerford with the party. Received the coded invitation from [[Lady 
 ### [[Session 02 - Riverdale]]
 Drew a persuasive argument to [[Lady Morwen Daggerford]] connecting the bandit tax theft to the corruption in town. Told [[Malcom]] to go home if the party didn't return. Summoned Icarus to scout on the road east. At [[Riverdale]], negotiated with the tavern doorman: tell the truth and you can run. Got the location of [[Merron]]'s camp. Firebolted a bandit's weapon: *"The next shot goes through your eye."* Confronted [[General Martavis]] over ownership of the recovered taxes at the bandit camp.
 
+### [[Session 03 - Through the Wall]]
+At [[Viggio's Party|Viggio's party]]: introduced himself to the room as someone whose family *"trades in luxury goods"* — a cover identity that fits the upper-class crowd. Wingmanned [[Kane]] to [[Margeet Patel]]. Caught up with **[[Lord Michah]]** — an existing acquaintance. One of three (with Storm and [[Vaelin]]) who made the Perception check that clocked [[Viggio Martel]] quietly slipping out of the ballroom. *Smells of jasmine.*
+
 ## Notes
 - Effective negotiator and social operator (Session 2)
 - Firebolt - cantrip confirms wizard class
-- Waterdeep connections may prove useful
+- Waterdeep noble connections — "luxury goods" is a plausible social cover
+- Knows [[Lord Michah]] from prior acquaintance
 - Details TBD as more is revealed in play

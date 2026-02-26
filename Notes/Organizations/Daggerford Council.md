@@ -34,10 +34,13 @@ The Seneschal provided the party with a dossier on council members. [[Councilman
 ### [[Session 02 - Riverdale]]
 We believe the council (specifically the corrupt members like [[Viggio Martel]]) are the ones directing [[General Martavis]]'s [[Zhentarim]] operations - they hired the Zhents, so the orders flow from them. The rapid Zhent deployment to recover taxes from [[Riverdale]] likely came at council direction.
 
+### [[Session 03 - Through the Wall]]
+Multiple members encountered directly at [[Viggio's Party|Viggio's party]] for the first time. [[Elaine Drago]] made quiet contact with [[Vaelin]] — asked if the party was there to investigate the deaths, carefully positioned so Viggio couldn't see. Confirmed she opposes Viggio and dislikes the disappearances. **Upgraded from passive to active ally.** [[Maren Thane]] probed Stormcrow about whether trouble was expected. [[Margeet Patel]] slipped off to the sitting room with [[Kane]]. [[Viggio Martel]] hosted, approached Storm directly, then disappeared mid-party without wanting to be seen. Missing fingers confirmed at his manor — on the ground floor during the party itself.
+
 ## Political Landscape
 
 ### Allies (2)
-- **[[Elaine Drago]]** - Follower of Torm, likely honorable
+- **[[Elaine Drago]]** - Follower of Torm; confirmed active ally (Session 3) — quietly opposes Viggio, made contact with Vaelin at the party
 - **[[Councilman Moore]]** - Dead, murdered
 
 ### Enemies (1)
@@ -57,5 +60,6 @@ We believe the council (specifically the corrupt members like [[Viggio Martel]])
 ## Notes
 - With Moore dead, Lady Morwen has lost significant council support
 - Recruiting the neutral members could shift the balance of power
-- Viggio's party is an opportunity for intelligence gathering
+- [[Elaine Drago]] is now an active inside contact — she's watching Viggio and willing to talk
 - We believe the council is directing Martavis's operations (Session 2)
+- [[Viggio Martel]] keeps the missing fingers at his manor; slipped away mid-party — what is he doing with them?

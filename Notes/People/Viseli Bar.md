@@ -32,6 +32,10 @@ Traveled from the Dalelands to Daggerford with [[Kane]], witnessing caravans of 
 ### [[Session 02 - Riverdale]]
 Covered the back door of the [[Riverdale]] tavern with [[Kane]]. Hogtied a fleeing bandit. Entered the tavern from the rear during the assault.
 
+### [[Session 03 - Through the Wall]]
+At [[Viggio Martel]]'s manor before the party: challenged [[Bennet]] (Grey Wolf [[Zhentarim]] commander) to an arm-wrestling contest. He declined. Inside at the party, stayed close enough to [[Kane]] to pick up his high sign if needed — tactical awareness even in a social setting.
+
 ## Notes
 - Works well with [[Kane]] in tactical situations (flanking, back door coverage)
+- Comfortable challenging authority directly — arm-wrestling a Zhent commander without hesitation
 - Details TBD as more is revealed in play

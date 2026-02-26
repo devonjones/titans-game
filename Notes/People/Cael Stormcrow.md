@@ -47,7 +47,14 @@ Former crow's nest navigator on the *Moonrunner* out of Moonshae. Sole survivor 
 Arrived in Daggerford with the party. Mentioned [[Viggio Martel]]'s party invitation to [[Lady Morwen Daggerford]]. Present at the morgue for Speak with Dead on [[Councilman Moore]].
 
 ### [[Session 02 - Riverdale]]
-Lightning bolted the bridge approach at [[Riverdale]]. Entered the tavern from the front. Hit a bandit with chromatic orb, demanded surrender from another. Interrogated the [[Roderick]]: *"Rosey palm and her five sisters are a sailor's best friend. You almost lost that friend today."* The bandit recognized him: *"Oh my god, you're Stormcrow."* Went with [[Vaelin]] to recover prisoners - found two dead, took the survivor.
+Lightning bolted the bridge approach at [[Riverdale]]. Entered the tavern from the front. Hit a bandit with chromatic orb, demanded surrender from another. Interrogated [[Roderick]]: *"Rosey palm and her five sisters are a sailor's best friend. You almost lost that friend today."* The bandit recognized him: *"Oh my god, you're Stormcrow."* Went with [[Vaelin]] to recover prisoners - found two dead, took the survivor.
+
+### [[Session 03 - Through the Wall]]
+Morning: read [[Viggio Martel]]'s play — he'll claim the recovered taxes belong to "the people," meaning the [[Daggerford Council]].
+
+When [[Lady Morwen Daggerford]] was shaken by news of the fingers at Viggio's manor, **the weather responded — Storm let some thunder loose**. The flaw is real: weather bleeds with extreme emotion.
+
+At the party: **radiated ominousness** — it went over fine with the upper class. Viggio approached first; Storm held the conversation. Chatted up [[Maren Thane]]: *"Soldiers solve certain problems. I'm a different kind of weapon."* Looked for [[Elaine Drago]] — Viggio said she'd arrive later. Tried to find working-class guests to chat with; none present, entirely upper-class crowd. Joined [[Vaelin]] and [[Lord Celleborn Ellenfear|Celleborn]] in the Perception check that spotted Viggio quietly slipping out.
 
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.
