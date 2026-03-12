@@ -1,5 +1,7 @@
 ---
-tags: NPC
+tags:
+  - NPC
+  - Moonrunner
 status: Unknown (presumed alive)
 ---
 # Allaina
