@@ -2,6 +2,7 @@
 tags:
   - Place
   - Nation
+  - Thay
 status: Enemy
 ---
 # Thay

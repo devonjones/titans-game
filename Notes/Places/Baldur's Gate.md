@@ -2,6 +2,7 @@
 tags:
   - Place
   - City
+  - BaldursGate
 ---
 # Baldur's Gate
 

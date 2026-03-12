@@ -2,6 +2,7 @@
 tags:
   - Place
   - City
+  - Waterdeep
 status: Allied
 ---
 # Waterdeep (City of Splendors)

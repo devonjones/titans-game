@@ -2,6 +2,7 @@
 tags:
   - NPC
   - Bandit
+  - Riverdale
 status: Unknown
 ---
 # Merron

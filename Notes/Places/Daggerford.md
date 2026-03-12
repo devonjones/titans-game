@@ -2,6 +2,7 @@
 tags:
   - Place
   - Town
+  - Daggerford
 status: Contested
 ---
 # Daggerford

@@ -2,6 +2,7 @@
 tags:
   - Place
   - Region
+  - MoonshaeIsles
 status: Homeland
 ---
 # Moonshae Isles

@@ -1,7 +1,7 @@
 ---
 tags:
   - Place
-  - Sword Coast
+  - SwordCoast
 ---
 # Dragonspear Castle
 

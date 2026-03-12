@@ -2,6 +2,7 @@
 tags:
   - NPC
   - Bandit
+  - Riverdale
 status: Captured
 ---
 # Roderick

@@ -2,6 +2,7 @@
 tags:
   - Place
   - Region
+  - Dalelands
 status: In Conflict
 ---
 # The Dalelands
