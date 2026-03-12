@@ -2,6 +2,7 @@
 tags:
   - Organization
   - Faction
+  - EmeraldEnclave
 status: Ally
 ---
 # Emerald Enclave

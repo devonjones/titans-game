@@ -2,6 +2,7 @@
 tags:
   - Organization
   - Daggerford
+  - Council
 status: Contested
 ---
 # Daggerford Council (Council of Guilds)

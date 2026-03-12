@@ -2,6 +2,7 @@
 tags:
   - Organization
   - Faction
+  - LordsAlliance
 status: Ally
 ---
 # Lords' Alliance (Council of Lords)

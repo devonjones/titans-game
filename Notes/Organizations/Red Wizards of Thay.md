@@ -2,6 +2,7 @@
 tags:
   - Organization
   - Faction
+  - Thay
 status: Enemy
 ---
 # Red Wizards of Thay

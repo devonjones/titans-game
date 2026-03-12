@@ -1,5 +1,7 @@
 ---
-tags: Organization
+tags:
+  - Organization
+  - AshenSpears
 status: Ally
 ---
 # The Ashen Spears

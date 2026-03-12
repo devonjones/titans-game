@@ -2,6 +2,7 @@
 tags:
   - Organization
   - Faction
+  - Harpers
 status: Ally
 ---
 # The Harpers (Those Who Harp)

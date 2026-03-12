@@ -2,6 +2,7 @@
 tags:
   - NPC
   - Daggerford
+  - LordsAlliance
 status: Ally
 ---
 # Lady Morwen Daggerford

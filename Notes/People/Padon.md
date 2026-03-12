@@ -2,7 +2,7 @@
 tags:
   - NPC
   - Daggerford
-  - Builder's Guild
+  - BuildersGuild
 status: Unknown
 ---
 # Padon

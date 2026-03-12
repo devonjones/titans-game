@@ -2,6 +2,7 @@
 tags:
   - Organization
   - Faction
+  - Zhentarim
 status: Enemy
 ---
 # Zhentarim (The Black Network)

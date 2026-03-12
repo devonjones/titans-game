@@ -1,5 +1,7 @@
 ---
-tags: Organization
+tags:
+  - Organization
+  - MoonwhisperCaravan
 status: Ally
 ---
 # Moonwhisper Caravan

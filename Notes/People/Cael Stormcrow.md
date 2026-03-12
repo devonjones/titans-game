@@ -2,6 +2,8 @@
 tags:
   - PC
   - Party
+  - EmeraldEnclave
+  - Moonrunner
 status: Active
 ---
 # Cael Stormcrow

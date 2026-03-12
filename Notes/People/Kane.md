@@ -2,6 +2,11 @@
 tags:
   - PC
   - Party
+  - Harpers
+  - LordsAlliance
+  - AshenSpears
+  - MoonwhisperCaravan
+  - Thay
 ---
 # Kane (Kaelan Vyreth)
 

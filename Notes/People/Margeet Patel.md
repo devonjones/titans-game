@@ -3,6 +3,7 @@ tags:
   - NPC
   - Daggerford
   - Council
+  - Thay
 status: Neutral
 ---
 # Margeet Patel

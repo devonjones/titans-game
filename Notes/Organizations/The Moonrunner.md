@@ -1,5 +1,7 @@
 ---
-tags: Organization
+tags:
+  - Organization
+  - Moonrunner
 status: Destroyed
 ---
 # The *Moonrunner*
