@@ -1,5 +1,7 @@
 ---
-tags: Organization, Faction
+tags:
+  - Organization
+  - Faction
 status: Ally
 ---
 # The Harpers (Those Who Harp)

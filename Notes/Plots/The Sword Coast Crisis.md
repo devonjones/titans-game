@@ -1,5 +1,8 @@
 ---
-tags: Plot, Regional, Background
+tags:
+  - Plot
+  - Regional
+  - Background
 status: Active
 priority: Low
 ---

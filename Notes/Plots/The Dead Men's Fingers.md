@@ -1,6 +1,9 @@
 ---
-tags: Plot, Mystery, Active
-status: Active
+tags:
+  - Plot
+  - Mystery
+  - Resolved
+status: Resolved (partially)
 priority: High
 ---
 # The Dead Men's Fingers
@@ -37,9 +40,11 @@ Multiple bodies in [[Daggerford]]'s morgue are missing their right index fingers
 
 Nothing in common with [[Councilman Moore]] - no obvious pattern connecting the victims by profession or status.
 
-## Next Steps
-- **Lady Morwen's demand:** Physical possession of the fingers = proof against Viggio
-- The fingers are on the ground floor of the manor — someone needs to get them
+## Resolution (Session 4)
+- **Fingers physically recovered** from a locked chest in Viggio's secret room — satisfies [[Lady Morwen Daggerford|Lady Morwen]]'s demand for proof
+- Chest also contained **other unidentified items**
+- [[Viggio Martel]] formally accused of [[Councilman Moore]]'s murder; [[Captain Hidar]] notified
+- **But the deeper question remains:** what were the fingers FOR? The [[The Dead Three Temple|Dead Three temple]] below Viggio's manor suggests they were ritual components. The case is closed on "who" — but not on "why" or "what was accomplished."
 
 ## Open Questions
 1. Why take the fingers? Trophy? Key? Magical component? Bounty proof?
@@ -60,3 +65,4 @@ Nothing in common with [[Councilman Moore]] - no obvious pattern connecting the 
 - [[Session 01 - Dead Men's Fingers]] - Investigation begun, Speak with Dead performed
 - [[Session 02 - Riverdale]] - Lady Morwen revealed other victims (seamstress, worker); no obvious pattern
 - [[Session 03 - Through the Wall]] - Locate Object confirmed fingers at Viggio's manor; ground floor ping during the party; Lady Morwen demands physical proof
+- [[Session 04 - Good Timing]] - **Fingers recovered.** Viggio accused and fled. Dead Three temple discovered below — fingers were almost certainly ritual components

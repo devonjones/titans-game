@@ -1,5 +1,7 @@
 ---
-tags: Place, Landmark
+tags:
+  - Place
+  - Landmark
 ---
 # Delimbiyr River (The Shining River)
 

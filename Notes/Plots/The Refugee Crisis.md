@@ -1,5 +1,8 @@
 ---
-tags: Plot, Social, Active
+tags:
+  - Plot
+  - Social
+  - Active
 status: Active
 priority: Medium
 ---

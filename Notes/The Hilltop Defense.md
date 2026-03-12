@@ -1,5 +1,7 @@
 ---
-tags: Event, Narrative
+tags:
+  - Event
+  - Narrative
 ---
 # The Hilltop Defense (8 Months Ago)
 

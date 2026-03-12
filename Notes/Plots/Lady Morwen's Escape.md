@@ -1,5 +1,8 @@
 ---
-tags: Plot, Political, Active
+tags:
+  - Plot
+  - Political
+  - Active
 status: Contingency
 priority: Medium
 ---

@@ -1,5 +1,8 @@
 ---
-tags: Plot, Social, Active
+tags:
+  - Plot
+  - Social
+  - Active
 status: Active
 priority: High
 ---
@@ -72,3 +75,4 @@ priority: High
 - [[Session 01 - Dead Men's Fingers]] - Invitation received
 - [[Session 02 - Riverdale]] - Still upcoming; party spent the day at Riverdale instead
 - [[Session 03 - Through the Wall]] - Party infiltrated; fingers confirmed; Viggio vanished; secret passage discovered
+- [[Session 04 - Good Timing]] - [[Margeet Patel]] killed and resurrected; fingers recovered; [[Viggio Martel]] formally accused and fled; [[The Dead Three Temple|Dead Three temple]] discovered beneath the manor; [[The Death Tyrant]] encountered

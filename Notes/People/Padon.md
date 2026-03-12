@@ -1,5 +1,8 @@
 ---
-tags: NPC, Daggerford, Builder's Guild
+tags:
+  - NPC
+  - Daggerford
+  - Builder's Guild
 status: Unknown
 ---
 # Padon

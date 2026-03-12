@@ -1,5 +1,7 @@
 ---
-tags: Place, City
+tags:
+  - Place
+  - City
 status: Allied
 ---
 # Waterdeep (City of Splendors)

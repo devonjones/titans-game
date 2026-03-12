@@ -1,5 +1,8 @@
 ---
-tags: NPC, Daggerford, Council
+tags:
+  - NPC
+  - Daggerford
+  - Council
 status: Neutral
 ---
 # Throm Ugala

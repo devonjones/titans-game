@@ -1,5 +1,7 @@
 ---
-tags: Place, Nation
+tags:
+  - Place
+  - Nation
 status: Enemy
 ---
 # Thay

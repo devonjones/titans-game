@@ -1,5 +1,7 @@
 ---
-tags: PC, Party
+tags:
+  - PC
+  - Party
 status: Active
 ---
 # Viseli Bar
@@ -7,7 +9,7 @@ status: Active
 ![[Viseli Bar.png|200]]
 
 **Player:** Sierra
-**Race:** Unknown
+**Race:** Human
 **Class:** Unknown
 **Alignment:** Unknown
 
@@ -35,7 +37,16 @@ Covered the back door of the [[Riverdale]] tavern with [[Kane]]. Hogtied a fleei
 ### [[Session 03 - Through the Wall]]
 At [[Viggio Martel]]'s manor before the party: challenged [[Bennet]] (Grey Wolf [[Zhentarim]] commander) to an arm-wrestling contest. He declined. Inside at the party, stayed close enough to [[Kane]] to pick up his high sign if needed — tactical awareness even in a social setting.
 
+### [[Session 04 - Good Timing]]
+**The session's MVP.** Heard the scream from the sitting room, entered to find [[Margeet Patel|Margeet]] terrified and [[Kane]] down. Propelled Margeet out (she didn't make it — but Viseli didn't know that yet). Found Kane's limp body, made her medicine check, **stabilized him.**
+
+**Raged.** [[The Assassin|Invisible attacker]] rolled two 1s at advantage against her. Viseli's backswing clipped them — heard *"Fuck."* Fought in the dark, taking **33 total necrotic damage** (8 + 7 + more), dealing **18 back.** Activated her [[Cloak of Tranquility|Cloak]], grew a size category, dealt extra damage. The attacker fled.
+
+Picked up Kane and **carried him to the ballroom. Shouted "Murder!"** When Viggio went missing, covered by shouting *"Viggio is in danger! Somebody find him!"* — good instinct. **Roared and led the descent** into the temple. First down the stairs.
+
 ## Notes
 - Works well with [[Kane]] in tactical situations (flanking, back door coverage)
 - Comfortable challenging authority directly — arm-wrestling a Zhent commander without hesitation
+- **Cloak of Tranquility:** Advantage on INT/WIS/CHA saves; can expend Rage to auto-succeed; advantage on Stealth; when Rage activates can grow one size category (+1d6 damage, scales to 2d6 at 11, 3d6 at 16)
+- Took 33 necrotic solo against an invisible attacker and drove it off — significant
 - Details TBD as more is revealed in play

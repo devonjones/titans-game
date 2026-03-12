@@ -1,5 +1,7 @@
 ---
-tags: NPC, Daggerford
+tags:
+  - NPC
+  - Daggerford
 status: Ally
 ---
 # Captain Hidar

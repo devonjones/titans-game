@@ -1,5 +1,7 @@
 ---
-tags: PC, Party
+tags:
+  - PC
+  - Party
 status: Active
 ---
 # Cael Stormcrow
@@ -55,6 +57,13 @@ Morning: read [[Viggio Martel]]'s play — he'll claim the recovered taxes belon
 When [[Lady Morwen Daggerford]] was shaken by news of the fingers at Viggio's manor, **the weather responded — Storm let some thunder loose**. The flaw is real: weather bleeds with extreme emotion.
 
 At the party: **radiated ominousness** — it went over fine with the upper class. Viggio approached first; Storm held the conversation. Chatted up [[Maren Thane]]: *"Soldiers solve certain problems. I'm a different kind of weapon."* Looked for [[Elaine Drago]] — Viggio said she'd arrive later. Tried to find working-class guests to chat with; none present, entirely upper-class crowd. Joined [[Vaelin]] and [[Lord Celleborn Ellenfear|Celleborn]] in the Perception check that spotted Viggio quietly slipping out.
+
+### [[Session 04 - Good Timing]]
+Administered a *Cure Wounds* to [[Kane]]. 3 hp. (It was a 3 hp moment.) **Pulled the ring from [[Margeet Patel|Margeet]]'s dead finger** and handed it to [[Vaelin]] for the resurrection — cold practicality, not cruelty.
+
+In the secret room: **co-deceived [[Viggio Martel|Viggio]]** with Vaelin about what the Locate spell was tracking — implied they were hunting the assassin's weapon. Stopped [[Lord Celleborn Ellenfear|Celleborn]] from picking the chest lock; **cast *Shatter* instead** — area of effect, chest destroyed. Found the fingers. And other things.
+
+Before descending to the temple: **healed himself. Thoroughly.** Good call. Witnessed [[The Death Tyrant]] and the [[The Dead Three Temple|Dead Three temple]] — two bodies on the altar, former Lathander shrine, the antimagic, the red and black disk, *"Bring the bodies to Dragonspear."*
 
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.

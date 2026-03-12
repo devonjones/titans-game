@@ -1,5 +1,7 @@
 ---
-tags: Party, Organization
+tags:
+  - Party
+  - Organization
 ---
 # The Party
 

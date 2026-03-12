@@ -1,5 +1,8 @@
 ---
-tags: NPC, Daggerford, Council
+tags:
+  - NPC
+  - Daggerford
+  - Council
 status: Enemy
 ---
 # Viggio Martel
@@ -34,6 +37,15 @@ Not directly encountered, but the party reported to Lady Morwen that Moore belie
 ### [[Session 03 - Through the Wall]]
 Hosted the party at his manor (#23 on the map), guarded by [[Zhentarim]] Grey Wolves under Commander [[Bennet]]. Approached Stormcrow directly at the start of the party — sized us up, then introduced us to [[Padon]] (cobbletoner, Builder's Guild). Mid-party, slipped out of the ballroom while deliberately trying not to be seen. **Locate Object confirmed the missing fingers are on the ground floor of his manor during the party itself.**
 
+### [[Session 04 - Good Timing]]
+Walked back into the building after [[Margeet Patel|Margeet]]'s murder — suspicious timing. Was present in the ballroom during the chaos and the subsequent investigation.
+
+[[Lord Celleborn Ellenfear|Celleborn]] instructed him to unlock the hidden door — **he complied**. Storm and [[Vaelin]] deceived him about what they were locating; he appeared to believe them. While [[Viseli Bar|Viseli]] was "guarding" him, **he vanished again.** Viseli covered with *"Viggio is in danger!"*
+
+[[Lord Celleborn Ellenfear|Celleborn]] formally and publicly **declared Viggio wanted for the murder of [[Councilman Moore]]**. [[Captain Hidar]] notified by Vaelin telepathically. A party authority figure agreed to arrest him if he reappears — lukewarm response.
+
+**Viggio's current whereabouts: unknown.** Escaped via unknown means. A second secret door opened to stairs leading to the basement — possibly Viggio triggered it while fleeing, or knows the mechanism.
+
 ## Connected Plots
 - [[The Dead Men's Fingers]] - Primary suspect in the murders
 - [[The Zhentarim Occupation]] - Council collaborator enabling Zhent takeover
@@ -41,7 +53,9 @@ Hosted the party at his manor (#23 on the map), guarded by [[Zhentarim]] Grey Wo
 - [[The Destabilization Strategy]] - Beneficiary of the manufactured crisis
 
 ## Notes
-- Primary suspect in Moore's murder
+- Primary suspect in Moore's murder — now **formally accused** by Celleborn in public
 - Kane immediately identified him as corrupt
-- Keeps the missing fingers at his manor — confirmed by Locate Object, present on the ground floor during his own party
-- Slipped away mid-party without wanting to be seen — where did he go?
+- Kept the missing fingers in a chest in a secret room — likely ritual components for the [[The Dead Three Temple|Dead Three temple]] beneath his manor
+- Slipped away mid-party (Session 3); walked back in (Session 4); vanished again during the investigation
+- **Current status: at large.** Hidar notified; arrest warrant effectively issued
+- How deep is his involvement with [[The Death Tyrant]]? Servant? Partner? Patsy?

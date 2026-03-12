@@ -1,5 +1,7 @@
 ---
-tags: NPC, Ally
+tags:
+  - NPC
+  - Ally
 status: Active
 ---
 # Malcom

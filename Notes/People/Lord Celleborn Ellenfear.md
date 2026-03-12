@@ -1,5 +1,7 @@
 ---
-tags: PC, Party
+tags:
+  - PC
+  - Party
 status: Active
 ---
 # Lord Celleborn Ellenfear
@@ -51,9 +53,13 @@ Drew a persuasive argument to [[Lady Morwen Daggerford]] connecting the bandit t
 ### [[Session 03 - Through the Wall]]
 At [[Viggio's Party|Viggio's party]]: introduced himself to the room as someone whose family *"trades in luxury goods"* — a cover identity that fits the upper-class crowd. Wingmanned [[Kane]] to [[Margeet Patel]]. Caught up with **[[Lord Michah]]** — an existing acquaintance. One of three (with Storm and [[Vaelin]]) who made the Perception check that clocked [[Viggio Martel]] quietly slipping out of the ballroom. *Smells of jasmine.*
 
+### [[Session 04 - Good Timing]]
+Investigated the murder room after [[Margeet Patel|Margeet]]'s death. **Instructed [[Viggio Martel|Viggio]] to unlock the hidden door** — a bold move, forcing Viggio's hand publicly. Attempted to pick the lock on the chest in the secret room (Storm stopped him with *Shatter*). **Publicly declared Viggio wanted for the murder of [[Councilman Moore]]** to the assembled party guests — a formal accusation. Heard **chanting from the basement** and called the descent: *"We have to get downstairs, now!"*
+
 ## Notes
 - Effective negotiator and social operator (Session 2)
 - Firebolt - cantrip confirms wizard class
 - Waterdeep noble connections — "luxury goods" is a plausible social cover
 - Knows [[Lord Michah]] from prior acquaintance
+- Willing to make formal public accusations — comfortable wielding social authority
 - Details TBD as more is revealed in play

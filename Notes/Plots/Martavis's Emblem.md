@@ -1,5 +1,8 @@
 ---
-tags: Plot, Mystery, Active
+tags:
+  - Plot
+  - Mystery
+  - Active
 status: Active
 priority: High
 ---

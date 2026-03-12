@@ -1,5 +1,7 @@
 ---
-tags: Organization, Faction
+tags:
+  - Organization
+  - Faction
 status: Enemy
 ---
 # Zhentarim (The Black Network)

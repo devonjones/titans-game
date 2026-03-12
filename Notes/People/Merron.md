@@ -1,5 +1,7 @@
 ---
-tags: NPC, Bandit
+tags:
+  - NPC
+  - Bandit
 status: Unknown
 ---
 # Merron

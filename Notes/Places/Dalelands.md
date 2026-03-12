@@ -1,5 +1,7 @@
 ---
-tags: Place, Region
+tags:
+  - Place
+  - Region
 status: In Conflict
 ---
 # The Dalelands

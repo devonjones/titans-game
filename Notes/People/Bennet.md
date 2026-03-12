@@ -1,5 +1,8 @@
 ---
-tags: NPC, Daggerford, Zhentarim
+tags:
+  - NPC
+  - Daggerford
+  - Zhentarim
 status: Enemy
 ---
 # Bennet

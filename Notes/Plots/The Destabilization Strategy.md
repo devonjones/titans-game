@@ -1,5 +1,8 @@
 ---
-tags: Plot, Conspiracy, Theory
+tags:
+  - Plot
+  - Conspiracy
+  - Theory
 status: Theory
 priority: High
 ---
@@ -77,7 +80,14 @@ If the [[Zhentarim]] are behind the chaos, they gain:
 - Viggio keeping the fingers at his manor during the party suggests active use, not just evidence disposal
 - A hidden passage discovered in Viggio's sitting room — the manor has secret infrastructure. Pre-planned or long-standing?
 
+## Session 4 Evidence
+- The fingers were ritual components for a Dead Three ceremony in the basement of Viggio's manor
+- [[The Death Tyrant]] was present — the Zhentarim occupation may be cover for a larger Dead Three operation, not just a political takeover
+- *"Bring the bodies to [[Dragonspear]]"* — the operation extends beyond Daggerford
+- The scale is bigger than originally theorized: not just destabilizing a town, but potentially a regional Dead Three resurgence
+
 ## Session Appearances
 - [[Session 01 - Dead Men's Fingers]] - Theory developed based on evidence
 - [[Session 02 - Riverdale]] - Additional evidence: Zhent rapid deployment, bandits are refugees, council directing operations
 - [[Session 03 - Through the Wall]] - Fingers may be magical components; hidden passage at Viggio's manor; [[Elaine Drago]] confirms Viggio openly manipulates other council members
+- [[Session 04 - Good Timing]] - Confirmed: fingers were ritual components; Dead Three temple under Viggio's manor; death tyrant directing operations toward [[Dragonspear]]

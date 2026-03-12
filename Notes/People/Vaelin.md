@@ -1,5 +1,7 @@
 ---
-tags: PC, Party
+tags:
+  - PC
+  - Party
 status: Active
 ---
 # Vaelin
@@ -7,7 +9,7 @@ status: Active
 ![[Vaelin.png|200]]
 
 **Player:** Scott
-**Race:** Unknown
+**Race:** Human
 **Class:** Cleric
 **Alignment:** Unknown
 
@@ -46,10 +48,20 @@ The session's MVP. Proposed using *Locate Object* to track the missing fingers; 
 
 Made the key contact of the evening: chatted with [[Elaine Drago]], who greeted him as *"one of Morwen's friends from out of town."* She asked — carefully, positioning so Viggio couldn't see — whether the party was there to investigate the deaths. Confirmed she opposes Viggio and is aware of the disappearances.
 
+### [[Session 04 - Good Timing]]
+**Resurrected [[Margeet Patel]]** using a ring Storm pulled from her dead finger (a diamond of sufficient value). Stayed with [[Elaine Drago]] to keep her safe while others investigated.
+
+In the secret room: cast *Locate Object* again — the ping passed through [[Viggio Martel|Viggio]] (standing in the doorway) and continued beyond, leading to the chest. Co-deceived Viggio with Storm, implying they were looking for the assassin's weapon rather than the fingers.
+
+At the bottom of the stairs: cast *Darkvision* (300-foot range) on the entire party. Healed [[Viseli Bar|Viseli]] (13 hp) before the confrontation. **Notified [[Captain Hidar]] telepathically**: *"Viggio guilty, escaped. Send troops to Viggio's manor. We have Elaine and Margeet here, safe."*
+
+Witnessed [[The Death Tyrant]] and the [[The Dead Three Temple|Dead Three temple]]. Stuck with [[Elaine Drago]] through the chaos.
+
 ## Notes
-- Speak with Dead is a 3rd level cleric spell - Vaelin is at least level 5
 - Good cop/bad cop versatility - can threaten effectively then show mercy
 - Healing magic used as tool of persuasion (Session 2)
-- Locate Object proved central in Session 3 — the spell that cracked the case open
-- Has a relationship with [[Elaine Drago]] now — the most useful quiet ally on the council
+- Locate Object proved central in Sessions 3 & 4 — cracked the case twice
+- **Resurrection** confirmed — powerful cleric, high level
+- **Telepathy** with Hidar — some form of sending or telepathic bond spell
+- Has a protective instinct toward [[Elaine Drago]] — stayed with her through the chaos
 - Details TBD as more is revealed in play

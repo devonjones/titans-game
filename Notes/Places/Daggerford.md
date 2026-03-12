@@ -1,5 +1,7 @@
 ---
-tags: Place, Town
+tags:
+  - Place
+  - Town
 status: Contested
 ---
 # Daggerford

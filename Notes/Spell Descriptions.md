@@ -1,5 +1,7 @@
 ---
-tags: Reference, Spells
+tags:
+  - Reference
+  - Spells
 ---
 # Spell Descriptions
 

@@ -1,5 +1,7 @@
 ---
-tags: PC, Party
+tags:
+  - PC
+  - Party
 ---
 # Kane (Kaelan Vyreth)
 
@@ -47,6 +49,13 @@ Confronted bandit guards on the [[Riverdale]] bridge: *"Where are your friends?"
 
 ### [[Session 03 - Through the Wall]]
 [[Lord Celleborn Ellenfear|Celleborn]] wingmanned Kane to [[Margeet Patel]] at [[Viggio's Party|Viggio's party]]. Exchanged flirtatious pleasantries; they slipped off to the sitting room together without a chaperone. While there, Kane noticed **dampness on the floor** and identified wet footprints that appear to walk directly through a wall — suggesting a hidden passage. Possible exit route someone used recently.
+
+### [[Session 04 - Good Timing]]
+In the sitting room with [[Margeet Patel|Margeet]], investigating the secret door. Confirmed the door aloud — then the room went dark. Felt a blade in his back: **73 hp in one hit.** Heard: *"You are not supposed to be here."* Went down.
+
+[[Viseli Bar|Viseli]] stabilized him. Stormcrow cast *Cure Wounds* — 3 hp. Not glamorous.
+
+After recovery, stayed with Margeet to keep her safe. When confronting [[Viggio Martel|Viggio]] in the ballroom, **demanded Viggio show himself** — a secret door opened to stairs going down. Descended into the temple with the party. Cast *Light* on Viseli for the descent. Witnessed [[The Death Tyrant]] and his parting words. *"Assassin. They suck."*
 
 ---
 
@@ -250,7 +259,7 @@ He has no idea what's coming.
 
 ---
 
-## Current Status (Age 160, Level 9)
+## Current Status (Age 160, Level 10)
 
 | | |
 |---|---|

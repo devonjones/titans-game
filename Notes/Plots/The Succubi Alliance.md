@@ -1,5 +1,8 @@
 ---
-tags: Plot, Supernatural, Active
+tags:
+  - Plot
+  - Supernatural
+  - Active
 status: Intelligence
 priority: High
 ---

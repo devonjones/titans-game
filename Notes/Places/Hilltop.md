@@ -1,5 +1,7 @@
 ---
-tags: Place, Settlement
+tags:
+  - Place
+  - Settlement
 ---
 # Hilltop
 
