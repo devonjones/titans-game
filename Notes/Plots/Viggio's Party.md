@@ -2,15 +2,16 @@
 tags:
   - Plot
   - Social
-  - Active
-status: Active
-priority: High
+  - Closed
+status: Closed
+priority: Resolved
 ---
 # Viggio's Party
 
 **Type:** Social Encounter / Infiltration
-**Status:** Party happened — investigation ongoing
+**Status:** Closed — party attended, temple cleared, manor secured by City Guard
 **Introduced:** [[Session 01 - Dead Men's Fingers]]
+**Closed:** [[Session 05 - Signed S]]
 
 ## Summary
 [[Viggio Martel]] invited the party to his manor. We attended, confirmed the missing fingers are on the ground floor, made contact with potential allies, and discovered a hidden passage — but the fingers are still in Viggio's possession, and he slipped away mid-party.
@@ -76,3 +77,4 @@ priority: High
 - [[Session 02 - Riverdale]] - Still upcoming; party spent the day at Riverdale instead
 - [[Session 03 - Through the Wall]] - Party infiltrated; fingers confirmed; Viggio vanished; secret passage discovered
 - [[Session 04 - Good Timing]] - [[Margeet Patel]] killed and resurrected; fingers recovered; [[Viggio Martel]] formally accused and fled; [[The Dead Three Temple|Dead Three temple]] discovered beneath the manor; [[The Death Tyrant]] encountered
+- [[Session 05 - Signed S]] - Temple cultists killed; building searched top to bottom; incriminating notes recovered; Duchess's troops secured the manor; Zhent captain dismissed from duty

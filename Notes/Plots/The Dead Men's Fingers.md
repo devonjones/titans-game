@@ -2,15 +2,16 @@
 tags:
   - Plot
   - Mystery
-  - Resolved
-status: Resolved (partially)
-priority: High
+  - Closed
+status: Closed
+priority: Resolved
 ---
 # The Dead Men's Fingers
 
 **Type:** Murder Mystery
-**Status:** Active Investigation
+**Status:** Closed — fingers recovered, evidence presented, murder ordered by "S" (Samus)
 **Introduced:** [[Session 01 - Dead Men's Fingers]]
+**Closed:** [[Session 05 - Signed S]]
 
 ## Summary
 Multiple bodies in [[Daggerford]]'s morgue are missing their right index fingers, cut off post-mortem. The most recent victim is [[Councilman Moore]], an ally of [[Lady Morwen Daggerford]].
@@ -66,3 +67,4 @@ Nothing in common with [[Councilman Moore]] - no obvious pattern connecting the 
 - [[Session 02 - Riverdale]] - Lady Morwen revealed other victims (seamstress, worker); no obvious pattern
 - [[Session 03 - Through the Wall]] - Locate Object confirmed fingers at Viggio's manor; ground floor ping during the party; Lady Morwen demands physical proof
 - [[Session 04 - Good Timing]] - **Fingers recovered.** Viggio accused and fled. Dead Three temple discovered below — fingers were almost certainly ritual components
+- [[Session 05 - Signed S]] - **Fingers presented to [[Lady Morwen Daggerford]].** Found in Viggio's lockbox inside his desk. [[Elaine Drago]] and [[Margeet Patel]] corroborate. Moore's murder confirmed as ordered: notes signed "S" include *"If the smith is a problem, deal with it"* — Moore was staged before the Zhent contract was signed. Case closed on the physical evidence.

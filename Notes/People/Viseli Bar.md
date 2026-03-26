@@ -49,4 +49,8 @@ Picked up Kane and **carried him to the ballroom. Shouted "Murder!"** When Viggi
 - Comfortable challenging authority directly — arm-wrestling a Zhent commander without hesitation
 - **Cloak of Tranquility:** Advantage on INT/WIS/CHA saves; can expend Rage to auto-succeed; advantage on Stealth; when Rage activates can grow one size category (+1d6 damage, scales to 2d6 at 11, 3d6 at 16)
 - Took 33 necrotic solo against an invisible attacker and drove it off — significant
+### [[Session 05 - Signed S]]
+Front-line tank for the temple fight. Raged immediately and charged in. Gained 14 temp HP from rage, plus recurring temp HP from [[Vaelin]]'s Twilight Sanctuary (14/round). Took massive punishment: **15 force damage** (Rage doesn't reduce force), **20 damage (10 after Rage)**, **21 damage (~10 after Rage)**, **22 damage (11 after Rage)** — cumulative beating but stayed up the entire fight. Jumped over [[Kane]] to attack a closer target for 12 damage. The cultists brought **force damage** specifically — a deliberate counter to her Rage reduction.
+
+## Notes
 - Details TBD as more is revealed in play

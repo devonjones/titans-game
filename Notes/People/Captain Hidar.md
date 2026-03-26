@@ -28,6 +28,10 @@ Greeted the party at the manor gates with a pair of guards. [[Kane]] asked him t
 ### [[Session 02 - Riverdale]]
 Provided intel on the bandit occupation of [[Riverdale]] - a villager escaped and reported a few dozen bandits. The party used this information to plan the mission.
 
+### [[Session 05 - Signed S]]
+When he learned Viggio had escaped, **went back to guard [[Lady Morwen Daggerford]] personally.** Sent Sgt. [[Bertram]] with City Guard troops to secure Viggio's manor. Present at the Duchess's side with three guards when the party arrived to report. Received the full briefing alongside the Duchess.
+
 ## Notes
 - Plays his cards close; unclear what he knows or is planning
 - May have something in the works against the Zhentarim
+- **Protective instinct confirmed** — went straight to the Duchess when the situation escalated

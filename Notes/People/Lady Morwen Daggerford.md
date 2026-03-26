@@ -56,6 +56,9 @@ When the party reported that the missing fingers are in Viggio's house (confirme
 - [[The Succubi Alliance]] - Potential target of Pencheska conspiracy
 - [[The Dead Men's Fingers]] - Commissioned the investigation into Moore's death
 
+### [[Session 05 - Signed S]]
+Received the full report from the party at her manor, with [[Captain Hidar]] at her side and [[Elaine Drago]] and [[Margeet Patel]] corroborating. Storm presented: the fingers (from Viggio's lockbox), the incriminating notes signed "S," and the full account of the temple, the ritual, and the fight. Now holds **physical proof** of Viggio's guilt and the Zhentarim's premeditated involvement. Strategy discussed: fabricate an emergency to split the Zhent forces, reducing their numbers without direct confrontation. Her political position has strengthened significantly — two council allies confirmed, evidence in hand, City Guard securing Viggio's manor.
+
 ## Notes
 - Her file on Cael describes him as: "Useful. Reliable. Requires purpose or becomes dangerous."
 

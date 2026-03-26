@@ -51,11 +51,20 @@ The phrase "good timing" is ambiguous: does he mean the party's arrival was conv
 - [[The Dead Men's Fingers]] — The fingers from the murders were stored above this temple; likely ritual components
 - [[The Destabilization Strategy]] — Is the Zhentarim occupation a cover operation for something larger?
 
+## What We Now Know (Session 5)
+- The ritual **sacrificed two innocents** (refugees) and placed their essence on [[The Disk]]
+- The disk must go to **Mount Hotenow** to "raise the ancient ones" — connected to the **Cult of the Dragon**
+- Names **Rofidian** and **Ravica** appear in the ritual instructions
+- He ordered bodies brought to [[Dragonspear]] — may be a waypoint en route to Mount Hotenow
+- The ritual scroll was written in **Abyssal**
+
 ## Open Questions
 - What is his name or title?
-- What was the ritual he performed?
-- What is the red and black disk?
+- ~~What was the ritual he performed?~~ **Answered:** Sacrificed two innocents, placed their essence on the disk
+- ~~What is the red and black disk?~~ **Partially answered:** Vessel for sacrificial essence, destined for Mount Hotenow
+- ~~Who were the two bodies on the altar?~~ **Partially answered:** Refugees; identities unknown
 - Who are the followers he commanded?
 - Is he affiliated with the Zhentarim, or is Viggio working for him independently?
-- What is his goal at [[Dragonspear]]?
-- Who were the two bodies on the altar?
+- Is [[Dragonspear]] a waypoint to Mount Hotenow, or a separate objective?
+- Who are Rofidian and Ravica? Are they "the ancient ones"?
+- Why are Dead Three cultists serving the Cult of the Dragon?

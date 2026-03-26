@@ -60,7 +60,12 @@ In the sitting room with [[Margeet Patel|Margeet]], investigating the secret doo
 
 [[Viseli Bar|Viseli]] stabilized him. Stormcrow cast *Cure Wounds* — 3 hp. Not glamorous.
 
-After recovery, stayed with Margeet to keep her safe. When confronting [[Viggio Martel|Viggio]] in the ballroom, **demanded Viggio show himself** — a secret door opened to stairs going down. Descended into the temple with the party. Cast *Light* on Viseli for the descent. Witnessed [[The Death Tyrant]] and his parting words. *"Assassin. They suck."*
+After recovery, stayed with Margeet to keep her safe. When confronting [[Viggio Martel|Viggio]] in the ballroom, **demanded Viggio show himself** — a secret door opened to stairs going down. Descended into the temple with the party. Cast *Light* on Viseli for the descent.
+
+Before descending to the temple: **healed himself. Thoroughly.** Good call.  Witnessed [[The Death Tyrant]] and his parting words. *"Assassin. They suck."*
+
+### [[Session 05 - Signed S]]
+*"It's time to kill."* — opened the fight. Moved up beside [[Viseli Bar|Viseli]] in the front line. **Hex** active (not previously noted as part of his kit). Used **Sentinel** to lock down an enemy trying to move. Chased a fleeing cultist — hit once, **Smited**, dropped him. Made a profession check regarding the "staging" mentioned in the incriminating notes (results unclear). **Hex + Smite** confirmed as part of his combat rotation.
 
 ---
 

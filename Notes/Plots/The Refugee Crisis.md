@@ -70,3 +70,4 @@ This reveals a secondary effect of the crisis: displaced people with no resource
 ## Session Appearances
 - [[Session 01 - Dead Men's Fingers]] - Crisis described, Kane and Viseli's journey
 - [[Session 02 - Riverdale]] - Bandits revealed as war refugees; refugees still on the road east of Daggerford
+- [[Session 05 - Signed S]] - **Refugees being used as ritual sacrifice victims.** The two bodies on the altar were refugees that council members didn't recognize. The displaced are not just overwhelming resources — they're being harvested.

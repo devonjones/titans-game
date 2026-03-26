@@ -41,10 +41,14 @@ First direct encounter at [[Viggio's Party|Viggio's party]]. Confirmed as an opi
 
 Kept safe by [[Kane]] through the remainder of the session.
 
+### [[Session 05 - Signed S]]
+Waited outside the temple during the fight with [[Elaine Drago]]. Accompanied the party to present evidence to [[Lady Morwen Daggerford]]. **Corroborated** the party's account. Has now witnessed the Dead Three temple and the ritual victims. Two sessions ago she was killed and resurrected; now she's standing beside the party presenting evidence to the Duchess. The shift from neutral to active ally appears complete.
+
 ## Notes
 - Red Wizard connection is unusual for a potential ally
 - Given [[Kane]]'s history with Thayan necromancers, this connection may be significant
-- Was killed and resurrected in Session 4 — owes the party her life; may shift her toward a more active alliance
+- Was killed and resurrected in Session 4 — owes the party her life
 - **A ring she wore was used for her own resurrection** — she'll know this. How does she feel about that?
 - Does she know about the secret passage? About the temple below?
-- Worth investigating further — her motives remain unclear but the dynamic has shifted
+- Now actively corroborating evidence against Viggio — the dynamic has shifted decisively
+- Two council members (Elaine + Margeet) now firmly allied with the party and the Duchess

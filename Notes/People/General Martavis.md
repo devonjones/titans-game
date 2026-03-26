@@ -53,3 +53,6 @@ Not directly encountered. Discussed in morning briefing — did he deliver the t
 - How did he know about Merron's camp? And how did he mobilize 100 cavalry so quickly?
 - We believe his orders come from the [[Daggerford Council]] - the people who hired the [[Zhentarim]]
 - His emblem and his soldiers' emblems match a Zhent unit that was in [[Thay]] during the civil war but was NOT present for the actual fighting - what were they doing instead?
+- **Samus** identified as head of Zhentarim in Daggerford (Session 5) — is Martavis subordinate to Samus, or a parallel authority?
+- Guest list and operational documents found in Viggio's manor — Martavis may not know the party has these
+- Strategy discussed: fabricate an emergency to send Martavis and half his troops away from Daggerford

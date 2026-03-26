@@ -64,4 +64,14 @@ Witnessed [[The Death Tyrant]] and the [[The Dead Three Temple|Dead Three temple
 - **Resurrection** confirmed — powerful cleric, high level
 - **Telepathy** with Hidar — some form of sending or telepathic bond spell
 - Has a protective instinct toward [[Elaine Drago]] — stayed with her through the chaos
+### [[Session 05 - Signed S]]
+Opened the fight with **Twilight Sanctuary** (10 temp HP/round to nearby allies) and **Daylight** — dispelled the cultists' darkness except around the altar. Cast **Spirit Guardians** and moved into the enemy group (10 damage on failed Wis save). Used **Spiritual Weapon** (flavored as a floating book) throughout the fight. Took the **Dodge action** for defense. **Killed the last standing enemy.**
+
+After the fight: went to collect [[Elaine Drago]] and [[Margeet Patel]] from outside the door. **Spotted the ritual scroll on the ground** — key discovery of the session. Proposed casting **Locate Creature** on [[Viggio Martel]] in the morning, plus Locate Object.
+
+**Twilight Sanctuary** confirmed as a major force multiplier — kept the party alive through sustained force damage that Rage couldn't reduce.
+
+**Twilight Cleric** domain now confirmed.
+
+## Notes
 - Details TBD as more is revealed in play

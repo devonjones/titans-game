@@ -62,4 +62,8 @@ Investigated the murder room after [[Margeet Patel|Margeet]]'s death. **Instruct
 - Waterdeep noble connections — "luxury goods" is a plausible social cover
 - Knows [[Lord Michah]] from prior acquaintance
 - Willing to make formal public accusations — comfortable wielding social authority
+### [[Session 05 - Signed S]]
+Cast **Fireball** against the enemy group near Viseli (damage unclear). Later cast another spell — gestured, nothing happened (countered? fizzled?). Finished with a **Firebolt** for 19 damage. After the fight: examined the altar bodies (drained by ritual magic), asked [[Vaelin]] to explain. **Read the ritual scroll** — translating from Abyssal: instructions to raise "the ancient ones" via sacrificing two innocents and carrying their essence on a disk to Mount Hotenow. Connected to the Cult of the Dragon. Cast **Detect Magic** and walked through the building. Called for an emergency council meeting. Proposed letting the Duchess decide what to do with the Zhentarim.
+
+## Notes
 - Details TBD as more is revealed in play

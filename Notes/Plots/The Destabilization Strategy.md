@@ -86,8 +86,15 @@ If the [[Zhentarim]] are behind the chaos, they gain:
 - *"Bring the bodies to [[Dragonspear]]"* — the operation extends beyond Daggerford
 - The scale is bigger than originally theorized: not just destabilizing a town, but potentially a regional Dead Three resurgence
 
+## Session 5 Evidence
+- Moore's murder was **ordered by "S" (Samus)** before the Zhent contract was even signed — the destabilization was planned from the start
+- The ritual victims are **refugees** — the displaced population is being harvested for ritual sacrifice
+- The Dead Three operation serves the **Cult of the Dragon** — the conspiracy is larger than Daggerford, extending to Mount Hotenow near Neverwinter
+- Samus identified as head of Zhentarim in Daggerford — the chain of command is becoming clear: Samus → Martavis → Viggio → cultists
+
 ## Session Appearances
 - [[Session 01 - Dead Men's Fingers]] - Theory developed based on evidence
 - [[Session 02 - Riverdale]] - Additional evidence: Zhent rapid deployment, bandits are refugees, council directing operations
 - [[Session 03 - Through the Wall]] - Fingers may be magical components; hidden passage at Viggio's manor; [[Elaine Drago]] confirms Viggio openly manipulates other council members
 - [[Session 04 - Good Timing]] - Confirmed: fingers were ritual components; Dead Three temple under Viggio's manor; death tyrant directing operations toward [[Dragonspear]]
+- [[Session 05 - Signed S]] - Moore's murder premeditated and ordered by "S"; ritual victims are refugees; Cult of the Dragon connection revealed; Mount Hotenow as ultimate destination

@@ -60,9 +60,12 @@ Multiple members encountered directly at [[Viggio's Party|Viggio's party]] for t
 - [[Viggio's Party]] - Opportunity for intelligence gathering
 - [[The Destabilization Strategy]] - Council corruption enables the Zhent takeover
 
+### [[Session 05 - Signed S]]
+[[Elaine Drago]] and [[Margeet Patel]] accompanied the party to present evidence to [[Lady Morwen Daggerford]], corroborating everything. Both are now fully committed allies. With Viggio at large and formally accused, the council balance has shifted: **two active allies (Elaine, Margeet), two swing votes (Throm, Maren), one enemy (Viggio, fugitive), one dead (Moore).** Celleborn called for an emergency council meeting.
+
 ## Notes
-- With Moore dead, Lady Morwen has lost significant council support
-- Recruiting the neutral members could shift the balance of power
-- [[Elaine Drago]] is now an active inside contact — she's watching Viggio and willing to talk
-- We believe the council is directing Martavis's operations (Session 2)
-- [[Viggio Martel]] keeps the missing fingers at his manor; slipped away mid-party — what is he doing with them?
+- With Moore dead, Lady Morwen has lost significant council support — but Viggio's exposure and flight has opened the field
+- [[Elaine Drago]] and [[Margeet Patel]] are now **fully committed allies** — corroborated evidence to the Duchess
+- [[Throm Ugala]] and [[Maren Thane]] remain swing votes — recruiting them would give the Duchess a clear majority
+- [[Viggio Martel]] is at large, formally accused of murder — his council seat is effectively vacant
+- Incriminating notes signed "S" (**Samus**, head of Zhentarim) prove the murders and occupation were premeditated

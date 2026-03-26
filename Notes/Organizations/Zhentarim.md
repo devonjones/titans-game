@@ -91,10 +91,13 @@ In canonical lore, the succubus Pencheska (posing as [[Lady Morwen Daggerford]])
 
 ---
 
+## Leadership in Daggerford
+- **Samus** — Head of the Zhentarim in Daggerford. Likely the "S" who signed incriminating notes ordering [[Councilman Moore]]'s murder and authorizing the security contract. Relationship to [[General Martavis]] unclear — Samus may be above Martavis in the chain of command, or a separate authority.
+
 ## Connected Plots
 - [[The Zhentarim Occupation]] - Current military presence in Daggerford
 - [[The Destabilization Strategy]] - Suspected architects of regional chaos
-- [[The Refugee Crisis]] - Driving refugees toward Daggerford
+- [[The Refugee Crisis]] - Driving refugees toward Daggerford; refugees being used as ritual sacrifice victims
 - [[The Succubi Alliance]] - Alliance with demonic forces
 - [[The Sword Coast Crisis]] - Possibly behind organized monster tribes
 - [[The Dead Men's Fingers]] - Eliminating opposition to their takeover

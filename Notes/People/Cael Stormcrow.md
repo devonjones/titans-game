@@ -65,7 +65,12 @@ Administered a *Cure Wounds* to [[Kane]]. 3 hp. (It was a 3 hp moment.) **Pulled
 
 In the secret room: **co-deceived [[Viggio Martel|Viggio]]** with Vaelin about what the Locate spell was tracking — implied they were hunting the assassin's weapon. Stopped [[Lord Celleborn Ellenfear|Celleborn]] from picking the chest lock; **cast *Shatter* instead** — area of effect, chest destroyed. Found the fingers. And other things.
 
-Before descending to the temple: **healed himself. Thoroughly.** Good call. Witnessed [[The Death Tyrant]] and the [[The Dead Three Temple|Dead Three temple]] — two bodies on the altar, former Lathander shrine, the antimagic, the red and black disk, *"Bring the bodies to Dragonspear."*
+Witnessed [[The Death Tyrant]] and the [[The Dead Three Temple|Dead Three temple]] — two bodies on the altar, former Lathander shrine, the antimagic, the red and black disk, *"Bring the bodies to Dragonspear."*
+
+### [[Session 05 - Signed S]]
+Combat in the temple: cast **two 5th-level lightning bolts** — the first (lightning ball, 48 max damage) against the altar group, the second through the Viseli group dropping two cultists. Then gambled a third 5th-level lightning ball on an invisible enemy's location — **killed him**, body appearing as it hit the floor. Took a crit during the fight (22 hp, partially absorbed by Twilight Sanctuary temp HP).
+
+After the fight: asked the pointed question — *"How did no one in the town know that an entire temple of Lathander is under the house of one of the noblemen?"* Announced that the contents of Viggio's house belong to the Duchess. Radiated ominousness while the house was searched. Presented the fingers and the incriminating notes to [[Lady Morwen Daggerford]] personally.
 
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.

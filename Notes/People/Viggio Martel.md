@@ -52,6 +52,9 @@ Walked back into the building after [[Margeet Patel|Margeet]]'s murder — suspi
 - [[Viggio's Party]] - His invitation to the party tomorrow
 - [[The Destabilization Strategy]] - Beneficiary of the manufactured crisis
 
+### [[Session 05 - Signed S]]
+Not present — still at large. The house search revealed his manor is **not a residence** — dusty, disused, with bedrolls and clothes suggesting temporary occupation. Incriminating notes found in the building signed "S" (likely **Samus**, head of Zhentarim in Daggerford) — including orders regarding Moore and the Zhent guard contract. Duchess's City Guard secured the manor. [[Vaelin]] plans to cast **Locate Creature** on Viggio in the morning.
+
 ## Notes
 - Primary suspect in Moore's murder — now **formally accused** by Celleborn in public
 - Kane immediately identified him as corrupt
@@ -59,3 +62,4 @@ Walked back into the building after [[Margeet Patel|Margeet]]'s murder — suspi
 - Slipped away mid-party (Session 3); walked back in (Session 4); vanished again during the investigation
 - **Current status: at large.** Hidar notified; arrest warrant effectively issued
 - How deep is his involvement with [[The Death Tyrant]]? Servant? Partner? Patsy?
+- His manor is not a true residence — more of an operational base

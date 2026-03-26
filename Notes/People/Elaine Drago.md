@@ -38,8 +38,11 @@ First direct encounter. Present at [[Viggio's Party|Viggio's party]]. [[Vaelin]]
 - [[The Zhentarim Occupation]] - Opposes Viggio and by extension the Zhent presence
 - [[Viggio's Party]] - Present; made quiet contact with Vaelin away from Viggio's eyes
 
+### [[Session 05 - Signed S]]
+Waited outside the temple during the fight. Accompanied the party upstairs for the house search and went with them to present evidence to [[Lady Morwen Daggerford]]. **Corroborated** the party's account of the fingers, the temple, and the events at Viggio's manor. Has now witnessed firsthand the Dead Three temple, the ritual victims, and the incriminating notes. Fully committed ally at this point.
+
 ## Notes
 - As a follower of Torm, likely to be honorable and courageous
 - Actively opposed to Viggio but careful about showing it — positioned herself so he couldn't see her ask about the deaths
-- Upgraded from passive potential ally to active potential ally
+- Upgraded from passive potential ally to **fully committed ally** — corroborated evidence to the Duchess
 - Could be a crucial inside source on council politics

@@ -60,7 +60,7 @@ session: 4
 - [[Viseli Bar|Viseli]] positions herself next to Viggio — ostensibly as a "guard."
 - Storm, Celleborn, and Vaelin enter the secret room.
 - Locate spell leads to **a small chest.**
-- Storm casts *Heal* on himself. Thoroughly.
+- Kane casts *Heal* on himself. Thoroughly.
 - Viggio disappears. **Viseli shouts: "Viggio is in danger! Somebody find him!"**
 
 ## The Chest
