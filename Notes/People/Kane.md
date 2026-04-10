@@ -67,6 +67,9 @@ Before descending to the temple: **healed himself. Thoroughly.** Good call.  Wit
 ### [[Session 05 - Signed S]]
 *"It's time to kill."* — opened the fight. Moved up beside [[Viseli Bar|Viseli]] in the front line. **Hex** active (not previously noted as part of his kit). Used **Sentinel** to lock down an enemy trying to move. Chased a fleeing cultist — hit once, **Smited**, dropped him. Made a profession check regarding the "staging" mentioned in the incriminating notes (results unclear). **Hex + Smite** confirmed as part of his combat rotation.
 
+### [[Session 06 - Visitors Visitors]]
+Took the lead on social interaction at [[Dragonspear]]. Told the revenant sentinel: *"I am Kane. We are your visitors."* When meeting [[Bathere]]: *"We were told to bring our bodies here."* — a bluff referencing [[The Death Tyrant|Ahmendril]]'s parting words from Session 4. Asked if Bathere worked with Viggio — got a laugh and a denial. Created an **illusion of a package** to test the Magic Mouth delivery system. **Climbed the gatehouse wall** to the promenade, found the gate lever, and opened it. Held the door open during combat for ranged attacks into Bathere's room. Currently mid-combat.
+
 ---
 
 ## Background Summary

@@ -94,6 +94,11 @@ In canonical lore, the succubus Pencheska (posing as [[Lady Morwen Daggerford]])
 ## Leadership in Daggerford
 - **Samus** — Head of the Zhentarim in Daggerford. Likely the "S" who signed incriminating notes ordering [[Councilman Moore]]'s murder and authorizing the security contract. Relationship to [[General Martavis]] unclear — Samus may be above Martavis in the chain of command, or a separate authority.
 
+## The Troll Claw Hills HQ (Session 6)
+- [[Harpers]] intel (delivered to [[Viseli Bar]] via wood elf): Zhentarim are **building a new headquarters in the Troll Claw Hills** between [[Baldur's Gate]] and [[Daggerford]]
+- They are **gathering an army** — escalation beyond the Daggerford occupation
+- [[Lady Morwen Daggerford]] told the party to "stay on target" — implying she'll handle this
+
 ## Connected Plots
 - [[The Zhentarim Occupation]] - Current military presence in Daggerford
 - [[The Destabilization Strategy]] - Suspected architects of regional chaos

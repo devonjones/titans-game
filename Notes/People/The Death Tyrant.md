@@ -5,11 +5,11 @@ tags:
   - Boss
 status: Enemy
 ---
-# The Death Tyrant
+# The Death Tyrant (Ahmendril)
 
 **Role:** Unknown — apparent architect of the Dead Three ritual
 **Status:** Enemy
-**True Name:** Unknown
+**True Name:** Ahmendril (identified by [[Bathere]] in Session 6)
 
 ![[beholder_face.webp]]
 
@@ -68,3 +68,6 @@ The phrase "good timing" is ambiguous: does he mean the party's arrival was conv
 - Is [[Dragonspear]] a waypoint to Mount Hotenow, or a separate objective?
 - Who are Rofidian and Ravica? Are they "the ancient ones"?
 - Why are Dead Three cultists serving the Cult of the Dragon?
+- ~~What is his name or title?~~ **Answered:** Ahmendril (Session 6, identified by [[Bathere]])
+- What is his relationship to Bathere? Ally? Subordinate? Independent?
+- Is he still at [[Dragonspear]], or has he moved on toward Mount Hotenow with [[The Disk]]?

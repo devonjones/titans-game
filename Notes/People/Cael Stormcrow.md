@@ -72,6 +72,9 @@ Combat in the temple: cast **two 5th-level lightning bolts** — the first (ligh
 
 After the fight: asked the pointed question — *"How did no one in the town know that an entire temple of Lathander is under the house of one of the noblemen?"* Announced that the contents of Viggio's house belong to the Duchess. Radiated ominousness while the house was searched. Presented the fingers and the incriminating notes to [[Lady Morwen Daggerford]] personally.
 
+### [[Session 06 - Visitors Visitors]]
+**Calmed the wind** on approach to [[Dragonspear]] — environmental control, clearing the fog for visibility. Warned the party **not to enter Bathere's room** — tactical call that led to the doorway kill zone strategy. Cast a **lightning ball** into the room during the fight. Currently mid-combat.
+
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.
 

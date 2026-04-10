@@ -63,3 +63,4 @@ Lathander and the Dead Three are fundamentally opposed — dawn vs. death, renew
 ## Session Appearances
 - [[Session 04 - Good Timing]] — Discovered; partially explored; the death tyrant encountered and fled
 - [[Session 05 - Signed S]] — **Cleared.** Cultists killed in combat. Ritual scroll recovered (Abyssal, on vellum): sacrifice two innocents, place essence on a disk, take to **Mount Hotenow** to raise "the ancient ones." Connected to **Cult of the Dragon**; names **Rofidian** and **Ravica**. Two victims on the altar were refugees. Building above is dusty and disused — not a residence. No hidden doors in the basement.
+- [[Session 06 - Visitors Visitors]] — Party followed the trail to [[Dragonspear]], the destination [[The Death Tyrant|Ahmendril]] ordered the bodies sent to. Met [[Bathere]], lord of Dragonspear, who identified the death tyrant as **Ahmendril** and claimed no connection to [[Viggio Martel]] or the [[Zhentarim]].

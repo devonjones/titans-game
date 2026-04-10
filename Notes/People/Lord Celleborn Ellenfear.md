@@ -65,5 +65,9 @@ Investigated the murder room after [[Margeet Patel|Margeet]]'s death. **Instruct
 ### [[Session 05 - Signed S]]
 Cast **Fireball** against the enemy group near Viseli (damage unclear). Later cast another spell — gestured, nothing happened (countered? fizzled?). Finished with a **Firebolt** for 19 damage. After the fight: examined the altar bodies (drained by ritual magic), asked [[Vaelin]] to explain. **Read the ritual scroll** — translating from Abyssal: instructions to raise "the ancient ones" via sacrificing two innocents and carrying their essence on a disk to Mount Hotenow. Connected to the Cult of the Dragon. Cast **Detect Magic** and walked through the building. Called for an emergency council meeting. Proposed letting the Duchess decide what to do with the Zhentarim.
 
+### [[Session 06 - Visitors Visitors]]
+Sent **Icarus** to scout [[Dragonspear]] — reported creatures standing perfectly still. Checked the magically locked door for traps. Rolled Arcana 12 on a side door (insufficient). In combat: cast **Sickening Radiance** (DC 20 Con) in the center of [[Bathere]]'s room — devastating area denial that likely killed most enemies inside. Took **26 necrotic damage from a wraith** with **permanent HP reduction**. Session ended mid-combat while he was acting.
+
 ## Notes
+- **Permanent HP reduction** from wraith — needs Greater Restoration or similar
 - Details TBD as more is revealed in play

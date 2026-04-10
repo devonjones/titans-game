@@ -13,6 +13,7 @@ tags:
 
 ## Session Appearances
 - [[Session 04 - Good Timing]] — Named by [[The Death Tyrant]] as the destination for the altar bodies
+- [[Session 06 - Visitors Visitors]] — **Party arrived.** Castle infested with undead: skeletons, undead horses, revenants, shadows, wraiths, undead mobs. Magic Mouths suggest an active supply chain. Met [[Bathere]] (goat-headed lord, likely a fiend) who identified [[The Death Tyrant]] as **Ahmendril**. Combat in progress.
 
 ---
 
@@ -34,6 +35,9 @@ A spectral presence (reportedly Daeros Dragonspear himself) is said to haunt the
 - Controls a critical section of the Trade Way
 - The portal to Avernus makes it a target for fiend-worshippers and those seeking demonic power
 - Its ruins are extensive — underground complexes, dungeons, old temple spaces
+
+### Current Occupant
+**[[Bathere]]** — a goat-headed, winged figure who claims the castle as his own. Commands revenants, undead mobs, shadows, and wraiths. His fiendish appearance and the portal to Avernus below suggest a devil or fiend. Identified [[The Death Tyrant]] as **Ahmendril**.
 
 ### Dead Three Connection
 Given that the Dead Three (Bane, Bhaal, Myrkul) have connections to death, tyranny, and infernal power, the portal to Avernus beneath Dragonspear makes it a natural site for their operations.

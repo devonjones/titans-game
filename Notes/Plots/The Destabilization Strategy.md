@@ -98,3 +98,4 @@ If the [[Zhentarim]] are behind the chaos, they gain:
 - [[Session 03 - Through the Wall]] - Fingers may be magical components; hidden passage at Viggio's manor; [[Elaine Drago]] confirms Viggio openly manipulates other council members
 - [[Session 04 - Good Timing]] - Confirmed: fingers were ritual components; Dead Three temple under Viggio's manor; death tyrant directing operations toward [[Dragonspear]]
 - [[Session 05 - Signed S]] - Moore's murder premeditated and ordered by "S"; ritual victims are refugees; Cult of the Dragon connection revealed; Mount Hotenow as ultimate destination
+- [[Session 06 - Visitors Visitors]] - [[Harpers]] intel: Zhentarim **building a new HQ in the Troll Claw Hills** and **gathering an army**. The destabilization has entered a military buildup phase — no longer just political occupation but preparation for open force.

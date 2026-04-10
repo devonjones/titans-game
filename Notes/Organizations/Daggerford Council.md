@@ -19,8 +19,8 @@ The ruling council of Daggerford, modeled after the Masked Lords of Waterdeep. L
 |--------|-------|--------|-------|
 | **[[Viggio Martel]]** | Head of Trade | **Enemy** | Dominant force, manipulative, likely behind [[Councilman Moore]]'s murder |
 | **[[Councilman Moore]]** | Vestial Armor & Smiths | **Dead** | Lady Morwen's ally, murdered |
-| **[[Elaine Drago]]** | Glasswork & Carpet | **Ally** | Follower of Torm |
-| **[[Margeet Patel]]** | Arts & Painters | **Neutral** | Red Wizard ties, but "might be good, strangely" |
+| **[[Elaine Drago]]** | Glasswork & Carpet | **Active Ally** | Follower of Torm; corroborated evidence to the Duchess (Session 5) |
+| **[[Margeet Patel]]** | Arts & Painters | **Active Ally** | Red Wizard ties; killed & resurrected Session 4; corroborated evidence to the Duchess (Session 5) |
 | **[[Throm Ugala]]** | Leatherwork | **Neutral** | Half-orc warrior, tending toward ally |
 | **[[Maren Thane]]** | Building & Cobblestone | **Unknown** | From Dalelands, losing money, vulnerable |
 
@@ -42,16 +42,16 @@ Multiple members encountered directly at [[Viggio's Party|Viggio's party]] for t
 
 ## Political Landscape
 
-### Allies (2)
-- **[[Elaine Drago]]** - Follower of Torm; confirmed active ally (Session 3) — quietly opposes Viggio, made contact with Vaelin at the party
+### Allies (3)
+- **[[Elaine Drago]]** - Follower of Torm; fully committed ally — corroborated evidence to the Duchess (Session 5)
+- **[[Margeet Patel]]** - Red Wizard ties but now fully committed — owes the party her life (Session 4); corroborated evidence (Session 5)
 - **[[Councilman Moore]]** - Dead, murdered
 
 ### Enemies (1)
 - **[[Viggio Martel]]** - Manipulative, dominant, likely murderer
 
-### Swing Votes (3)
+### Swing Votes (2)
 - **[[Throm Ugala]]** - Warrior, trending toward ally
-- **[[Margeet Patel]]** - Red Wizard ties but possibly trustworthy
 - **[[Maren Thane]]** - Financial troubles make him vulnerable
 
 ## Connected Plots

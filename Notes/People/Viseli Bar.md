@@ -47,10 +47,18 @@ Picked up Kane and **carried him to the ballroom. Shouted "Murder!"** When Viggi
 ## Notes
 - Works well with [[Kane]] in tactical situations (flanking, back door coverage)
 - Comfortable challenging authority directly — arm-wrestling a Zhent commander without hesitation
-- **Cloak of Tranquility:** Advantage on INT/WIS/CHA saves; can expend Rage to auto-succeed; advantage on Stealth; when Rage activates can grow one size category (+1d6 damage, scales to 2d6 at 11, 3d6 at 16)
+- **Cloak of Tranquility:** (GM reminded Sierra to study up on it in Session 6)
+  - Advantage on INT, WIS, and CHA saving throws
+  - If you would fail an INT, WIS, or CHA saving throw, you can expend a use of Rage to succeed instead
+  - Advantage on Stealth checks
+  - When you activate Rage, you may choose to also grow 1 size category. If you do, all weapon and unarmed attacks deal an additional 1d6 damage (2d6 at level 11, 3d6 at level 16)
 - Took 33 necrotic solo against an invisible attacker and drove it off — significant
 ### [[Session 05 - Signed S]]
 Front-line tank for the temple fight. Raged immediately and charged in. Gained 14 temp HP from rage, plus recurring temp HP from [[Vaelin]]'s Twilight Sanctuary (14/round). Took massive punishment: **15 force damage** (Rage doesn't reduce force), **20 damage (10 after Rage)**, **21 damage (~10 after Rage)**, **22 damage (11 after Rage)** — cumulative beating but stayed up the entire fight. Jumped over [[Kane]] to attack a closer target for 12 damage. The cultists brought **force damage** specifically — a deliberate counter to her Rage reduction.
 
+### [[Session 06 - Visitors Visitors]]
+Received **Harper intel** via a wood elf messenger — first indication of a direct [[Harpers]] connection independent of [[Kane]]. Reported the Zhentarim army buildup in the Troll Claw Hills to the party over breakfast. At [[Dragonspear]]: scouted the stables (found undead horse), whiffed twice in combat against [[Bathere]]'s forces. Took heavy damage from the undead mob: **27 slashing + 30 necrotic**, plus **16 necrotic** from a revenant. Currently mid-combat under serious pressure.
+
 ## Notes
+- **Harper connection confirmed** — intel delivered to Viseli specifically, not Kane
 - Details TBD as more is revealed in play

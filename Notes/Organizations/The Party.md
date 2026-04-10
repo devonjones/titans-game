@@ -66,3 +66,18 @@ tags:
 
 ### [[Session 01 - Dead Men's Fingers]]
 All five members arrived in Daggerford responding to [[Lady Morwen Daggerford]]'s coded invitation. Met [[Viggio Martel]] at the tavern. Briefed by Lady Morwen on the dire situation. Elevated to Ducal Guard status, reporting to [[Captain Hidar]]. Investigated [[Councilman Moore]]'s murder at the morgue; [[Vaelin]] cast Speak with Dead.
+
+### [[Session 02 - Riverdale]]
+Cleared bandits from [[Riverdale]]; interrogated prisoners; discovered [[General Martavis]] and 100 Zhent cavalry had already hit the bandit camp. Recovered taxes. Kane noticed [[Martavis's Emblem]].
+
+### [[Session 03 - Through the Wall]]
+Locate Object confirmed fingers at [[Viggio Martel]]'s manor. Attended Viggio's party; made contact with [[Elaine Drago]]; discovered secret passage. Kane found wet footprints walking through a wall.
+
+### [[Session 04 - Good Timing]]
+Kane stabbed by [[The Assassin]] (73 hp). [[Margeet Patel]] killed and resurrected. Fingers recovered. Viggio formally accused and fled. Descended into the [[The Dead Three Temple|Dead Three temple]]. Encountered [[The Death Tyrant]] (now known as Ahmendril). Witnessed [[The Disk]] and the order to bring bodies to [[Dragonspear]].
+
+### [[Session 05 - Signed S]]
+Cleared the temple in combat. Recovered ritual scroll (Abyssal): sacrifice innocents, essence on disk, take to Mount Hotenow, raise "the ancient ones." Connected to Cult of the Dragon. Found incriminating notes signed "S" ([[Samus]]). Presented all evidence to [[Lady Morwen Daggerford]].
+
+### [[Session 06 - Visitors Visitors]]
+Received Harper intel on Zhent army buildup. Rode south to [[Dragonspear]]. Castle infested with undead. Met [[Bathere]] (goat-headed lord, likely a fiend) who identified the death tyrant as **Ahmendril**. Combat in progress — session ended mid-fight.

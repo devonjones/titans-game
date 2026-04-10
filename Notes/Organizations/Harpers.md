@@ -25,8 +25,12 @@ A semi-secret organization dedicated to preserving historical lore, maintaining 
 ### [[Session 01 - Dead Men's Fingers]]
 Not directly mentioned, but [[Kane]]'s Harper connections and intelligence network are relevant to the party's mission.
 
+### [[Session 06 - Visitors Visitors]]
+A **wood elf** delivered Harper intel directly to [[Viseli Bar]] (not [[Kane]]): the [[Zhentarim]] are building a new headquarters in the **Troll Claw Hills** (between [[Baldur's Gate]] and [[Daggerford]]) and gathering an army. First confirmation that Viseli has her own Harper connection.
+
 ## Party Members
 - **[[Kane]]** - Agent
+- **[[Viseli Bar]]** - Has a direct Harper connection (Session 6 — intel delivered to her specifically via wood elf messenger)
 
 ---
 

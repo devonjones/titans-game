@@ -73,5 +73,8 @@ After the fight: went to collect [[Elaine Drago]] and [[Margeet Patel]] from out
 
 **Twilight Cleric** domain now confirmed.
 
+### [[Session 06 - Visitors Visitors]]
+Gave the entire party **Darkvision (300 feet)** on approach to [[Dragonspear]]. Found a **pile of bodies** (mostly human, dead a long time) in the gatehouse. In combat against [[Bathere]]'s forces: **Spirit Guardians** and **Spiritual Weapon** active, dealt 6 damage. Currently mid-combat.
+
 ## Notes
 - Details TBD as more is revealed in play
