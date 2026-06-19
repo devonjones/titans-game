@@ -106,13 +106,23 @@ The disk [[The Death Tyrant]] took in [[Session 04 - Good Timing|Session 4]] —
 
 ### The Notes
 - Searching upstairs, the party finds **hand-written notes** in a separate bag
-- Contents include:
-  - **Martavis's guest list**
-  - **Contract for Zhentarim guards**
-  - *"If the smith is a problem, then deal with it."*
-  - Other incriminating material (note-taking couldn't keep up)
-  - The smith ([[Councilman Moore]], Vestial Armor & Smiths) was **staged before the contract was signed**
-- **Both notes signed with an "S"**
+- Contents include **Martavis's guest list**, a **contract for Zhentarim guards**, and two handwritten notes signed "S"
+- The smith ([[Councilman Moore]], Vestial Armor & Smiths) was **staged before the contract was signed** — premeditated
+
+**Note 1 (from S to Viggio):**
+> *I've sent General Martavis to stage there. Convince the council to sign a contract for hired guards. Sow unrest as needed to justify it. Also, expect guests. Use Martavis as needed to control things there.*
+
+**Note 2 (from S to Viggio):**
+> *If the smith is a problem then deal with it. Why are you even bothering me with this? You need to move things along, other events will not wait for you. Get it done Viggio.*
+
+**Key takeaways:**
+- **Samus sent Martavis** — Martavis reports to Samus, not the council
+- **Viggio was Samus's agent** on the council — instructed to manipulate the council into signing the Zhent contract
+- **"Sow unrest as needed"** — confirms the destabilization was deliberate and ordered
+- **"Expect guests"** — Samus knew someone was coming. Us? Or someone else?
+- **Viggio could "use Martavis"** — Viggio had operational authority over the general
+- **"Other events will not wait"** — Samus is running a larger operation with a timeline. Daggerford is one piece
+- **The dismissive tone** — Viggio is a subordinate being managed, not a partner
 
 ---
 
@@ -177,6 +187,14 @@ Guards at the gate. [[Captain Hidar]] is at the Duchess's side with three guards
 - Include the contract itself and Martavis's guest/operational documents
 - **Physical proof** linking the Zhentarim leadership to the murders and the occupation
 
+### The Chain of Command (Confirmed)
+The notes reveal the hierarchy: **Samus → Viggio / Martavis**
+- Samus **sent** Martavis to Daggerford — Martavis is Samus's asset, not the council's
+- Viggio was Samus's operative on the council — tasked with manipulating the council into signing the Zhent contract and sowing unrest to justify it
+- Viggio had authority to **use Martavis** as needed — Viggio outranked the general operationally
+- Samus is running **"other events"** on a timeline — Daggerford is one piece of a larger play
+- The dismissive tone toward Viggio confirms Viggio was a subordinate, not a partner
+
 ### The Victims
 - The two sacrificed bodies on the altar **look like refugees**
 - The council members don't recognize them
@@ -202,7 +220,7 @@ Guards at the gate. [[Captain Hidar]] is at the Duchess's side with three guards
 1. Who are **Rofidian** and **Ravica**?
 2. What are "**the ancient ones**" that the ritual raises?
 3. Why are Dead Three cultists working toward a Cult of the Dragon goal?
-4. Is **Samus** = [[General Martavis]], or is Samus a separate figure?
+4. ~~Is **Samus** = [[General Martavis]], or is Samus a separate figure?~~ **Answered:** Samus sent Martavis — they are separate people. Samus is above both Martavis and Viggio
 5. Where is [[Viggio Martel]] now? Will Locate Creature find him in the morning?
 6. Is [[The Death Tyrant]] heading to Mount Hotenow, or to [[Dragonspear]] first?
 7. Were the refugee victims specifically selected, or taken at random?

@@ -1,0 +1,13 @@
+Encounter,Name,Quantity,Value,Sale Value,Who's got it
+Dragonspear,Goat Head Mask,1,,0,
+Dragonspear,Staff of the Dead,1,,0.5,
+Dragonspear,Bracers of Armor,1,1500,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:armor-1-2-3"",""+1 Plate Armor"")",1,1500,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:armor-1-2-3"",""+1 Leather Armor"")",1,1500,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:weapon-1-2-3"",""+1 Longsword"")",1,300,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:weapon-1-2-3"",""+1 Shortbow"")",1,300,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:weapon-1-2-3"",""+1 Greatsword"")",1,300,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:weapon-1-2-3"",""+1 Rapier"")",1,300,0.5,
+Dragonspear,"=HYPERLINK(""https://dnd5e.wikidot.com/wondrous-items:bag-of-holding"",""Bag of Holding"")",1,400,0.5,
+Dragonspear,Wand of Create Food and Water (1/day),1,,0.5,
+Dragonspear,The Apotheosis Codex (Spellbook),1,,0.5,

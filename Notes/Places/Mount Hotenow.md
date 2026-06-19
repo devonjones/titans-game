@@ -30,3 +30,6 @@ This is a long way from [[Daggerford]] — the party would need to travel the le
 
 ## Session Appearances
 - [[Session 05 - Signed S]] — Named in the ritual scroll as the final destination
+
+### [[Session 11 - When the World Burns]]
+**[[Cael Stormcrow|Stormcrow]] proposed tossing [[The Goat Head Mask|the goat-head Mask]] into Mount Hotenow's volcano** when [[Laeral Silverhand|Silverhand]] revealed she couldn't destroy it (the Mask is probably a phylactery). The mountain is already on the party's itinerary as the destination of [[Ahmendril]]'s ritual -- the two trips can potentially be combined. **Risk:** going to Mount Hotenow with the Mask risks delivering it to Ahmendril if he's already there or arrives at the same time.

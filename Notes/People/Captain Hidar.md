@@ -31,6 +31,9 @@ Provided intel on the bandit occupation of [[Riverdale]] - a villager escaped an
 ### [[Session 05 - Signed S]]
 When he learned Viggio had escaped, **went back to guard [[Lady Morwen Daggerford]] personally.** Sent Sgt. [[Bertram]] with City Guard troops to secure Viggio's manor. Present at the Duchess's side with three guards when the party arrived to report. Received the full briefing alongside the Duchess.
 
+### [[Session 08 - Running the Gauntlet]]
+Greeted the party at the castle when they arrived in [[Daggerford]]. Led them inside to [[Lady Morwen Daggerford|the Duchess]]. Present during the escape planning. His current status is unclear -- he may have stayed behind in Daggerford when the Duchess fled.
+
 ## Notes
 - Plays his cards close; unclear what he knows or is planning
 - May have something in the works against the Zhentarim

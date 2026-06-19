@@ -59,6 +59,24 @@ Front-line tank for the temple fight. Raged immediately and charged in. Gained 1
 ### [[Session 06 - Visitors Visitors]]
 Received **Harper intel** via a wood elf messenger — first indication of a direct [[Harpers]] connection independent of [[Kane]]. Reported the Zhentarim army buildup in the Troll Claw Hills to the party over breakfast. At [[Dragonspear]]: scouted the stables (found undead horse), whiffed twice in combat against [[Bathere]]'s forces. Took heavy damage from the undead mob: **27 slashing + 30 necrotic**, plus **16 necrotic** from a revenant. Currently mid-combat under serious pressure.
 
+### [[Session 07 - The Door of the Dead]]
+Stayed in the fight raging the whole way. Ate **14 damage from a revenant** (absorbed by temp HP, made the Wisdom save). **Crit for 26** on the revenant that was chewing on Storm, then hit again — ravaged it for Kane to finish. When [[Bathere]] and [[The Aspirant]] teleported through the Wall of Force, **Viseli jumped down and sprinted through the Storm Sphere**, eating the lightning to reach the Death Knight faster. **Shoved the winged goathead out of the way** so she could close with the Aspirant.
+
+Continues to absorb damage the rest of the party can't — the force-damage-proofing and the Cloak of Tranquility make her the doorway of last resort. Killed the undead horse with the party on the way out.
+
+### [[Session 08 - Running the Gauntlet]]
+Spotted the figure "leaning" against a tree on the road -- turned out to be [[Viggio Martel|Viggio]], pinned to it and dead. In the cavalry battle: **ripped a man's head off and threw the pieces at the next line of enemies.** Classic Viseli.
+
+### [[Session 09 - The Wolf and the Phoenix]]
+Held action until enemies closed to melee range. Threw darts, raged. **15 damage on the dire troll.** Took a beating: 10 initial, then the dire troll hit her **5 times** (16, 16, 16, 16, 15 = 40 after Rage), plus troll hits for 11 more after Rage. **25 damage on the boss**, tried to intimidate (failed). Later killed bad guys and successfully intimidated others into looking ready to run -- **one surrendered** (Martavis's men killed him anyway).
+
+### [[Session 10 - Many Zanithars]]
+**Has new bracers** (acquired between sessions, likely from Dragonspear loot). During the night attack at [[Ellenfear Manor]]: heard a cry of pain from the next room, ran in, grappled a stranger and kicked them in the dark. Took **20 damage** from a bolt of purple energy out of nowhere, then **28 damage** from a knife in the back. Attacked back -- whiffed multiple times, then connected for 17 damage as the attacker withdrew and jumped out the window.
+
+### [[Session 11 - When the World Burns]]
+Moved with the party to the castle for the long rest. During the dragon attack: helped muster on the roof; engaged at the main gate when it fell. Survived through to the Tarrasque arrival and the keystone discovery.
+
 ## Notes
 - **Harper connection confirmed** — intel delivered to Viseli specifically, not Kane
+- Willing to take tick damage from allies' AOE to reposition — aggressive and fearless
 - Details TBD as more is revealed in play

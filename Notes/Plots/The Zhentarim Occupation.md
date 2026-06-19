@@ -32,8 +32,15 @@ The [[Zhentarim]] have established a significant military presence in [[Daggerfo
 - [[General Martavis]] disputed ownership of recovered taxes (Session 2)
 - Zhents maintaining order effectively - soup kitchens, patrols (Session 2)
 
-## Chain of Command (Session 2 Theory)
-We believe [[General Martavis]]'s orders come from the [[Daggerford Council]] - the people who hired the [[Zhentarim]]. The corrupt council members (especially [[Viggio Martel]]) are directing Zhent operations through the security contract.
+## Chain of Command (Corrected, Session 9)
+
+### Enemy Hierarchy
+**Ahmendril → Samus → Viggio / General Marcus**
+
+Samus tasked Viggio with manipulating the council and "sent" Martavis -- but Martavis was a **Harper plant** the whole time, reporting to the Harpers rather than Samus. Viggio's true mission was to **replace the Duchess**. General Marcus commanded the Wolf army (killed Session 8). Samus is running "other events" on a timeline -- Daggerford is one piece of Ahmendril's larger operation.
+
+### Allied Infiltrator
+**[[General Martavis]]** -- Harper agent. Commands Phoenix faction. Samus believed he controlled Martavis, but Martavis was never in the enemy chain of command.
 
 ## Power Structure
 | Council Member | Allegiance |
@@ -73,3 +80,8 @@ We believe [[General Martavis]]'s orders come from the [[Daggerford Council]] - 
 - [[Session 02 - Riverdale]] - Zhents recovered taxes with suspicious speed; disputed ownership; maintaining public order
 - [[Session 03 - Through the Wall]] - **Grey Wolf faction** (Commander [[Bennet]]) guards [[Viggio Martel]]'s manor personally. Phoenix tattoo confirmed as Zhentarim membership mark. Grey Wolves appear distinct from [[General Martavis]]'s general forces — dedicated to protecting Viggio specifically.
 - [[Session 05 - Signed S]] - **Samus** identified as head of the Zhentarim in Daggerford. Incriminating notes signed "S" recovered: Martavis guest list, Zhent guard contract, order to deal with [[Councilman Moore]]. Moore staged before the contract was signed — premeditated. Strategy discussed: fabricate an emergency to split Zhent forces. Duchess's City Guard (Sgt. Bertram) secured Viggio's manor. Zhent captain notified his duties at the manor are done.
+- [[Session 07 - The Door of the Dead]] - **Zhent arc confirmed parallel to Ahmendril arc, not coupled.** [[Bathere]]'s research and discoveries at [[Dragonspear]] contained no Zhent materials or correspondence. Bathere explicitly had "no use for the Zhentarim." The Daggerford occupation and the [[Dracolich Research|Ahmendril transformation arc]] are two separate operations that happen to overlap geographically.
+- [[Session 08 - Running the Gauntlet]] - Martavis locked down Daggerford then moved forces North. Party fought through 50 Wolf cavalry. Viggio found dead on a tree. *Recontextualized in Session 9: Martavis was positioning against the Wolves, not suppressing the Duchess.*
+- [[Session 09 - The Wolf and the Phoenix]] - **THE TWIST.** Martavis is a **Harper agent**. The Zhents are split: Phoenix (Martavis, allied) vs Wolf (Samus/Ahmendril, enemy). Wolf army destroyed at the ford. Martavis killed Viggio (whose mission was to replace the Duchess). **Ahmendril is Samus's superior** -- the Death Tyrant runs both the Zhent operation and the lich arc. Martavis heading to Troll Claw Hills. Waterdeep accessible but will be under siege.
+- [[Session 10 - Many Zanithars]] - **[[General Martavis|Martavis]] riding to confront [[Samus]]** at the [[Troll Claw Hills]] HQ; **asked the party for backup**. Duchess delivered to [[Waterdeep]]. [[Laeral Silverhand|Silverhand]] reveals [[Ahmendril]] is a **"[[Zanithar]]"** -- a recurring role, not a unique individual. The Zhent occupation is one front of a much larger, much older conspiracy connected to the **[[The Dragoncult Wars|Dragoncult Wars]]**. The two-arc framing from Session 7 (Zhent vs lich) is now confirmed as parallel by [[Bathere]]'s ignorance of Ahmendril -- but unified at the very top by the Zanithar mantle. Recontextualization: ~~"Ahmendril is pursuing his own lich/dracolich transformation"~~ replaced by **"Ahmendril is reviving two ancient dragons"** (see [[The Disk]] for the two-disc revelation). [[The Pencheska Conspiracy]] confirmed active in [[Waterdeep]] -- night attack on the party at [[Ellenfear Manor]].
+- [[Session 11 - When the World Burns]] -- **The siege of [[Waterdeep]] dramatically escalated.** Besieging Wolf army ramped up for attack; **two dragons attacked the city** the same night, then **the Tarrasque scattered the army** on its way out of the city wall. Status of the army afterward unclear -- broken, dispersed, or rallying. [[General Martavis|Martavis]]'s [[Troll Claw Hills]] mission still pending committee approval before the party can join.

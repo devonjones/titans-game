@@ -18,7 +18,7 @@ A town east of [[Daggerford]] along the [[Delimbiyr River]]. Recently occupied b
 
 ### People
 - **[[Merron]]:** Bandit leader, camp a mile north of town
-- **[[Talkative Bandit]]:** One of the bandits captured here
+- **[[Roderick]]:** The cooperative bandit captured here (a.k.a. "the talkative one")
 - **[[General Martavis]]:** Led the Zhentarim force that cleared the bandit camp
 
 ### Organizations

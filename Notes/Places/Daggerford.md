@@ -49,6 +49,9 @@ Party arrived responding to [[Lady Morwen Daggerford]]'s coded invitation. Town 
 ### [[Session 02 - Riverdale]]
 Party slept at the manor, found Ducal Guard tabards waiting. Morning briefing with the Duchess. Observed the town looking more orderly - [[Zhentarim]] maintaining order effectively, soup kitchens operating (likely [[General Martavis]]'s doing). Departed east toward [[Riverdale]]. Returned with [[General Martavis]] and the recovered tax chest, which was delivered to the Ducal Palace.
 
+### [[Session 08 - Running the Gauntlet]]
+**Locked down** by [[Zhentarim]] Phoenix faction. [[General Martavis|Martavis]] declared the agreement with [[Lady Morwen Daggerford|the Duchess]] no longer in effect. Party entered through the gates (the guards let them in after conferring). Executed [[Lady Morwen's Escape]] -- the Duchess fled through a storm drain in the NW corner of the castle yard. The council and seneschal stayed behind. Overnight, the **Zhentarim abandoned Daggerford**, heading North toward [[Waterdeep]]. Current status of the town without Zhent forces or the Duchess is unknown.
+
 ---
 
 ## Forgotten Realms Lore

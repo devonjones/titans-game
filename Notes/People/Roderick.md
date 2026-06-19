@@ -4,6 +4,8 @@ tags:
   - Bandit
   - Riverdale
 status: Captured
+aliases:
+  - Talkative Bandit
 ---
 # Roderick
 **Role:** Bandit (captured)

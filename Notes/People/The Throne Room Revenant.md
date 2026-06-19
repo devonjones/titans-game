@@ -3,15 +3,16 @@ tags:
   - NPC
   - Dragonspear
   - Undead
-status: Unknown
+  - Dead
+status: Dead
 ---
 # The Throne Room Revenant
 
 ![[revenant.webp]]
 
 **Role:** Sentinel at [[Bathere]]'s throne room
-**Status:** Unknown — left behind when the party went upstairs
-**Type:** Revenant (probable)
+**Status:** **Dead** — killed during the [[Session 07 - The Door of the Dead|Session 7]] cleanup. She was one of the two revenants fought during the throne room battle.
+**Type:** Revenant
 
 ## Overview
 A girlish undead figure standing beside [[Bathere]]'s throne in the reception room of [[Dragonspear]] Castle. Spoke with the party and directed them upstairs. Has a distinct personality — answered Kane's question with attitude rather than hostility.
@@ -33,3 +34,4 @@ A girlish undead figure standing beside [[Bathere]]'s throne in the reception ro
 
 ## Session Appearances
 - [[Session 06 - Visitors Visitors]] — Encountered in the throne room; directed the party to Bathere
+- [[Session 07 - The Door of the Dead]] — **Killed** during the throne room battle. Took damage from [[Cael Stormcrow|Stormcrow]]'s Storm Sphere, a 26-damage crit from [[Viseli Bar|Viseli]], and a finishing Smite from [[Kane]]

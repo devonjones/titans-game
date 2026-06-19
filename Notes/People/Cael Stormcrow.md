@@ -12,8 +12,8 @@ status: Active
 
 **Player:** Devon
 **Race:** Variant Human (Moonshae Ffolk)
-**Class:** Storm Sorcerer 8 / Tempest Cleric 2
-**Level:** 10
+**Class:** Storm Sorcerer 10 / Tempest Cleric 2
+**Level:** 12
 **Alignment:** Lawful Neutral
 
 ## Affiliations
@@ -74,6 +74,35 @@ After the fight: asked the pointed question — *"How did no one in the town kno
 
 ### [[Session 06 - Visitors Visitors]]
 **Calmed the wind** on approach to [[Dragonspear]] — environmental control, clearing the fog for visibility. Warned the party **not to enter Bathere's room** — tactical call that led to the doorway kill zone strategy. Cast a **lightning ball** into the room during the fight. Currently mid-combat.
+
+### [[Session 07 - The Door of the Dead]]
+Cast **Storm Sphere** into the throne room — the kill zone chewed up shadows, wraiths, and zombies for the rest of the fight. Took a **28-damage hit from a revenant**, failed the save, then used the Storm Sphere's reaction to punish it back (11 bludgeoning + 11 more). **5-foot-stepped clear** to stay positioned.
+
+Killed the revenant with a 21-damage hit. When [[Bathere]] teleported through the Wall of Force with [[The Aspirant]], Storm shifted toward [[Vaelin]] for the aura and **Lightning Bolted the winged goathead for 27** — bloodied him.
+
+Delivered the **killing blow on Bathere: Lightning Ball for 29.** The zombies all died with him. Storm then rode the cleanup while waves of undead self-destructed on the sphere and aura.
+
+Searched the castle afterward. Present for the discovery of the **dead dragon in the cellars**, the **[[The Avernus Portal|sealed Avernus portal]]**, the **fountain relic** that keeps it closed, and **[[Bathere]]'s dracolich research notes**. **Leveled to 11** (Sorcerer 9 / Cleric 2).
+
+Killed the undead horse on the way out.
+
+### [[Session 08 - Running the Gauntlet]]
+Cast **Fog Cloud** around the Tiny Hut overnight and again in the morning to cover the party from a circling familiar. In the cavalry battle outside [[Waterdeep]]: opened with **Storm Sphere**, then cast **Lightning Ball -- three dead.** Continued to operate the Storm Sphere throughout the engagement. The party carved through 50 cavalry and killed the lieutenant plus another 10 before breaking off.
+
+### [[Session 09 - The Wolf and the Phoenix]]
+Somehow knew the Wolf Zhents were ahead and Phoenix behind. Cast **Fog Cloud** as an opener. **Lightning Cube** killed piles of bad guys and bloodied 2 trolls, then retreated into the fog. **Fireballed the troll bodies** after the fight to prevent regeneration.
+
+### [[Session 10 - Many Zanithars]]
+Arrived in [[Waterdeep]] with the party. Present for the council meeting and [[Vaelin]]'s briefing to [[Laeral Silverhand|Silverhand]]. (Still Sorcerer 9 / Cleric 2 / Level 11 during these events; the level-up to 12 happens at the end of [[Session 11 - When the World Burns|Session 11]].)
+
+**Stayed at [[Ellenfear Manor]] overnight. Nearly killed by Pencheska assassins.** Took a 28-damage stab in his room; pushed the attacker, Lightning-bolted the spot where he detected a figure; tried to retreat and was hit by an attack of opportunity for 28 more, **rolled poison save and FAILED -- gained the POISONED condition**, then took 14 + 18 more, **went down**. While unconscious, was stabbed again -- the hit auto-failed one death save and his active roll at disadvantage failed a second. **Two failed death saves; one more and he was dead.** The attacker retreated. **[[Kane]] healed him for 10 hp, bringing him back conscious.** The closest call of the campaign so far.
+
+### [[Session 11 - When the World Burns]]
+**Poison condition wore off** after a rest at the castle. Quiet day -- recovering and shopping. **Proposed tossing [[The Goat Head Mask|the helmet]] in a volcano** when [[Laeral Silverhand|Silverhand]] revealed she couldn't destroy it -- and that it might be a phylactery. ([[Mount Hotenow]] is convenient -- it's already on the itinerary if we're pursuing [[Ahmendril]].)
+
+During the night dragon attack: rushed to arms; went to the roof with the party. **Engaged at the main gate when it fell** -- cast **Storm Sphere** and turned the battle in that area. Then witnessed the **Tarrasque emerge from the sea**, kill the black dragon, and crash through the city wall pursuing the second. After the chaos, present for the discovery of [[The Stolen Keystone|the missing castle keystone arch]].
+
+**Party leveled to 12 together at session end** -- Cael is now Sorcerer 10 / Cleric 2. New: Thunderclap cantrip, Synaptic Static spell (GM ruling: treated as lightning), Empowered Spell metamagic.
 
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.

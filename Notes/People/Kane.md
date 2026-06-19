@@ -70,6 +70,27 @@ Before descending to the temple: **healed himself. Thoroughly.** Good call.  Wit
 ### [[Session 06 - Visitors Visitors]]
 Took the lead on social interaction at [[Dragonspear]]. Told the revenant sentinel: *"I am Kane. We are your visitors."* When meeting [[Bathere]]: *"We were told to bring our bodies here."* — a bluff referencing [[The Death Tyrant|Ahmendril]]'s parting words from Session 4. Asked if Bathere worked with Viggio — got a laugh and a denial. Created an **illusion of a package** to test the Magic Mouth delivery system. **Climbed the gatehouse wall** to the promenade, found the gate lever, and opened it. Held the door open during combat for ranged attacks into Bathere's room. Currently mid-combat.
 
+### [[Session 07 - The Door of the Dead]]
+**Burst damage DPS on the revenant** — Stormblade for 17 + Booming Blade rider for 16. Cast **Shield** against an incoming flying wraith. **Killed the revenant: "Smite, motherfucker."** Installed Booming Blade on the wraith on his way through.
+
+When the Death Knight teleported into the room with Bathere, Kane **acrobatics'd behind the Aspirant** — put him in a flank (GM didn't care). Miss, miss, hit for **Booming Blade + Hex = 19**, then **Smite for 7 radiant.** The Death Knight dropped — finished by a Spirit Guardian on the way down. Immediately **transferred his Hexblade Curse to the mage (Bathere)**, setting up Storm's killing Lightning Ball.
+
+**After the fight:** used **Divine Sense on the Goat Head Mask.** Confirmed: **evil.** The party deferred the question of what to do with it.
+
+### [[Session 08 - Running the Gauntlet]]
+Encountered his old military friend **[[Ono]]** on the road to [[Daggerford]]. Spotted recent blood on the road three-quarters of the way there. Took up overwatch position outside the Tiny Hut during the overnight camp. In the cavalry battle: **smited a guy, killed him, then hit another.** After the fight, looked up and **recognized [[General Martavis]] on the hilltop** -- ~~confirmed that Martavis was a commander on the enemy side during the Thayan civil war~~ *see Session 9 for the real story.*
+
+### [[Session 09 - The Wolf and the Phoenix]]
+Accepted the owl note from Martavis, checked it for traps. Asked Martavis *"What about Thorn's Gap?"* after the battle -- Martavis said he was right where he wanted to be. Took **36 fire damage** from an enemy spell. In combat: Hex for 20, Hex again for 23, then 23 on a troll. Had a **Mirror Image** poofed by a troll hit. **[[General Martavis]] showed him his Harper pin** -- a fellow Harper. Kane's identification of the Thayan war emblem was correct but his interpretation was wrong: it wasn't a necromancer command unit, it was a **Harper infiltration team.**
+
+### [[Session 10 - Many Zanithars]]
+*Peter is back at the table -- healing fast from an illness.* Active **Divine Sense** in the [[Waterdeep]] council chamber while [[Vaelin]] briefed [[Laeral Silverhand|Silverhand]].
+
+**Saved [[Cael Stormcrow|Cael]]'s life during the night attack at [[Ellenfear Manor]].** Charged into the hallway when the assassins hit; glaive + Hex + Booming Blade rotation; was attacked by force damage but [[Lord Celleborn Ellenfear|Celleborn]] counterspelled before it landed. **Healed Stormcrow for 10 hp** after Cael had gone down and failed a death save at disadvantage -- brought him back from the brink. Cleared Cael's room after the attackers withdrew: empty.
+
+### [[Session 11 - When the World Burns]]
+Made the rounds during the day -- **checking in with his Harper / [[Moonwhisper Caravan|caravan-folk]] / [[The Ashen Spears]] contacts** in [[Waterdeep]]. During the night dragon attack: cast **Mirror Image** during muster, went to the roof with the party. On the roof saw the giant dragon breathing fire. Engaged at the main gate alongside the party when it fell. Present for the Tarrasque arrival and the discovery of [[The Stolen Keystone|the missing keystone arch]].
+
 ---
 
 ## Background Summary
@@ -272,7 +293,7 @@ He has no idea what's coming.
 
 ---
 
-## Current Status (Age 160, Level 10)
+## Current Status (Age 160, Level 11)
 
 | | |
 |---|---|

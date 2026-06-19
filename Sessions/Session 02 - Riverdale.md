@@ -101,7 +101,7 @@ session: 2
 - **Who is Merron working for?** No clear answer. Just himself, apparently.
 - [[Vaelin]] heals the bandit's hand
 - *"You are at a crossroads. You get to decide what to do next."*
-- Bandit ([[Talkative Bandit|the talkative one]]): *"Being poor brought me here. War put us out of a job. Oh my god, you're Stormcrow."*
+- Bandit ([[Roderick|the talkative one]]): *"Being poor brought me here. War put us out of a job. Oh my god, you're Stormcrow."*
 
 ### Disposition of Prisoners
 - Discussion about what to do with captured bandits
@@ -132,7 +132,7 @@ session: 2
 ### Recovering the Prisoners
 - Party splits: Stormcrow and [[Vaelin]] go to recover the bandits from the tavern
 - Two of the three bandits are dead - justice for the smith's widow
-- The [[Talkative Bandit|surviving one]] is the cooperative bandit we'd been interrogating
+- The [[Roderick|surviving one]] is the cooperative bandit we'd been interrogating
 - Take him with us; he sasses us, we sass him back
 
 ### Kane Interviews the General

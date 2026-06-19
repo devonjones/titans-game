@@ -3,16 +3,16 @@ tags:
   - NPC
   - Daggerford
   - Council
-status: Enemy
+status: Dead
 ---
 # Viggio Martel
 
-**Role:** Council Member, Head of Trade
-**Status:** Enemy
+**Role:** Council Member, Head of Trade (former)
+**Status:** Dead
 
 ## Affiliations
 - **[[Daggerford Council]]:** Member, Head of Trade - dominant force
-- **[[Zhentarim]]:** Likely allied; benefits from and enables their presence
+- **[[Zhentarim]]:** **Samus's operative** on the council. Notes confirm he was tasked with convincing the council to sign the Zhent contract and sowing unrest to justify it. Had operational authority over [[General Martavis]]. Subordinate to Samus, not a partner
 
 ## Overview
 Dominant force on the Daggerford council. Manipulative. Kane says he's part of the corruption in town.
@@ -46,20 +46,28 @@ Walked back into the building after [[Margeet Patel|Margeet]]'s murder — suspi
 
 **Viggio's current whereabouts: unknown.** Escaped via unknown means. A second secret door opened to stairs leading to the basement — possibly Viggio triggered it while fleeing, or knows the mechanism.
 
+### [[Session 05 - Signed S]]
+Not present — still at large. The house search revealed his manor is **not a residence** — dusty, disused, with bedrolls and clothes suggesting temporary occupation. Incriminating notes found in the building signed "S" (likely **Samus**, head of Zhentarim in Daggerford) — including orders regarding Moore and the Zhent guard contract. Duchess's City Guard secured the manor. [[Vaelin]] plans to cast **Locate Creature** on Viggio in the morning.
+
+### [[Session 08 - Running the Gauntlet]]
+**Found dead.** Pinned to a tree on the road outside [[Daggerford]], about three-quarters of the way toward town. [[Viseli Bar|Viseli]] spotted the body first; [[Vaelin]] realized it was pinned, not leaning. The party identified it as Viggio. Body retrieved and stored in the **Bag of Holding**. Speak with Dead attempted -- Viggio was uncooperative even in death: *"Why should I help you?"*
+
+**[[General Martavis]] killed him** (revealed Session 9). Martavis left the body pinned to a tree as a "gift" to the party. Viggio's true mission was to **replace the Duchess** -- confirming the Pencheska conspiracy. Martavis, a Harper agent, eliminated him as part of his counter-operation
+
 ## Connected Plots
 - [[The Dead Men's Fingers]] - Primary suspect in the murders
 - [[The Zhentarim Occupation]] - Council collaborator enabling Zhent takeover
 - [[Viggio's Party]] - His invitation to the party tomorrow
 - [[The Destabilization Strategy]] - Beneficiary of the manufactured crisis
 
-### [[Session 05 - Signed S]]
-Not present — still at large. The house search revealed his manor is **not a residence** — dusty, disused, with bedrolls and clothes suggesting temporary occupation. Incriminating notes found in the building signed "S" (likely **Samus**, head of Zhentarim in Daggerford) — including orders regarding Moore and the Zhent guard contract. Duchess's City Guard secured the manor. [[Vaelin]] plans to cast **Locate Creature** on Viggio in the morning.
-
 ## Notes
-- Primary suspect in Moore's murder — now **formally accused** by Celleborn in public
+- Primary suspect in Moore's murder — **formally accused** by Celleborn in public
 - Kane immediately identified him as corrupt
-- Kept the missing fingers in a chest in a secret room — likely ritual components for the [[The Dead Three Temple|Dead Three temple]] beneath his manor
+- Kept the missing fingers in a chest in a secret room — ritual components for the [[The Dead Three Temple|Dead Three temple]] beneath his manor
 - Slipped away mid-party (Session 3); walked back in (Session 4); vanished again during the investigation
-- **Current status: at large.** Hidar notified; arrest warrant effectively issued
-- How deep is his involvement with [[The Death Tyrant]]? Servant? Partner? Patsy?
 - His manor is not a true residence — more of an operational base
+- **Dead as of Session 8.** Found pinned to a tree outside Daggerford. Killer unknown. Body in Bag of Holding
+- Speak with Dead refused to cooperate — *"Why should I help you?"*
+- His true mission was to **replace the Duchess** (Pencheska conspiracy) -- revealed by [[General Martavis|Martavis]] in Session 9
+- Killed by Martavis (Harper agent) and left pinned to a tree as a message
+- His involvement with [[The Death Tyrant|Ahmendril]] was through Samus -- Ahmendril commands Samus, who commanded Viggio

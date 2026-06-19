@@ -24,8 +24,22 @@ A partnership of merchant cities from the Sword Coast, the North, and Western He
 ### [[Session 01 - Dead Men's Fingers]]
 Not directly mentioned, but [[Kane]]'s Lords' Alliance connections through [[The Ashen Spears]] are part of his network.
 
+### [[Session 10 - Many Zanithars]]
+**Party met the council in person** at the royal castle in [[Waterdeep]]. Council was **in chaos** debating the siege:
+- **[[Dagult Neverember]]**: *"The city's impregnable."* (hold-and-defend stance)
+- **[[Thrun]]**: *"We need to destroy them before reinforcement."* (preemptive strike stance)
+- **[[Laeral Silverhand]]**: Open Lord of [[Waterdeep]], head of council, **revealed as a [[Harpers|Harper]]** during the private briefing afterward. Welcomed [[Lady Morwen Daggerford|the Duchess]] personally; they embraced
+
+The Alliance's intelligence on [[General Martavis|Martavis]]'s Harper status was already complete -- Silverhand knew before we briefed her. Top of the Alliance is coordinating directly with Harper leadership.
+
 ## Party Members
 - **[[Kane]]** - Affiliated through The Ashen Spears
+
+## Known Members (Encountered)
+- **[[Laeral Silverhand]]** -- Open Lord of [[Waterdeep]], head of the council, Chosen of Mystra, also a [[Harpers|Harper]]
+- **[[Dagult Neverember]]** -- Council noble; defensive stance on the siege
+- **[[Thrun]]** -- Council noble; offensive stance on the siege
+- **[[Lady Morwen Daggerford]]** -- Duchess of [[Daggerford]]; member; personal friend of Silverhand
 
 ---
 

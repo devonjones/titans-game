@@ -26,7 +26,8 @@ The ruler of Daggerford, currently in a weakened position with her power usurped
 - **[[Councilman Moore]]:** Was her ally on the council. His murder is a major blow.
 - **[[Elaine Drago]]:** Ally on the council.
 - **[[Viggio Martel]]:** Enemy. Dominant force undermining her power.
-- **[[General Martavis]]:** Zhentarim general; was arguing with him when party arrived. Adversarial relationship.
+- **[[General Martavis]]:** Revealed Session 9 as a **[[Harpers|Harper]] agent** deep undercover in the Zhentarim. Their Session 1 "argument" was almost certainly a warning or coordination, not a confrontation. **Allied** (their adversarial appearance was Martavis's cover).
+- **[[Laeral Silverhand]]:** Personal friend. Embraced on arrival in [[Waterdeep]] (Session 10). Silverhand -- Open Lord of Waterdeep, Chosen of Mystra, Harper -- received her personally and is now her host and protector.
 
 ## History with the Party
 ### Cael - The Daggerford Cleansing (2 years ago)
@@ -61,6 +62,18 @@ Received the full report from the party at her manor, with [[Captain Hidar]] at 
 
 ### [[Session 06 - Visitors Visitors]]
 **Left the building** before the party woke (whereabouts not specified). When the party briefed her on the Harper intel about the Zhentarim army in the Troll Claw Hills, she responded: **"Stay on target."** The butler prepared full saddlebags for the party's journey south. She is handling the political and military situation in [[Daggerford]] while the party pursues the ritual at [[Dragonspear]].
+
+### [[Session 08 - Running the Gauntlet]]
+Sent a message to [[Vaelin]] at [[Dragonspear]]: hurry up. When the party arrived at [[Daggerford]], she was anxious but relieved. *"I've lost control here."* Explained that [[General Martavis|Martavis]] had declared the agreement no longer in effect -- full lockdown. Agreed to the escape plan. **The council and her seneschal stayed behind.** Cast **Disguise Self** to look like [[Kane]] during the escape. Led the party through a culvert/storm drain in the NW corner of the castle yard. On the road, received intel that **the Zhentarim had left Daggerford overnight, heading North** -- how she got this information while on the run is unclear. Currently traveling with the party toward [[Waterdeep]], behind a Zhentarim army.
+
+### [[Session 09 - The Wolf and the Phoenix]]
+Received Martavis's owl note. Sighed and handed it to [[Vaelin]]. Was stashed in a gully under a magical barrier during the battle. After the fight, [[General Martavis|Martavis]] requested a private word with her. He revealed his Harper pin and briefed her: Waterdeep is accessible but will be under siege. Learned that [[Viggio Martel|Viggio]]'s mission was to **replace her** -- the Pencheska conspiracy confirmed. Currently en route to [[Waterdeep]] with the party.
+
+### [[Session 10 - Many Zanithars]]
+**Delivered to [[Waterdeep]].** The party brought her by sea (skipping [[Smuggler's Dock]] due to choppy water, landing at a closer shore). At the royal castle, the council was in chaos. **[[Laeral Silverhand]]** -- Open Lord of Waterdeep, Chosen of Mystra, [[Harpers|Harper]] -- formally welcomed her. The Duchess requested a private conversation; the room emptied except the party. **Silverhand and the Duchess embraced** -- personal friends, not just political peers. Briefed Silverhand together with the party on the Daggerford crisis and the Dragonspear findings.
+
+### [[Session 11 - When the World Burns]]
+Status during the dragon attack unknown -- presumably sheltered in the castle. The royal castle was damaged; main entrance keystone arch missing. The Duchess's involvement in the city defense not observed by the party. Check in with her about her status the next morning is a pending action item.
 
 ## Notes
 - Her file on Cael describes him as: "Useful. Reliable. Requires purpose or becomes dangerous."

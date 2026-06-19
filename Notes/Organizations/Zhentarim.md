@@ -33,6 +33,9 @@ Maintaining order in [[Daggerford]] effectively - soup kitchens, organized patro
 ### [[Session 03 - Through the Wall]]
 **Grey Wolf faction** guards [[Viggio Martel]]'s manor (#23). Commander: [[Bennet]]. **Phoenix tattoo** confirmed as Zhentarim membership mark. The Grey Wolves appear to be a distinct unit from [[General Martavis]]'s general city forces — providing personal security at Viggio's residence rather than broad civic patrol.
 
+### [[Session 10 - Many Zanithars]]
+**[[General Martavis|Martavis]] is riding to the [[Troll Claw Hills]] HQ to confront [[Samus]] directly** -- asking the party for backup. The Wolf faction's naval and infantry forces are besieging [[Waterdeep]]. Per [[Laeral Silverhand|Silverhand]]'s reveal, [[Samus]]'s superior [[Ahmendril]] is **"a [[Zanithar]]"** -- the Zhent occupation is one front of a much larger, recurring threat.
+
 ---
 
 ## Theory: The Destabilization Strategy
@@ -91,13 +94,46 @@ In canonical lore, the succubus Pencheska (posing as [[Lady Morwen Daggerford]])
 
 ---
 
-## Leadership in Daggerford
-- **Samus** — Head of the Zhentarim in Daggerford. Likely the "S" who signed incriminating notes ordering [[Councilman Moore]]'s murder and authorizing the security contract. Relationship to [[General Martavis]] unclear — Samus may be above Martavis in the chain of command, or a separate authority.
+## Leadership (Corrected, Session 9)
+
+### Enemy Hierarchy
+- **[[The Death Tyrant|Ahmendril]]** -- Supreme commander. Death Tyrant pursuing lich/dracolich transformation. Commands Samus
+- **Samus** -- Head of the Zhentarim in Daggerford. Reports to Ahmendril. The "S" who signed incriminating notes. Running "other events" on a timeline
+- **[[Viggio Martel]]** (dead) -- Samus's operative on the council. Tasked with replacing the Duchess. Killed by Martavis
+- **General Marcus** (dead) -- Commanded the Wolf army. Killed by the party in Session 8
+
+### Allied / Infiltrated
+- **[[General Martavis]]** -- **Harper agent**, deep cover. Commands the Phoenix faction. Samus *believed* he controlled Martavis, but Martavis was reporting to the Harpers the whole time
+
+### Factions
+
+| Faction | Emblem | Leader | Status |
+|---------|--------|--------|--------|
+| **Wolf** (Grey Wolves) | Grey Wolf | General Marcus (dead), under Samus | **Enemy** -- the real occupation force |
+| **Phoenix** | Phoenix tattoo | [[General Martavis]] | **Allied** -- Harper infiltration unit |
+
+The Grey Wolves (Commander [[Bennet]], guarding Viggio's manor in Session 3) were the genuine Zhent operatives. The Phoenix troops are loyal to Martavis personally.
 
 ## The Troll Claw Hills HQ (Session 6)
 - [[Harpers]] intel (delivered to [[Viseli Bar]] via wood elf): Zhentarim are **building a new headquarters in the Troll Claw Hills** between [[Baldur's Gate]] and [[Daggerford]]
 - They are **gathering an army** — escalation beyond the Daggerford occupation
 - [[Lady Morwen Daggerford]] told the party to "stay on target" — implying she'll handle this
+
+## Session 8: The Gauntlet
+- Phoenix faction locked down [[Daggerford]] -- but this was Martavis positioning against the Wolves, not suppressing the Duchess
+- Zhents left Daggerford overnight heading North -- Martavis moving his forces to intercept the Wolf army
+- The 50 cavalry the party fought through were **Wolf** troops, not Phoenix
+- Martavis observed from the hilltop -- concern for the plan, not shock at resistance
+
+## Session 9: The Wolf and the Phoenix
+- Martavis sent an owl note requesting the party hit the Wolf army's flank: *"Trust."*
+- He **killed Viggio** and left the body as a gift/message
+- Wolf army engaged at a river ford -- the party flanked while Phoenix cavalry hit from behind
+- Wolf army routed and destroyed. General Marcus (Wolf commander) confirmed killed in Session 8
+- **Martavis revealed his Harper pin** -- deep cover agent the entire campaign
+- **Ahmendril confirmed as Samus's superior** -- the two arcs (Zhent occupation + lich transformation) are the same operation
+- Martavis heading to the **Troll Claw Hills** to hit the Zhent HQ
+- Waterdeep accessible but will be under siege
 
 ## Connected Plots
 - [[The Zhentarim Occupation]] - Current military presence in Daggerford

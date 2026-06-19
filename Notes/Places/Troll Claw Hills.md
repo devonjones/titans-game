@@ -27,3 +27,6 @@ A hilly region along the Trade Way between Baldur's Gate and Daggerford. [[Harpe
 
 ## Session Appearances
 - [[Session 06 - Visitors Visitors]] — Identified via Harper intel as site of Zhent army buildup
+
+### [[Session 10 - Many Zanithars]]
+**[[General Martavis]] is en route to the Troll Claw Hills** -- going to confront [[Samus]] at the new [[Zhentarim]] HQ. **Asked the party for help** with Samus once the Duchess is safely in [[Waterdeep]]. Martavis commands the Phoenix cavalry but is going up against the Wolf faction's leadership at their fortified site.

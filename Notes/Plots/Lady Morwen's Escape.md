@@ -2,14 +2,14 @@
 tags:
   - Plot
   - Political
-  - Active
-status: Contingency
-priority: Medium
+  - Resolved
+status: Complete
+priority: Closed
 ---
 # Lady Morwen's Escape
 
 **Type:** Extraction / Political
-**Status:** Contingency Plan
+**Status:** **COMPLETE** -- Delivered to [[Waterdeep]] in [[Session 10 - Many Zanithars|Session 10]]
 **Introduced:** [[Session 01 - Dead Men's Fingers]]
 
 ## Summary
@@ -61,3 +61,12 @@ Lady Morwen wants the party to:
 
 ## Session Appearances
 - [[Session 01 - Dead Men's Fingers]] - Escape discussed as possibility
+- [[Session 08 - Running the Gauntlet]] - **Escape executed.** Duchess fled through the storm drain, across the river, onto the road. Party fought through 50 Wolf cavalry
+- [[Session 09 - The Wolf and the Phoenix]] - [[General Martavis|Martavis]] (revealed as Harper) coordinated with the party to destroy the Wolf army blocking the road. **Waterdeep is accessible but will be under siege.** The Duchess is en route with the party
+- [[Session 10 - Many Zanithars]] - **COMPLETE.** Party landed at a closer shore (skipping [[Smuggler's Dock]] due to choppy seas), reached the royal castle, and delivered the Duchess to **[[Laeral Silverhand]]** -- Open Lord of Waterdeep, Chosen of Mystra, [[Harpers|Harper]]. The two embraced; they know each other personally. Briefing followed. Mission accomplished
+
+## Resolution Notes
+- The Pencheska question raised earlier (was she real or replaced?) -- not definitively answered, but **[[General Martavis|Martavis]] confirmed Viggio's mission was specifically replacement**, which is consistent with the Duchess being the real Lady Morwen and Viggio being the substitution vector that never executed
+- The Duchess is now in [[Waterdeep]] under [[Laeral Silverhand|Silverhand]]'s protection. She is safer here than anywhere on the Sword Coast
+- [[Daggerford]] is left without her -- the council and seneschal stayed. What happens to the town in her absence is a new plot, not this one
+- **[[The Pencheska Conspiracy]] is active in Waterdeep** (night attack at [[Ellenfear Manor]], Session 10) -- the threat to the Duchess has not ended, but the *flight* phase is over

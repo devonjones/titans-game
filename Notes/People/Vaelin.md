@@ -64,6 +64,12 @@ Witnessed [[The Death Tyrant]] and the [[The Dead Three Temple|Dead Three temple
 - **Resurrection** confirmed — powerful cleric, high level
 - **Telepathy** with Hidar — some form of sending or telepathic bond spell
 - Has a protective instinct toward [[Elaine Drago]] — stayed with her through the chaos
+### [[Session 08 - Running the Gauntlet]]
+Woke the party at [[Dragonspear]] after receiving a message from [[Lady Morwen Daggerford|the Duchess]]. Cast *Longstrider* on the horses. Cast **Mass Healing Word** on the horses (?) to help them walk on water across the river during the escape. Cast **Tiny Hut** for the overnight camp. Attempted **Speak with Dead** on [[Viggio Martel|Viggio]] -- Viggio refused to cooperate: *"Why should I help you?"* At dawn, went invisible, flew up, and **destroyed the enemy familiar** with a mace. Aerial scout during the approach to [[Waterdeep]]. In the cavalry battle: cast **Blade Barrier** (manifested as a floating book, naturally). Killed 3 more fleeing enemies with the barrier.
+
+### [[Session 09 - The Wolf and the Phoenix]]
+Read Martavis's note aloud when the Duchess handed it to him. Cast **Spiritual Weapon** and **Twilight Sanctuary** (15+ temp HP for all within 30 ft) at the start of the battle. Cast **Spirit Guardians** behind [[Viseli Bar|Viseli]] -- trolls failed saves, **16 damage to all**, dire troll bloodied. **Healing Word** on Viseli. Spirit Guardians still up, ran toward the fleeing enemies -- they all fled rather than face the aura.
+
 ### [[Session 05 - Signed S]]
 Opened the fight with **Twilight Sanctuary** (10 temp HP/round to nearby allies) and **Daylight** — dispelled the cultists' darkness except around the altar. Cast **Spirit Guardians** and moved into the enemy group (10 damage on failed Wis save). Used **Spiritual Weapon** (flavored as a floating book) throughout the fight. Took the **Dodge action** for defense. **Killed the last standing enemy.**
 
@@ -76,5 +82,22 @@ After the fight: went to collect [[Elaine Drago]] and [[Margeet Patel]] from out
 ### [[Session 06 - Visitors Visitors]]
 Gave the entire party **Darkvision (300 feet)** on approach to [[Dragonspear]]. Found a **pile of bodies** (mostly human, dead a long time) in the gatehouse. In combat against [[Bathere]]'s forces: **Spirit Guardians** and **Spiritual Weapon** active, dealt 6 damage. Currently mid-combat.
 
+### [[Session 07 - The Door of the Dead]]
+**Greater Restoration on [[Lord Celleborn Ellenfear|Celleborn]]** — restored the permanent HP reduction the wraith had inflicted. Continued to hit with **Spirit Guardians** and **Spiritual Weapon** (the floating book). Healed Stormcrow for 5 at a key moment. Made a **religion check** (22) identifying the wraiths and shadows from the wall as the damaged ones from the prior session's barrage.
+
+**Key swing of the fight:** cast **Dispel Magic** on [[Bathere]] to strip his regeneration, which set up the kill. Spirit Guardians directly finished the Death Knight on his way down.
+
+**After the fight:** rolled **History** (with Celleborn) identifying the **statue in the fountain** as the relic sealing the **[[The Avernus Portal|Avernus portal]]** beneath the castle. Helped interpret [[Bathere]]'s dracolich research.
+
+### [[Session 10 - Many Zanithars]]
+Briefed [[Laeral Silverhand|Silverhand]] on everything from [[Dragonspear]] (Bathere, dracolich research, dead dragon, [[The Door of the Dead]], [[The Avernus Portal]], [[The Goat Head Mask]]). Silverhand revealed [[Ahmendril]] is a "[[Zanithar]]" -- recurring, periodically killed and replaced -- and connected the ritual to the **[[The Dragoncult Wars|Dragoncult Wars]]**. Confirmed **two discs** (black + red), the scroll = dragon control instructions. Watered his plants before heading to [[Ellenfear Manor]]. Cast **Divination** about sleeping arrangements: answer said his castle quarters would be "a terrible idea" -- slept at Ellenfear instead. 
+
+During the night attack: hit twice for 28 dam each, saved both poison saves (26 and 20). Cast **Spirit Guardians** + grabbed shield. Twilight Sanctuary not yet online at first; activated it later for 14 temp HP to allies. Withstood multiple attacks that glanced off armor (quipped *"Would you like to try something different?"*). **His plant was knocked out the window during the fight** -- watered for nothing. Healed [[Cael Stormcrow|Stormcrow]] after Kane stabilized him.
+
+### [[Session 11 - When the World Burns]]
+Encouraged the party to make **Tiny Hut** standard practice going forward. Sought a senechal in the morning. **Bought a new plant** to replace the one defenestrated last session. **Suggested everyone buy a Revivify diamond** (500 gp+) as standing insurance against another Pencheska night. Pressed [[Laeral Silverhand|Silverhand]] on [[The Goat Head Mask|the helmet]] (she's more worried about [[The Door of the Dead|the Door]]; the helmet might be a phylactery). During the night dragon attack: cast **Darkvision** on the whole party. On the roof, saw a second dragon toward the docks. **After the Tarrasque rampage, cast Locate Object on the [[The Stolen Keystone|missing castle keystone arch]]** -- it was already over 1000 feet away.
+
 ## Notes
+- **Dispel Magic** now confirmed in his kit and lethally effective
+- **Greater Restoration** confirmed (cleric of sufficient level, Twilight Domain)
 - Details TBD as more is revealed in play

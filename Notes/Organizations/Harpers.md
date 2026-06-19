@@ -28,9 +28,19 @@ Not directly mentioned, but [[Kane]]'s Harper connections and intelligence netwo
 ### [[Session 06 - Visitors Visitors]]
 A **wood elf** delivered Harper intel directly to [[Viseli Bar]] (not [[Kane]]): the [[Zhentarim]] are building a new headquarters in the **Troll Claw Hills** (between [[Baldur's Gate]] and [[Daggerford]]) and gathering an army. First confirmation that Viseli has her own Harper connection.
 
-## Party Members
+### [[Session 09 - The Wolf and the Phoenix]]
+**[[General Martavis]] revealed as a Harper agent** -- deep cover within the [[Zhentarim]], commanding the Phoenix faction. Showed his Harper pin to the party after the Wolf army was destroyed at the ford. Has been working to protect [[Lady Morwen Daggerford]] and undermine Samus's operation from inside the Zhentarim structure the entire campaign. Heading to the **Troll Claw Hills** to hit the Zhent HQ.
+
+### [[Session 10 - Many Zanithars]]
+**[[Laeral Silverhand]] revealed as a [[Harpers|Harper]]** -- the Open Lord of [[Waterdeep]] and Chosen of Mystra is part of the order. She already knew [[General Martavis|Martavis]] was a Harper before the party briefed her. The Harpers have penetrated to the very top of the [[Lords' Alliance]].
+
+Add **[[Laeral Silverhand]]** to the Known Members / Connections list (Open Lord of Waterdeep, Chosen of Mystra, head of the [[Lords' Alliance]]).
+
+## Known Members / Connections
 - **[[Kane]]** - Agent
-- **[[Viseli Bar]]** - Has a direct Harper connection (Session 6 — intel delivered to her specifically via wood elf messenger)
+- **[[General Martavis]]** - Deep cover agent within the [[Zhentarim]] (Phoenix faction commander)
+- **[[Viseli Bar]]** - Has a direct Harper connection (Session 6 -- intel delivered to her specifically via wood elf messenger)
+- **[[Laeral Silverhand]]** - Open Lord of Waterdeep, Chosen of Mystra, head of the [[Lords' Alliance]]
 
 ---
 

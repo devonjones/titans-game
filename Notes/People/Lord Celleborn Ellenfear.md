@@ -68,6 +68,39 @@ Cast **Fireball** against the enemy group near Viseli (damage unclear). Later ca
 ### [[Session 06 - Visitors Visitors]]
 Sent **Icarus** to scout [[Dragonspear]] — reported creatures standing perfectly still. Checked the magically locked door for traps. Rolled Arcana 12 on a side door (insufficient). In combat: cast **Sickening Radiance** (DC 20 Con) in the center of [[Bathere]]'s room — devastating area denial that likely killed most enemies inside. Took **26 necrotic damage from a wraith** with **permanent HP reduction**. Session ended mid-combat while he was acting.
 
+### [[Session 07 - The Door of the Dead]]
+**Opened the session by hitting the panic button** — cast **Wall of Force** across the doorway to lock out the big bads. Bought the party time and turned the doorway into a sustainable kill zone. Had his HP reduction restored by [[Vaelin]]'s **Greater Restoration**.
+
+Cast **Magic Missile** and then **Sanctuary** on himself for safety. When [[Bathere]] teleported through the wall, Celleborn painted the room with an **eerie green Sickening Radiance** (possibly Fireball as well — notes fuzzy). Sustained damage on Bathere every round until the killing blow.
+
+**After the fight:** cast **Detect Magic** across the castle. Searched [[Bathere]]'s study; read the dracolich research; identified the **[[The Goat Head Mask]]** as an **artifact still attuned to Bathere** (non-detection magic — it resisted his investigation). Translated and interpreted **Bathere's research notes**. Made a **History check** (with Vaelin) that identified the **statue in the fountain** as the relic sealing the **[[The Avernus Portal|Avernus portal]]**. Observed that Ahmendril had taken **[[The Door of the Dead]]** and that Bathere had failed to Legend Lore it.
+
+### [[Session 08 - Running the Gauntlet]]
+**Stayed behind at [[Dragonspear]]** to check on the seal -- the [[The Avernus Portal|Avernus portal]] relic in the fountain. Did not travel with the party to [[Daggerford]] or on the road to [[Waterdeep]]. Currently alone at Dragonspear.
+
+### [[Session 10 - Many Zanithars]]
+**Rejoined the party** in [[Waterdeep]] (catching up from [[Dragonspear]] where he stayed behind in Session 8 to check the [[The Avernus Portal|Avernus seal]]). Sent **Icarus** (owl familiar) ahead to notify his family the party was coming -- reply: *"Relieved to see Icarus. Glad to know you're safe. We will send an escort."*
+
+At [[Ellenfear Manor]] for the night: cast **Alarm** on the bedroom doors and asked his father to warn the household guard. When the Alarm triggered (the wake-up electric shock), grabbed shield, shouted alarm, cast **Mirror Image**, cracked the door open and saw two adjacent doors already open. Cast **Detect Invisibility**, saw a figure in the hall -- **raven mask, leather armor, light clothing**. **Action surged** to cast an upleveled **Summon Fey** (tricksie variant that makes 5-foot darkness cubes); posted the fey to guard the unconscious [[Cael Stormcrow|Stormcrow]]. **Counterspelled** an incoming force-damage attack on [[Kane]]; the attacker jumped over the bannister to flee. **Firebolted** another mob (which jumped out a window).
+
+### [[Session 11 - When the World Burns]]
+
+After the Session 10 attack: Celleborn's familiar circuited the house. Suspected other houses had been attacked. Sent a message to [[Laeral Silverhand|Silverhand]]: *"House Ellenfear attacked by assassins. Beware etc."* Reply: just *"meh."* **His parents were not the target** -- they emerged after the fight, unharmed. **The household guards were dead.** The attacker who jumped over the bannister had **flown away**.
+
+His parents advised the party sleep in the castle. Cast **Shadow Blade**. Moved with party to the castle for the long rest.
+
+**The Library Briefing.** [[Laeral Silverhand|Silverhand]] held forth on the Dead Three -- **Celleborn already knew everything she covered**, having written his **doctoral thesis on the Dead Three.** Confirmed: he's a published academic on this topic. (Silverhand still had the classified appendix about the **Far Realm gateway** -- see [[The Door of the Dead]].)
+
+**Mad idea floated during the dragon attack:** ***"Let's kill one, reanimate it, and send it after the other one."*** Vetoed (too large).
+
+**During the dragon attack:** cast **Mirror Image** during muster; prepped a **Shadow Blade** into a spear; went to the roof with the party; helped grind at the main gate when it fell.
+
+**After the Tarrasque:** present when the party discovered the **[[The Stolen Keystone|stolen keystone arch]]** at the castle entrance.
+
+**Party leveled to 12** at session end (confirm whether Cael also advanced or was already there).
+
 ## Notes
-- **Permanent HP reduction** from wraith — needs Greater Restoration or similar
+- ~~**Permanent HP reduction** from wraith — needs Greater Restoration or similar~~ **Restored** by Vaelin in Session 7
+- **Subject-matter expert on the Dead Three** -- wrote his doctoral thesis on them. Go to him for Dead Three context, symbolism, history
+- The Goat Head Mask puzzle is his problem for now — he wants to understand it
 - Details TBD as more is revealed in play
