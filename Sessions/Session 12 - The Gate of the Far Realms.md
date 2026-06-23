@@ -151,7 +151,7 @@ A **planetar appears**.
 
 ### The Implication
 - **Find [[Ahmendril]]. He moves around a lot.**
-- [[Vaelin]] casts a spell ([spiritual-insight type; specific spell uncertain -- Commune or similar])
+- [[Vaelin]] casts **Commune** (5th-level cleric -- contact deity with three yes/no questions)
 - Conclusion: **the gods do NOT want the Key to be found.** A *planetar* appeared to a 4th-level Divination -- that's divine intervention, not normal channels
 - The gods have a stake; they are actively opposing the Key being located
 
@@ -272,7 +272,7 @@ The paladin casts **Zone of Truth**. The party takes the oath. **[[Laeral Silver
 6. **Can the gods themselves be petitioned for help?** The planetar said "don't seek" but didn't say "don't ask us for help"
 7. **What teleport circles does the [[Lords' Alliance]] have access to?** Now that the party has the oath, what's the network look like?
 8. **Was the "Hellknight" message-routing idea Stormcrow floated worth pursuing?** Unclear what the original idea was
-9. **What's Vaelin's spiritual-insight spell exact?** Need to capture for accuracy
+9. ~~What's Vaelin's spiritual-insight spell exact?~~ **Commune** (5th-level cleric, three yes/no questions to deity)
 
 ---
 

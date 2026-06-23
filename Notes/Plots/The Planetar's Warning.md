@@ -50,7 +50,7 @@ The message: **finding the Key is forbidden, regardless of intent.** Even Celleb
 5. **[[Ahmendril]] "moves around a lot"** -- the only specific intelligence offered. Hint that **the Key is with him**, hence "find the one who stole them" -- but the planetar wouldn't pin a location
 
 ### Vaelin's Confirmation
-After the planetar departed, [[Vaelin]] cast a follow-up divine-insight spell ([Commune or similar -- specific spell uncertain]). Conclusion: **the gods specifically do not want the Key found.** The planetar's appearance was deliberate divine intervention, not a random celestial passing by.
+After the planetar departed, [[Vaelin]] cast **Commune** (5th-level cleric; three yes/no questions to his deity). Conclusion: **the gods specifically do not want the Key found.** The planetar's appearance was deliberate divine intervention, not a random celestial passing by.
 
 ## Tactical Implications
 
