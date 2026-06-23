@@ -50,3 +50,8 @@ When the [[The Tarrasque|Tarrasque]] rose from the sea and killed [[Ravica]] at 
 - [[Cult of the Dragon]] -- Possible faction connection
 - [[The Tarrasque]] -- Currently hunting him
 - [[Waterdeep]] -- Site of the attack
+
+## Session Appearances
+
+### [[Session 12 - The Gate of the Far Realms]]
+**Resurrection by Cult of the Dragon confirmed** (per the Session 12 briefing). Still alive somewhere outside [[Waterdeep]], presumably still being pursued by the [[The Tarrasque|Tarrasque]]. The Abyssal control scroll (in [[Vaelin]]'s possession) remains the only known leash.

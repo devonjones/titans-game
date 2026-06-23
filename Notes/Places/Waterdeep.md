@@ -63,6 +63,11 @@ Waterdeep is currently under siege from the Wolf Zhent army that the party broke
 
 Earlier in the day, the party met Silverhand in her library. Major reveal: **[[The Door of the Dead]] is a piece of a sealed Far Realm gateway built by the Dead Three.** Discussion of dispatching the party to the [[Troll Claw Hills]] to back up [[General Martavis|Martavis]] was deferred to committee.
 
+### [[Session 12 - The Gate of the Far Realms]]
+**Post-attack recovery day.** Docks destroyed; piles of casualties; [[Laeral Silverhand|Silverhand]] lifting buildings off victims; the [[Order of the Fist]] organizing paladins for a Dead Three hunt under [[Unthar Froom]]; [[Ravica]]'s corpse harvested by [[Lord Celleborn Ellenfear|Celleborn]]'s father's team. The council met and continues to run; [[Lady Morwen Daggerford|Lady Morwen]] still in residence working on reconstruction.
+
+**Major Silverhand briefing** in the library: **two of three [[The Gate of the Far Realms|Gate]] pieces in [[Ahmendril]]'s hands; only [[Notes/Items/The Key|the Key]] remains, and it's divinely concealed** (see [[The Planetar's Warning]]). Party joined the [[Lords' Alliance]] teleport network under oath + Geas, then teleported out to the [[Troll Claw Hills]] for the [[Samus]] assault.
+
 ---
 
 ## Forgotten Realms Lore

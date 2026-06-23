@@ -104,6 +104,9 @@ During the night dragon attack: rushed to arms; went to the roof with the party.
 
 **Party leveled to 12 together at session end** -- Cael is now Sorcerer 10 / Cleric 2. New: Thunderclap cantrip, Synaptic Static spell (GM ruling: treated as lightning), Empowered Spell metamagic.
 
+### [[Session 12 - The Gate of the Far Realms]]
+Day spent in [[Waterdeep]] post-attack. Helped at the dragon corpse and the briefings. **Floated the idea to [[Lady Morwen Daggerford|Lady Morwen]] of using the [[Order of the Fist]]/Hellknight as a message-routing channel** (specifics unclear). Took the [[Lords' Alliance]] teleport-circle oath (Zone of Truth + Geas) and joined the network. After the rest, teleported with the party to a field 2 miles from [[Samus]]'s castle and rode in. At session end: **[[General Martavis|Martavis]] visible inside the open double doors, kneeling**. Cliffhanger.
+
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.
 

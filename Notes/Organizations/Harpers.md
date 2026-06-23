@@ -36,6 +36,9 @@ A **wood elf** delivered Harper intel directly to [[Viseli Bar]] (not [[Kane]]):
 
 Add **[[Laeral Silverhand]]** to the Known Members / Connections list (Open Lord of Waterdeep, Chosen of Mystra, head of the [[Lords' Alliance]]).
 
+### [[Session 12 - The Gate of the Far Realms]]
+[[Laeral Silverhand|Silverhand]]'s Harper-tier intelligence on full display: confirmed the [[The Gate of the Far Realms|Gate of the Far Realms]] architecture (three pieces, one per Dead Three god); identified the Door as **NOT Bane**; formally tasked the party with finding the remaining piece(s). The [[The Planetar's Warning|planetar's intervention]] complicates the Key search. [[General Martavis|Martavis]] (Phoenix Harper) attacked [[Samus]]'s castle ahead of the party.
+
 ## Known Members / Connections
 - **[[Kane]]** - Agent
 - **[[General Martavis]]** - Deep cover agent within the [[Zhentarim]] (Phoenix faction commander)

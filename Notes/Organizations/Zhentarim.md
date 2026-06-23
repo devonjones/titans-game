@@ -135,6 +135,12 @@ The Grey Wolves (Commander [[Bennet]], guarding Viggio's manor in Session 3) wer
 - Martavis heading to the **Troll Claw Hills** to hit the Zhent HQ
 - Waterdeep accessible but will be under siege
 
+## Session 12: The Gate of the Far Realms
+- **[[Samus]] confirmed as the immediate target.** Per [[Laeral Silverhand|Silverhand]]: he rose out of nothingness to lead the Zhentarim; **a brutal warrior even [[General Martavis|Martavis]] fears**
+- **[[General Martavis|Martavis]] attacked the [[Troll Claw Hills]] HQ overnight without the party** -- party teleported in 2 miles out, rode to the castle, saw combat inside and Martavis kneeling. Cliffhanger
+- Confirmed: **[[Ahmendril]] holds 2 of 3 pieces of [[The Gate of the Far Realms]]**. The Zhent operation is part of the gateway-assembly plan, not a separate operation
+- The **arch-wizard** who teleported the keystone thieves into Waterdeep is presumably part of the same coalition -- elite wizardly support at Ahmendril's tier
+
 ## Connected Plots
 - [[The Zhentarim Occupation]] - Current military presence in Daggerford
 - [[The Destabilization Strategy]] - Suspected architects of regional chaos

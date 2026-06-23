@@ -63,3 +63,6 @@ What the party knows: it happened, it involved dragons, and the current Zanithar
 The **Dragoncult Wars** historical context is now active and current. [[Laeral Silverhand|Silverhand]] should be pressed for the specifics of how the wars ended last time -- the precedent matters now.
 
 The Tarrasque rising at the same time strongly suggests the cosmic immune system has flagged this as a **world-threatening event** -- consistent with the original Dragoncult War threat level.
+
+### [[Session 12 - The Gate of the Far Realms]]
+**Cult of the Dragon involvement confirmed in person.** Per the Session 12 Silverhand briefing: **[[Rofidian]] (red) and [[Ravica]] (black) were resurrected by the [[Cult of the Dragon]]**. The disc colors match the dragon colors. The Dragoncult Wars historical pattern is operating in present-day. [[Ravica]]'s corpse is being denied re-revival via [[Lord Celleborn Ellenfear|Celleborn]]'s **Gentle Repose**; [[Rofidian]] still loose. The Cult is now confirmed as an operating coalition partner with [[Ahmendril]] in the [[The Gate of the Far Realms|Gate of the Far Realms]] effort.

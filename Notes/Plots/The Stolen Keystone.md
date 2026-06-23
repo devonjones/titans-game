@@ -60,7 +60,14 @@ The deliberate, targeted nature of the theft suggests:
 
 ## Connected Plots
 
+- [[The Gate of the Far Realms]] -- Composite plot; keystone is one of three pieces
+- [[Notes/Items/The Stolen Keystone]] -- Detailed Items note
 - [[The Door of the Dead]] -- The other known piece of the Dead Three's Far Realm gateway
 - [[The Pencheska Conspiracy]] -- Active in [[Waterdeep]]; possible perpetrators
 - [[Ahmendril]] / [[Zanithar]] -- Ultimate beneficiary if the keystone IS a gateway piece
 - [[Waterdeep]] -- The aggrieved party; Silverhand will want answers
+
+## Session Appearances
+
+- [[Session 11 - When the World Burns]] -- **Stolen.** Castle keystone arch removed during the dragon attack chaos; 1000+ ft away when Locate Object cast
+- [[Session 12 - The Gate of the Far Realms]] -- **Confirmed: in [[Ahmendril]]'s possession.** [[Laeral Silverhand|Silverhand]]: *"The bad guy already has two of the three pieces."* The keystone is one of those two. [[Lord Celleborn Ellenfear|Celleborn]] failed to read the teleportation runes left at the theft site -- **arch-wizard work**, beyond his level. Tracking via Locate Object no longer practical; **better path: find Ahmendril, recover both pieces together**

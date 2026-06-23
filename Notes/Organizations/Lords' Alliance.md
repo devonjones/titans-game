@@ -32,6 +32,15 @@ Not directly mentioned, but [[Kane]]'s Lords' Alliance connections through [[The
 
 The Alliance's intelligence on [[General Martavis|Martavis]]'s Harper status was already complete -- Silverhand knew before we briefed her. Top of the Alliance is coordinating directly with Harper leadership.
 
+### [[Session 12 - The Gate of the Far Realms]]
+**Party formally joined the LA teleport-circle network under oath.** [[Laeral Silverhand|Silverhand]] required an oath before granting access. Summoned an [[Order of the Fist]] paladin (full plate, blue fist on breastplate) to administer a **Zone of Truth** ritual. The oath:
+1. Use the portals only in emergencies
+2. Don't traffic anyone with no LA business
+3. Don't traffic LA enemies
+4. Don't reveal knowledge of the circles to non-oath-takers
+
+[[Laeral Silverhand|Silverhand]] took blood drops and cast **Geas** to bind it. Party is now mechanically and divinely bound. First use: teleport to a field 2 miles from [[Samus]]'s castle in the [[Troll Claw Hills]] for the assault.
+
 ## Party Members
 - **[[Kane]]** - Affiliated through The Ashen Spears
 

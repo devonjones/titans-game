@@ -74,3 +74,6 @@ The Session 10 attackers withdrew successfully. Post-attack analysis at [[Ellenf
 The party evacuated to the royal castle for the rest of the long rest. **Tiny Hut becomes standard going forward** (Vaelin's recommendation).
 
 **Possible follow-on:** during the dragon attack, **someone deliberately stole the castle's keystone arch** (see [[The Stolen Keystone]]). The dragon attack may have been cover, the Pencheska may have been the thieves, or both. Or neither.
+
+### [[Session 12 - The Gate of the Far Realms]]
+**The keystone theft is now strongly linked to [[Ahmendril]]'s operation** -- [[Laeral Silverhand|Silverhand]] confirmed Ahmendril holds the keystone. The Pencheska operatives who hit [[Ellenfear Manor]] in Session 10 and the keystone thieves in Session 11 are likely the same operation -- both feeding Ahmendril's [[The Gate of the Far Realms|Far Realm gateway]] assembly. **An arch-wizard** is involved -- the teleportation runes left at the theft site were above [[Lord Celleborn Ellenfear|Celleborn]]'s reading level. The Pencheska / Ahmendril coalition has wizardly support at the highest tier.

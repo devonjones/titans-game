@@ -16,7 +16,9 @@ This page exists so that `[[Ahmendril]]` resolves directly. All content is maint
 
 ## TL;DR
 - Current bearer of the **[[Zanithar]]** mantle (recurring role, periodically killed and replaced)
-- Has **[[The Door of the Dead]]** (a piece of a sealed Dead Three Far Realm gateway)
-- Has at least one of the two [[The Disk|discs]]; revived **[[Rofidian]]** and **[[Ravica]]** via the two-disc ritual ([[Session 11 - When the World Burns|confirmed Session 11]])
+- **Holds 2 of 3 pieces** of [[The Gate of the Far Realms]]: [[Notes/Items/The Door of the Dead|the Door]] (taken Dragonspear) and [[Notes/Items/The Stolen Keystone|the Keystone]] (taken Waterdeep, Session 11)
+- **Only the [[Notes/Items/The Key|Key]] remains uncollected** -- and it's **divinely concealed** ([[The Planetar's Warning]])
+- Used the two discs to revive **[[Rofidian]]** (red, fled) and **[[Ravica]]** (black, killed by [[The Tarrasque|Tarrasque]])
 - Commands [[Samus]] who runs Zhent operations
-- Last known location: presumed near [[Mount Hotenow]] / heading there
+- **Magic suppression** via his death-tyrant eye (Session 12)
+- **"Moves around a lot"** per the planetar -- no fixed location

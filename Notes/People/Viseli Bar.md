@@ -76,6 +76,9 @@ Held action until enemies closed to melee range. Threw darts, raged. **15 damage
 ### [[Session 11 - When the World Burns]]
 Moved with the party to the castle for the long rest. During the dragon attack: helped muster on the roof; engaged at the main gate when it fell. Survived through to the Tarrasque arrival and the keystone discovery.
 
+### [[Session 12 - The Gate of the Far Realms]]
+Asked [[Laeral Silverhand|Silverhand]] if she could trace the teleportation runes left at [[The Stolen Keystone|the keystone theft site]] back to the source. **No.** Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle and rode in with the party.
+
 ## Notes
 - **Harper connection confirmed** — intel delivered to Viseli specifically, not Kane
 - Willing to take tick damage from allies' AOE to reposition — aggressive and fearless

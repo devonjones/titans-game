@@ -30,9 +30,11 @@ When the [[The Tarrasque|Tarrasque]] rose from the sea at dawn, **it killed Ravi
 
 ## Tactical / Strategic Notes
 
-- **Her death does NOT end the threat.** The dragons may be a means, not the end -- [[Ahmendril]] still holds [[The Door of the Dead]] and the [[The Far Realm|Far Realm gateway]] plan continues
-- The body / corpse of an ancient dragon could be reanimated (see [[Bathere]]'s [[Dracolich Research|dracolich research]]) -- **the corpse is a strategic concern** if it's still at the [[Waterdeep]] docks
+- **Her death does NOT end the threat.** The dragons may be a means, not the end -- [[Ahmendril]] still holds [[Notes/Items/The Door of the Dead|the Door of the Dead]] and the [[The Gate of the Far Realms|Far Realm gateway]] plan continues
+- **No re-resurrection risk** -- [[Lord Celleborn Ellenfear|Celleborn]] cast **Gentle Repose** on the corpse in [[Session 12 - The Gate of the Far Realms|Session 12]]. Body won't rot, can't be raised
+- **Corpse being harvested** for armor and weapons by [[Lord Celleborn Ellenfear|Celleborn]]'s father's team (wizard, alchemist/smith, merchant) -- valuable materials being extracted
 - [[The Disk]] that was drained for her revival is presumably now expended
+- **Resurrected by the [[Cult of the Dragon]]** (confirmed [[Session 12 - The Gate of the Far Realms|Session 12]])
 
 ## Open Questions
 

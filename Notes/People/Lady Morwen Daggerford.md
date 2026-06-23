@@ -75,6 +75,9 @@ Received Martavis's owl note. Sighed and handed it to [[Vaelin]]. Was stashed in
 ### [[Session 11 - When the World Burns]]
 Status during the dragon attack unknown -- presumably sheltered in the castle. The royal castle was damaged; main entrance keystone arch missing. The Duchess's involvement in the city defense not observed by the party. Check in with her about her status the next morning is a pending action item.
 
+### [[Session 12 - The Gate of the Far Realms]]
+The party messaged her about [[The Stolen Keystone|the missing keystone]]; her reply: ***"Keystone?"*** -- she hadn't heard. Working on reconstruction. Later, after a council session, **greeted the party warmly** and got their full briefing on the keystone theft, the [[Cult of the Dragon]] confirmation, the Order of the Fist encounter, and the Silverhand briefing about the Gate of the Far Realms. Party reminded her that they had been tasked to go kill [[Samus]] with [[General Martavis|Martavis]].
+
 ## Notes
 - Her file on Cael describes him as: "Useful. Reliable. Requires purpose or becomes dangerous."
 

@@ -75,6 +75,13 @@ After the battle: asked [[Ono]] if any escaped. Requested a private word with th
 ### [[Session 10 - Many Zanithars]]
 **Split off from the party at the start of the session to ride to the [[Troll Claw Hills]]** -- heading to the new [[Zhentarim]] HQ to confront [[Samus]] directly. **Asked the party for backup** with Samus once they had delivered the Duchess to [[Waterdeep]]. Per [[Laeral Silverhand|Silverhand]] later that day: she **already knew Martavis was a Harper** before the party arrived -- the Harper leadership has been tracking him all along.
 
+### [[Session 12 - The Gate of the Far Realms]]
+**Attacked the new Zhentarim HQ in the [[Troll Claw Hills]] without waiting.** While the party slept after taking the [[Lords' Alliance]] teleport oath, Martavis launched his assault on [[Samus]]'s castle. By the time [[Laeral Silverhand|Silverhand]] teleported the party in 2 miles out, **combat was already underway inside the main building**.
+
+As the party approached riding hard: open double doors, fighting visible inside, **Martavis seen kneeling**. **CLIFFHANGER.** Whether wounded, captured, beaten, or otherwise -- unknown at session end.
+
+Per Silverhand's briefing earlier in the session: Martavis **fears [[Samus]]** -- *"He rose out of nothingness to lead the Zhentarim. A brutal warrior, who even Martavis fears."* The unsolo'd assault may be Martavis acting on incomplete information, urgency, or compromised judgment.
+
 ## Notes
 - Deep cover Harper agent -- maintained cover for the entire campaign until Session 9
 - Commands the Phoenix Zhent faction; troops are loyal to him personally

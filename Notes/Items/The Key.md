@@ -4,23 +4,28 @@ tags:
   - Artifact
   - DeadThree
   - FarRealm
-  - Speculative
-status: Unidentified; primary candidate is Ahmendril's two gemstone pendants
+  - DivinelyHidden
+status: **Confirmed missing piece**; location divinely hidden; primary candidate is Ahmendril's two gemstone pendants
 ---
 # The Key
 
-**Type:** Suspected artifact -- inferred third piece of the sealed Dead Three Far Realm gateway
-**Origin:** Built by the **[[The Dead Three|Dead Three]]** (theorized)
-**Current Possessor:** Unknown -- strongest suspect is [[Ahmendril]]
+**Type:** Third piece of the [[The Gate of the Far Realms|Gate of the Far Realms]] -- **confirmed by [[Laeral Silverhand|Silverhand]] in [[Session 12 - The Gate of the Far Realms|Session 12]]**
+**Origin:** Built by the **[[The Dead Three|Dead Three]]** (one piece per god)
+**Current Possessor:** Unknown -- **divinely concealed**
 **Role in the Gateway:** The **key** -- the unlocking mechanism
-**See also:** [[Notes/Items/The Door of the Dead]] (doorway), [[Notes/Items/The Stolen Keystone]] (keystone)
+**See also:** [[Notes/Items/The Door of the Dead]] (doorway), [[Notes/Items/The Stolen Keystone]] (keystone), [[The Planetar's Warning]]
 
-## Status: Theoretical
+## Status: Confirmed Piece, Divinely Hidden
 
-We have **not directly identified the Key.** Its existence is inferred from the three-piece "doorway + keystone + key" gateway architecture the party theorizes from:
-- [[Laeral Silverhand|Silverhand]]'s [[Session 11 - When the World Burns|Session 11]] briefing on the Dead Three building a gateway and scattering "the pieces"
-- The known Door + Keystone giving us two of the three traditional arch components
-- The patterned dualities in the larger plot (two discs, two dragons, two pendants on Ahmendril)
+[[Laeral Silverhand|Silverhand]] in [[Session 12 - The Gate of the Far Realms|Session 12]]: **"The bad guy already has two of the three pieces. The only part missing is the Key."**
+
+The three-piece model is confirmed. The Key exists, has not been recovered by [[Ahmendril]] (yet), and is **divinely protected from being located via magic**.
+
+[[Lord Celleborn Ellenfear|Celleborn]] attempted a 4th-level Divination ritual to find the Key. A **planetar** appeared and forbade the search:
+
+> *"Such questions are forbidden. It is important that such things should not be found."*
+
+See **[[The Planetar's Warning]]** for the full exchange. Divine forces are actively gatekeeping the Key's location.
 
 ## Primary Candidate: Ahmendril's Gemstone Pendants
 
@@ -71,12 +76,31 @@ If the Key is Bhaal's piece: it would be about **the act of cutting / piercing**
 - **Press [[Lord Celleborn Ellenfear|Celleborn]]** -- his Dead Three thesis may cover gateway architecture from the public record
 - **Find pre-Time-of-Troubles records** -- if there's documentation of the gateway being built, the piece roster is in there
 
+## Session 12 Updates
+
+### "Probably NOT the Mask" Reinforced
+Argument from [[Session 12 - The Gate of the Far Realms|Session 12]]: [[Ahmendril]] had access to [[The Goat Head Mask|the Mask]] at [[Dragonspear]] but **didn't take it**. If the Mask were the Key, Ahmendril would have grabbed it. So the Mask is **almost certainly not the Key.**
+
+### Divine Concealment Implications
+The planetar's appearance changes the strategic picture for the Key:
+- **Cannot be located by mortal divination** -- Divination, Locate Object, Locate Creature, Scrying, etc. are all expected to fail (or trigger further divine response)
+- **The Key may not be on Ahmendril** -- it's possible the gods have it themselves, or it's in a sealed celestial-protected location
+- **OR the Key is on Ahmendril and the gods are protecting his location for unknown reasons** -- which would be strange but not impossible
+- The planetar's "seek the one who stole them" line ambiguates: "them" = the two pieces Ahmendril already has, suggesting the Key is **separate** from those two
+
+### Per-God Mapping (Updated Session 12)
+- **Door = NOT Bane** (confirmed by Silverhand). Bhaal or Myrkul (best guess Myrkul -- "Door of the Dead" name, death-touch effect)
+- **Keystone = ???** Bane, Bhaal, or Myrkul (whichever isn't the Door). Working guess: Bane (load-bearing authority)
+- **Key = ???** Whichever god isn't the Door or Keystone. Working guess: Bhaal (the "Key" as a piercing/cutting instrument matches Bhaal's portfolio of murder)
+
 ## Connections
 
-- [[Ahmendril]] / [[Zanithar]] -- Primary suspect for current possession
-- [[Notes/Items/The Door of the Dead|The Door of the Dead]] -- Companion piece
-- [[Notes/Items/The Stolen Keystone|The Stolen Keystone]] -- Companion piece
+- [[Ahmendril]] / [[Zanithar]] -- Primary suspect for current possession (but divinely uncertain)
+- [[Notes/Items/The Door of the Dead|The Door of the Dead]] -- Companion piece (with Ahmendril)
+- [[Notes/Items/The Stolen Keystone|The Stolen Keystone]] -- Companion piece (with Ahmendril)
 - [[The Dead Three]] -- Original makers
 - [[The Far Realm]] -- What the gateway opens
+- [[The Gate of the Far Realms]] -- Composite artifact this is part of
+- [[The Planetar's Warning]] -- Divine intervention restricting the search
 - [[Laeral Silverhand]] -- Best source of cosmological knowledge
 - [[Lord Celleborn Ellenfear|Celleborn]] -- Dead Three subject-matter expert

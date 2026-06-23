@@ -97,6 +97,11 @@ During the night attack: hit twice for 28 dam each, saved both poison saves (26 
 ### [[Session 11 - When the World Burns]]
 Encouraged the party to make **Tiny Hut** standard practice going forward. Sought a senechal in the morning. **Bought a new plant** to replace the one defenestrated last session. **Suggested everyone buy a Revivify diamond** (500 gp+) as standing insurance against another Pencheska night. Pressed [[Laeral Silverhand|Silverhand]] on [[The Goat Head Mask|the helmet]] (she's more worried about [[The Door of the Dead|the Door]]; the helmet might be a phylactery). During the night dragon attack: cast **Darkvision** on the whole party. On the roof, saw a second dragon toward the docks. **After the Tarrasque rampage, cast Locate Object on the [[The Stolen Keystone|missing castle keystone arch]]** -- it was already over 1000 feet away.
 
+### [[Session 12 - The Gate of the Far Realms]]
+**Day of triage.** Took off ahead to follow the path of destruction toward the second dragon. Joined [[Laeral Silverhand|Silverhand]] (who was lifting a building off victims) and **healed casualty after casualty** in the dragon-attack aftermath. Used all his spells through the day healing people. Cast a divine-insight spell (Commune or similar -- specific spell uncertain) after the planetar appeared during Celleborn's Divination ritual; concluded **the gods specifically don't want the Key found**.
+
+Confirmed in-fiction as the holder of the **Abyssal control scroll** ([[Ahmendril]]'s dragon-control instructions for [[Rofidian]] / [[Ravica]]). Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle and rode in with the party.
+
 ## Notes
 - **Dispel Magic** now confirmed in his kit and lethally effective
 - **Greater Restoration** confirmed (cleric of sufficient level, Twilight Domain)

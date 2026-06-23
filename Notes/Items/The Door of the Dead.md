@@ -14,15 +14,23 @@ status: In [[Ahmendril]]'s possession; piece of the sealed Far Realm gateway
 **Role in the Gateway:** The **doorway** -- the literal aperture piece
 **See also (plot tracking):** [[Notes/Plots/The Door of the Dead]]
 
-## The Myrkul Connection (Working Hypothesis)
+## The Bhaal-or-Myrkul Connection (Session 12 Update)
 
-The party believes the Door is **Myrkul's** contribution to the three-piece gateway. The case:
+[[Laeral Silverhand|Silverhand]] in [[Session 12 - The Gate of the Far Realms|Session 12]] **confirmed the Door is NOT Bane** -- it's Bhaal or Myrkul.
+
+The party's best guess: **Myrkul.** The case:
 - Name: literally **"The Door of the Dead"** -- Myrkul's portfolio (death, the undead)
 - Effect: **instant death on touch** -- a Myrkul signature
 - Bodies at [[Dragonspear]]: piled corpses -- Myrkul's iconography
 - The "way through" / passage / aperture theme matches Myrkul as the gatekeeper of the realm of the dead
 
-If each piece is tied to one of the Dead Three, the other two pieces should track to Bane and Bhaal. See [[Notes/Items/The Stolen Keystone|the Keystone]] and [[Notes/Items/The Key|the Key]] for current per-god speculation.
+If correct, the other two pieces are Bane and Bhaal:
+- **[[Notes/Items/The Stolen Keystone|Keystone]]** -- working guess Bane (load-bearing authority -- "keystone of tyranny")
+- **[[Notes/Items/The Key|Key]]** -- working guess Bhaal (piercing/cutting instrument -- the murder/unlocking act)
+
+## The Composite Artifact
+
+The Door + Keystone + Key together form **[[The Gate of the Far Realms]]** -- the working name [[Laeral Silverhand|Silverhand]] gave the composite ([[Session 12 - The Gate of the Far Realms|Session 12]]).
 
 ## Physical Description
 

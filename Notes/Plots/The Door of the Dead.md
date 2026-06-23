@@ -74,3 +74,4 @@ The dragon revival may be a **distraction, a power source, or a delivery mechani
 - [[Session 07 - The Door of the Dead]] -- **Learned of it.** Bathere's notes name it; Ahmendril took it
 - [[Session 10 - Many Zanithars]] -- Silverhand confirmed Ahmendril still has it; framed as part of dragon revival
 - [[Session 11 - When the World Burns]] -- **THE REFRAME.** A piece of a sealed Far Realm gateway built by the Dead Three. Top priority of all artifacts in play
+- [[Session 12 - The Gate of the Far Realms]] -- **Subsumed into composite plot [[The Gate of the Far Realms]].** [[Laeral Silverhand|Silverhand]] formally tasked the party with finding all three pieces. The Door is **NOT Bane** -- it's Bhaal or Myrkul (best guess: Myrkul). Detailed Items note now lives at [[Notes/Items/The Door of the Dead]]

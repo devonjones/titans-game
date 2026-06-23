@@ -43,11 +43,16 @@ In this campaign:
 
 ## Open Questions
 
-1. Is the Cult of the Dragon present in this campaign, or is the Cult just a label for methods?
+1. ~~Is the Cult of the Dragon present in this campaign, or is the Cult just a label for methods?~~ **Answered [[Session 12 - The Gate of the Far Realms|Session 12]]: PRESENT. They are the resurrection agents for Rofidian and Ravica.**
 2. Why does the [[The Dead Three Temple|Dead Three temple]] in Daggerford use a Cult of the Dragon ritual?
 3. Who is the operational head?
 4. What's their relationship to the [[Zhentarim]]?
-5. With the dragons risen, what's the Cult's next move?
+5. With the dragons risen (one dead, one loose), what's the Cult's next move?
+
+## Session Appearances
+
+### [[Session 12 - The Gate of the Far Realms]]
+**Confirmed as the active resurrection agents** for [[Rofidian]] (red) and [[Ravica]] (black). The disc colors match the dragon colors. The Cult is an **operating party** in the campaign now, not just a methodology reference. Coalition with [[Ahmendril]] / [[Zanithar]] presumed; specifics unconfirmed.
 
 ---
 

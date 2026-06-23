@@ -132,4 +132,15 @@ Day spent shopping (Vaelin's new plant, **Revivify diamonds for everyone**) and 
 
 **Night: two dragons attacked [[Waterdeep]].** Castle shook, main gate fell, party defended at the gate. **At dawn a [[The Tarrasque|Tarrasque]] rose from the sea**, killed the black dragon, and crashed through the city wall pursuing the other. After: party found the **[[The Stolen Keystone|main entrance keystone arch deliberately removed]]** from the castle. Locate Object: already over 1000 feet away.
 
-**Party leveled to 12** (Cael was already there; confirm at table whether he advanced or rest caught up).
+**Party leveled to 12** together at session end. Cael: Sorcerer 10 / Cleric 2.
+
+### [[Session 12 - The Gate of the Far Realms]]
+*Devon (Cael) missed some early minutes. Otherwise full party.*
+
+**Day in Waterdeep:** failed to read the keystone-theft teleportation runes (Celleborn's call: arch-wizard work). Encountered [[Unthar Froom]] / [[Order of the Fist]] -- limited intel shared (Silverhand had excluded him from earlier briefings). Caught up with [[Vaelin]] mid-triage. Helped harvest [[Ravica]]'s corpse with [[Lord Celleborn Ellenfear|Celleborn]]'s father's team. **Celleborn cast Gentle Repose on the dragon** -- no re-resurrection.
+
+**Silverhand's library briefing:** confirmed **[[The Gate of the Far Realms|Gate of the Far Realms]]** architecture; **[[Ahmendril]] holds 2 of 3 pieces**, only [[Notes/Items/The Key|the Key]] remains. Door is NOT Bane (Bhaal or Myrkul). **Celleborn's Divination ritual** for the Key triggered a **planetar** -- the gods forbid the search ([[The Planetar's Warning]]).
+
+**Took the [[Lords' Alliance]] teleport-circle oath** (Zone of Truth + blood + Geas). Joined the network.
+
+**Cliffhanger:** woke to news Martavis had already attacked Samus's castle. Teleported to a field 2 miles out, rode hard to the castle, saw open double doors, combat inside, and **[[General Martavis|Martavis]] kneeling**.

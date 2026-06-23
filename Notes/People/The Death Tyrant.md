@@ -83,9 +83,24 @@ The Abyssal **control scroll** is currently in [[Vaelin]]'s possession -- a high
     - **[[Viggio Martel|Viggio]]** (dead) -- Samus's council asset in Daggerford
     - Unnamed Wolf cavalry captain (dead, killed [[Session 08 - Running the Gauntlet|Session 8]]) -- one of Samus's field officers
 
-## Current Status
-- **At large.** Has the Door of the Dead and at least one disc. Heading toward [[Mount Hotenow]] to complete the ritual
+## Current Status (Session 12 Update)
+- **At large.** Per the planetar in [[Session 12 - The Gate of the Far Realms|Session 12]]: ***"He moves around a lot."*** Don't expect a fixed location
+- **Holds 2 of 3 pieces of [[The Gate of the Far Realms]]** -- [[Notes/Items/The Door of the Dead|the Door]] and [[Notes/Items/The Stolen Keystone|the Keystone]]
+- **Has NOT yet acquired [[Notes/Items/The Key|the Key]]** -- and the Key is **divinely concealed** (see [[The Planetar's Warning]])
+- **Magic suppression**: per [[Session 12 - The Gate of the Far Realms|Session 12]] discussion, the death-tyrant eye carries an active antimagic effect -- consistent with the antimagic experienced in [[Session 04 - Good Timing|Session 4]]. He operates in an antimagic field of his own
 - **Priority target,** but **the Zanithar role must also be understood** -- if we only kill him, another Zanithar appears
+
+## Holdings
+- [[Notes/Items/The Door of the Dead|The Door of the Dead]] -- gateway piece (taken Dragonspear)
+- [[Notes/Items/The Stolen Keystone|The Keystone]] -- gateway piece (taken Waterdeep, Session 11)
+- [[The Disk|At least one disc]] -- ritual artifact (probably both, post-revival)
+- Two gemstone pendants (blue + red, per Session 4) -- possibly [[Notes/Items/The Key|the Key]], possibly inert jewelry, possibly something else
+
+## What the Party Has Against Him
+- [[Vaelin]] holds the **Abyssal control scroll** -- the only known leash on his revived [[Rofidian|dragon]]
+- The party is en route to [[Samus]] (his lieutenant) for intelligence
+- [[Lords' Alliance]] teleport network access (oath-bound)
+- [[Lord Celleborn Ellenfear|Celleborn]]'s [[The Dead Three|Dead Three]] expertise
 
 ## Open Questions
 - What IS a Zanithar? Lich phylactery cycle? Possessed body? Oath-binding? A cult position?

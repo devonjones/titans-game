@@ -91,6 +91,9 @@ Accepted the owl note from Martavis, checked it for traps. Asked Martavis *"What
 ### [[Session 11 - When the World Burns]]
 Made the rounds during the day -- **checking in with his Harper / [[Moonwhisper Caravan|caravan-folk]] / [[The Ashen Spears]] contacts** in [[Waterdeep]]. During the night dragon attack: cast **Mirror Image** during muster, went to the roof with the party. On the roof saw the giant dragon breathing fire. Engaged at the main gate alongside the party when it fell. Present for the Tarrasque arrival and the discovery of [[The Stolen Keystone|the missing keystone arch]].
 
+### [[Session 12 - The Gate of the Far Realms]]
+Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle. **Acquired a large black percheron warhorse** and led the ride hard through a makeshift fence gate toward the castle.
+
 ---
 
 ## Background Summary

@@ -10,7 +10,7 @@ status: Stolen during [[Session 11 - When the World Burns|Session 11]]; over 100
 
 **Type:** Suspected artifact -- fragment of the sealed Dead Three Far Realm gateway
 **Origin:** Was set in the main entrance arch of the [[Waterdeep]] royal castle (hidden in plain sight as architecture)
-**Current Possessor:** Unknown thief; over 1000 ft from the castle when [[Vaelin]] cast Locate Object at end of [[Session 11 - When the World Burns|Session 11]]
+**Current Possessor:** **[[Ahmendril]]** (confirmed [[Session 12 - The Gate of the Far Realms|Session 12]] by [[Laeral Silverhand|Silverhand]]: "the bad guy already has two of the three pieces")
 **Role in the Gateway:** The **keystone** -- the structural lock holding the arch together
 **See also (plot tracking):** [[Notes/Plots/The Stolen Keystone]]
 

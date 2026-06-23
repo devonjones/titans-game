@@ -46,3 +46,10 @@ Identified by name; incriminating notes recovered.
 
 ### [[Session 10 - Many Zanithars]]
 **Target of [[General Martavis|Martavis]]'s next move.** Martavis split off from the party to ride to the new [[Zhentarim]] HQ in the [[Troll Claw Hills]] -- going to confront Samus directly. **Asked the party for backup.** Per the Session 9 reveal, Samus reports to [[Ahmendril]] (the current [[Zanithar]]) -- and per Silverhand's Session 10 briefing, Ahmendril is one of many Zanithars in a long-running cycle. Samus is one tier above [[Viggio Martel|Viggio]] in the enemy hierarchy.
+
+### [[Session 12 - The Gate of the Far Realms]]
+**Confirmed target.** [[Laeral Silverhand|Silverhand]] agreed to teleport the party to back up [[General Martavis|Martavis]] in his fight against Samus. Per Silverhand: *"He rose out of nothingness to lead the Zhentarim. A brutal warrior, who even Martavis fears."*
+
+**Martavis attacked Samus's castle without the party** -- while they slept after taking the oath. By session end the party had teleported in 2 miles out and was riding to the castle as combat raged inside. **Samus's status unknown.**
+
+If captured alive (or by other means questioned), Samus is the **next intelligence source on [[Ahmendril]]** -- the planetar's "He moves around a lot" line means a mortal source like Samus may be the only practical path to finding Ahmendril.

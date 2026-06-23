@@ -30,3 +30,6 @@ A hilly region along the Trade Way between Baldur's Gate and Daggerford. [[Harpe
 
 ### [[Session 10 - Many Zanithars]]
 **[[General Martavis]] is en route to the Troll Claw Hills** -- going to confront [[Samus]] at the new [[Zhentarim]] HQ. **Asked the party for help** with Samus once the Duchess is safely in [[Waterdeep]]. Martavis commands the Phoenix cavalry but is going up against the Wolf faction's leadership at their fortified site.
+
+### [[Session 12 - The Gate of the Far Realms]]
+**Assault begins.** [[General Martavis|Martavis]] attacked the Zhentarim HQ overnight -- did NOT wait for the party. [[Laeral Silverhand|Silverhand]] teleported the party to a field 2 miles from the castle. Party rode hard through a makeshift fence gate strewn with bodies from both sides. As they approached the main building they saw **open double doors, combat inside, and [[General Martavis|Martavis]] kneeling**. Cliffhanger.

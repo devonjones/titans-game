@@ -65,6 +65,22 @@ The Duchess requests a private conversation. Room empties except the Duchess, Si
 
 **Status end of session:** alive, last seen flying toward the wall during the attack. The party has not yet checked in with her about the aftermath.
 
+### [[Session 12 - The Gate of the Far Realms]]
+
+**Rescue work all day.** Encountered by the party while lifting a building off victims. Briefly briefed on [[The Stolen Keystone|the keystone theft]]; helped continue rescue and rebuilding.
+
+**The Library Briefing (second part).** After the party found her at the council, gave the **biggest single info dump of the campaign**:
+- **Asked the party to find the other pieces of the door** -- formally tasked them
+- Confirmed: **[[Ahmendril]] has 2 of 3 pieces of [[The Gate of the Far Realms]]**. Only [[Notes/Items/The Key|the Key]] is uncollected
+- Each piece is connected to one of the [[The Dead Three|Dead Three]]
+- **The Door is NOT Bane** -- it's Bhaal or Myrkul
+- Believed the composite is **The Gate of the Far Realms** (working name)
+- Cannot trace the teleportation runes [[Viseli Bar|Viseli]] asked about
+
+**Required an oath** for [[Lords' Alliance]] teleport-circle access. Summoned an [[Order of the Fist]] paladin (full plate, blue fist on breastplate) to administer the **Zone of Truth** ritual; then **Silverhand took drops of blood** and cast **Geas** to bind the oath.
+
+**Morning of Session 12 end:** **anxiously awaiting the party** -- [[General Martavis|Martavis]] had **already attacked the Zhent castle** while the party was sleeping. Teleported the party to a field 2 miles out so they could intervene.
+
 ## Relationships
 
 - **[[Lady Morwen Daggerford]]** -- personal friend, ally; embraced on arrival

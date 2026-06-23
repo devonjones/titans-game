@@ -84,3 +84,6 @@ If this is correct:
 - **The Tarrasque rose at dawn**, killed one dragon (black), and is pursuing the other. The dragons attacking Waterdeep alone may have been enough to trigger world-threatening-event level response
 
 Caveat: the two attacking dragons could be unrelated -- coincidence of timing -- but the convergence with the Tarrasque appearance argues strongly otherwise.
+
+### [[Session 12 - The Gate of the Far Realms]] -- Confirmed
+[[Laeral Silverhand|Silverhand]] confirmed: **[[Rofidian]] (red) and [[Ravica]] (black) were resurrected by the [[Cult of the Dragon]] using the discs.** Disc colors match dragon colors. **Both discs presumed expended.** [[Ravica]] is dead (killed by [[The Tarrasque|Tarrasque]], corpse Gentle Repose'd); [[Rofidian]] still loose. The Abyssal **control scroll** remains with [[Vaelin]] -- the only known leash on Rofidian. **DO NOT activate the scroll without further intel** -- it may bind the dragons to the scroll-holder, or may bind the holder to the dragons; we don't know which.

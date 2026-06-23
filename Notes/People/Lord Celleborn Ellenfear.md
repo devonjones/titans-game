@@ -99,6 +99,20 @@ His parents advised the party sleep in the castle. Cast **Shadow Blade**. Moved 
 
 **Party leveled to 12** at session end (confirm whether Cael also advanced or was already there).
 
+### [[Session 12 - The Gate of the Far Realms]]
+
+**Tried to read the teleportation runes** at the keystone theft site. **Failed.** Read: **an arch-wizard did this** -- the runes are above his level. Sent the keystone-theft notification to [[Lady Morwen Daggerford|the Duchess]] (who responded *"Keystone?"* -- she hadn't heard).
+
+**Recognized [[Unthar Froom]]** -- the dwarf paladin head of the [[Order of the Fist]]. Remembered that **Silverhand had excluded Unthar** from the Session 10 briefing, so **politely declined to share full intel** with him. Confirmed only that the Dead Three are behind it and the Cult of the Dragon is involved.
+
+**Sent his father a message** asking for help butchering and harvesting [[Ravica]]'s corpse. Father arrived with a wizard, alchemist/smith, and merchant. **Cast Gentle Repose on Ravica's body** -- prevents rot AND prevents re-resurrection.
+
+**Cast Divination as a 4th-level ritual to find [[Notes/Items/The Key|the Key]].** A **planetar appeared** and forbade the search: *"Such questions are forbidden."* See [[The Planetar's Warning]] for the full exchange.
+
+Asked [[Laeral Silverhand|Silverhand]] about [[Lords' Alliance]] teleport circles -- this triggered the oath ceremony with an [[Order of the Fist]] paladin. Took the oath. Teleported to the field 2 miles from [[Samus]]'s castle.
+
+**Confirmed Dead Three subject-matter expertise.** Wrote his doctoral thesis on them; recognizes when divine forces (planetar) intervene in his work.
+
 ## Notes
 - ~~**Permanent HP reduction** from wraith — needs Greater Restoration or similar~~ **Restored** by Vaelin in Session 7
 - **Subject-matter expert on the Dead Three** -- wrote his doctoral thesis on them. Go to him for Dead Three context, symbolism, history
