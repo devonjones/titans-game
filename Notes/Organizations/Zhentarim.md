@@ -100,7 +100,7 @@ In canonical lore, the succubus Pencheska (posing as [[Lady Morwen Daggerford]])
 - **[[The Death Tyrant|Ahmendril]]** -- Supreme commander. Death Tyrant pursuing lich/dracolich transformation. Commands Samus
 - **Samus** -- Head of the Zhentarim in Daggerford. Reports to Ahmendril. The "S" who signed incriminating notes. Running "other events" on a timeline
 - **[[Viggio Martel]]** (dead) -- Samus's operative on the council. Tasked with replacing the Duchess. Killed by Martavis
-- **General Marcus** (dead) -- Commanded the Wolf army. Killed by the party in Session 8
+- **Unnamed Wolf cavalry captain** (dead) -- Field officer killed by the party in Session 8; orders looted from his body
 
 ### Allied / Infiltrated
 - **[[General Martavis]]** -- **Harper agent**, deep cover. Commands the Phoenix faction. Samus *believed* he controlled Martavis, but Martavis was reporting to the Harpers the whole time
@@ -109,7 +109,7 @@ In canonical lore, the succubus Pencheska (posing as [[Lady Morwen Daggerford]])
 
 | Faction | Emblem | Leader | Status |
 |---------|--------|--------|--------|
-| **Wolf** (Grey Wolves) | Grey Wolf | General Marcus (dead), under Samus | **Enemy** -- the real occupation force |
+| **Wolf** (Grey Wolves) | Grey Wolf | Under Samus directly | **Enemy** -- the real occupation force |
 | **Phoenix** | Phoenix tattoo | [[General Martavis]] | **Allied** -- Harper infiltration unit |
 
 The Grey Wolves (Commander [[Bennet]], guarding Viggio's manor in Session 3) were the genuine Zhent operatives. The Phoenix troops are loyal to Martavis personally.
@@ -129,7 +129,7 @@ The Grey Wolves (Commander [[Bennet]], guarding Viggio's manor in Session 3) wer
 - Martavis sent an owl note requesting the party hit the Wolf army's flank: *"Trust."*
 - He **killed Viggio** and left the body as a gift/message
 - Wolf army engaged at a river ford -- the party flanked while Phoenix cavalry hit from behind
-- Wolf army routed and destroyed. General Marcus (Wolf commander) confirmed killed in Session 8
+- Wolf army routed and destroyed
 - **Martavis revealed his Harper pin** -- deep cover agent the entire campaign
 - **Ahmendril confirmed as Samus's superior** -- the two arcs (Zhent occupation + lich transformation) are the same operation
 - Martavis heading to the **Troll Claw Hills** to hit the Zhent HQ

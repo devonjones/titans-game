@@ -121,14 +121,14 @@ Everything recontextualizes:
 
 ### Key Revelations
 
-**General Marcus** commanded the Wolf army -- we killed him in the cavalry engagement last session (the "captain" we looted).
+The unnamed Wolf cavalry captain the party killed and looted last session was one of [[Samus]]'s operational officers (Wolf chain of command).
 
 **Martavis killed Viggio.** Viggio's job was to **replace the Duchess** -- confirming the Pencheska conspiracy angle. Martavis pinned him to a tree as a message.
 
 **Ahmendril is a superior of Samus.** The hierarchy:
 - **Ahmendril** (top -- Death Tyrant, lich aspirant)
 - **Samus** (Zhentarim head in Daggerford, reports to Ahmendril)
-- **Viggio / General Marcus** (operatives)
+- **Viggio** (operative)
 
 **Martavis is headed for the Troll Claw Hills** (the Zhent headquarters from Session 6 intel).
 
@@ -141,7 +141,7 @@ The Zhentarim are split into at least two factions:
 | Faction | Leader | Status |
 |---------|--------|--------|
 | **Phoenix** | [[General Martavis]] | **Allied** -- Harper agent, commands cavalry, fought with us |
-| **Wolf** | General Marcus (dead), under **Samus** | **Enemy** -- the real occupation force, connected to Ahmendril |
+| **Wolf** | Under **Samus** | **Enemy** -- the real occupation force, connected to Ahmendril |
 
 The Phoenix tattoo/emblem was never a Zhent loyalty mark -- it was a Harper infiltration unit's identifier. The Wolves (Grey Wolves from Session 3, under Commander [[Bennet]]) were the genuine Zhent operatives working for Samus.
 
@@ -172,7 +172,7 @@ The Phoenix tattoo/emblem was never a Zhent loyalty mark -- it was a Harper infi
 
 ### The Real Chain of Command
 - ~~Samus → Viggio / Martavis~~ **Corrected:**
-- **Ahmendril → Samus → Viggio / General Marcus** (enemy hierarchy)
+- **Ahmendril → Samus → Viggio** (enemy hierarchy)
 - Martavis was never in this chain -- he was a Harper plant the whole time
 
 ### Waterdeep
@@ -194,7 +194,7 @@ The Phoenix tattoo/emblem was never a Zhent loyalty mark -- it was a Harper infi
 4. **Can Martavis take the Troll Claw Hills?** He has cavalry but is he enough?
 5. **Who was going to replace the Duchess?** Viggio's mission was replacement -- with whom?
 6. **What does [[Lord Celleborn Ellenfear|Celleborn]] know?** Still alone at Dragonspear
-7. **What orders were on General Marcus's body?** We looted him last session
+7. **What orders were on the Wolf captain's body?** We looted him last session
 8. **The naval blockade** -- still active?
 
 ---

@@ -81,7 +81,7 @@ The Abyssal **control scroll** is currently in [[Vaelin]]'s possession -- a high
 - **Ahmendril (Zanithar)** -- top of the enemy hierarchy
   - **[[Samus]]** -- runs Zhentarim operations for him; based in [[Daggerford]] or [[Troll Claw Hills]]
     - **[[Viggio Martel|Viggio]]** (dead) -- Samus's council asset in Daggerford
-    - **General Marcus** (dead) -- Wolf cavalry commander
+    - Unnamed Wolf cavalry captain (dead, killed [[Session 08 - Running the Gauntlet|Session 8]]) -- one of Samus's field officers
 
 ## Current Status
 - **At large.** Has the Door of the Dead and at least one disc. Heading toward [[Mount Hotenow]] to complete the ritual

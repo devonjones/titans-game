@@ -99,7 +99,7 @@ Left [[Dragonspear]] ([[Lord Celleborn Ellenfear|Celleborn]] stayed behind to ch
 
 Received owl note from [[General Martavis|Martavis]]: *"I heard you got my gift... send your men to hit the flank of that army before the next river. Trust."* Stashed [[Lady Morwen Daggerford|the Duchess]] in a gully. Attacked the **Wolf [[Zhentarim]]** army's flank while Martavis's **Phoenix** cavalry hit from behind. Fought trolls including a dire troll. Martavis's swordsman killed the dire troll in 6 swings. Stormcrow fireballed troll corpses to stop regeneration. Enemies routed; Martavis's men killed all survivors including one who surrendered.
 
-**The Reveal:** Martavis showed his **[[Harpers|Harper]] pin**. He's been a deep-cover Harper agent the entire campaign. He killed [[Viggio Martel|Viggio]] (whose mission was to replace the Duchess). **Ahmendril is Samus's superior** -- the Death Tyrant runs the whole operation. General Marcus (Wolf army commander) was killed in Session 8. Martavis is heading to the **Troll Claw Hills** to hit the Zhent HQ. Waterdeep is accessible but will be under siege.
+**The Reveal:** Martavis showed his **[[Harpers|Harper]] pin**. He's been a deep-cover Harper agent the entire campaign. He killed [[Viggio Martel|Viggio]] (whose mission was to replace the Duchess). **Ahmendril is Samus's superior** -- the Death Tyrant runs the whole operation. Martavis is heading to the **Troll Claw Hills** to hit the Zhent HQ. Waterdeep is accessible but will be under siege.
 
 ### [[Session 10 - Many Zanithars]]
 *[[Lord Celleborn Ellenfear|Celleborn]] rejoined the party (Peter -- Kane's player -- also back at the table, healing from illness). Michael (Ono) absent.*

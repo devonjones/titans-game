@@ -45,4 +45,4 @@ Identified in [[Session 05 - Signed S]] as the head of the Zhentarim in Daggerfo
 Identified by name; incriminating notes recovered.
 
 ### [[Session 10 - Many Zanithars]]
-**Target of [[General Martavis|Martavis]]'s next move.** Martavis split off from the party to ride to the new [[Zhentarim]] HQ in the [[Troll Claw Hills]] -- going to confront Samus directly. **Asked the party for backup.** Per the Session 9 reveal, Samus reports to [[Ahmendril]] (the current [[Zanithar]]) -- and per Silverhand's Session 10 briefing, Ahmendril is one of many Zanithars in a long-running cycle. Samus is one tier above [[Viggio Martel|Viggio]] / General Marcus in the enemy hierarchy.
+**Target of [[General Martavis|Martavis]]'s next move.** Martavis split off from the party to ride to the new [[Zhentarim]] HQ in the [[Troll Claw Hills]] -- going to confront Samus directly. **Asked the party for backup.** Per the Session 9 reveal, Samus reports to [[Ahmendril]] (the current [[Zanithar]]) -- and per Silverhand's Session 10 briefing, Ahmendril is one of many Zanithars in a long-running cycle. Samus is one tier above [[Viggio Martel|Viggio]] in the enemy hierarchy.

@@ -35,9 +35,9 @@ The [[Zhentarim]] have established a significant military presence in [[Daggerfo
 ## Chain of Command (Corrected, Session 9)
 
 ### Enemy Hierarchy
-**Ahmendril → Samus → Viggio / General Marcus**
+**Ahmendril → Samus → Viggio + Wolf field officers**
 
-Samus tasked Viggio with manipulating the council and "sent" Martavis -- but Martavis was a **Harper plant** the whole time, reporting to the Harpers rather than Samus. Viggio's true mission was to **replace the Duchess**. General Marcus commanded the Wolf army (killed Session 8). Samus is running "other events" on a timeline -- Daggerford is one piece of Ahmendril's larger operation.
+Samus tasked Viggio with manipulating the council and "sent" Martavis -- but Martavis was a **Harper plant** the whole time, reporting to the Harpers rather than Samus. Viggio's true mission was to **replace the Duchess**. The Wolf army (cavalry, infantry, captains/lieutenants) reports to Samus directly. Samus is running "other events" on a timeline -- Daggerford is one piece of Ahmendril's larger operation.
 
 ### Allied Infiltrator
 **[[General Martavis]]** -- Harper agent. Commands Phoenix faction. Samus believed he controlled Martavis, but Martavis was never in the enemy chain of command.
