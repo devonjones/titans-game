@@ -94,6 +94,86 @@ Made the rounds during the day -- **checking in with his Harper / [[Moonwhisper 
 ### [[Session 12 - The Gate of the Far Realms]]
 Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle. **Acquired a large black percheron warhorse** and led the ride hard through a makeshift fence gate toward the castle.
 
+### [[Session 13 - No Honor in Here]]
+**Lead negotiator with [[Samus]].** Rode into the [[Troll Claw Hills]] camp with the party.
+
+**Intelligence gathering during the huddle:** recognized **[[General Martavis|Martavis]]'s owl-mage** among the men inside the keep; **detected someone sneaking over to eavesdrop** on the party's private discussion (told him *"Be ready"*); **spotted a woman peeking out of the pavilion**.
+
+**Ran the [[Samus's Bargain|negotiation]].** Pushed hard and won the terms: refused Samus's "bring me the first helmet and I'll release them," held out with a flat ***"No,"*** and got Samus to concede the hostage entirely -- ride out, and Martavis follows. Asked the sharp question of the session: ***"Why does Ahmendril have your chain?"*** (Samus deflected.) Also probed the pavilion: *"What does the lady think?"*
+
+**Shook on the deal** -- then [[Cael Stormcrow|Stormcrow]] opened fire on the handshake.
+
+**In combat:** grappled Samus, **Hunter's Mark** as a bonus action, went into a smite. Had **Mirror Image** up. Took **three eldritch bolts (14, 13, 8)** from an airborne warlock -- the forced movement **broke his grapple**. Then two hits from Samus in the darkness, splash from Stormcrow's first [[Lightning Ball]], the 36-damage Fireball, and 28 from Stormcrow's controlled Lightning Ball. Samus's later attack **stripped his mirror images** instead of connecting.
+
+> Samus: ***"Doesn't appear I can count on any honor in here."***
+> Kane: *"Drop this darkness and we can have an honorable fight."*
+
+**Class confirmed at the table:** Paladin / Warlock / Champion Fighter multiclass.
+
+### [[Session 14 - Like a Cheap Cigar]]
+
+**Took [[Samus]] apart.** **29 + 14 = 43** on one turn, **39** on the next. Samus's knees wobbled and he looked dead at Kane.
+
+**Asked the question that matters:** *"Does your helmet come with any curses or negative effects I should know about?"* **Samus did not smile. Kane felt foreboding.** See [[Samus's Helm]].
+
+[[Kane]]: *"Hey guys, I'm moribund."* *(There followed a conversation about how moribund is defined.)*
+
+**Went down** for **12** to the **charmed [[General Martavis|Martavis]]** while trying to stop him from attacking the party. Also took **14** from Samus. **Healed by [[Vaelin]].**
+
+**Called the kill shot:** ***"Stormcrow, blow that door."*** [[Cael Stormcrow|Stormcrow]] blew the doors, Samus shut them again, and Stormcrow shot him through the wood.
+
+**After the fight -- Kane ran the peace:**
+- **Grabbed [[Samus's Helm|the helmet]]** (unidentified, possibly cursed, still carrying it)
+- To the surrendered camp: *"All of you who were forced to work for this asshole are now free to make amends."* -- with [[General Martavis|Martavis]] standing next to him **ready to swing**
+- **Let a stranger cast on him.** One of Martavis's casters moved to touch him; Kane allowed it, and was **gifted See Invisibility** -- which is how the party hunted the succubus
+- **Turned on the diplomacy** with the surrendered spellcasters, who *"looked a little more disgruntled than the rest"*
+- **Stopped [[Eldrick]]'s bleeding.** Eldrick is [[General Martavis|Martavis]]'s owl-mage, the Session 13 *captive-or-turned* question -- and the man Kane saved **survived Martavis's later purge of Samus's casters**
+- To [[General Martavis|Martavis]]: *"Wish we were here a little sooner."*
+- **Got the devil-deal answer out of Martavis:** [[Samus]] had bargained with a devil to secure a brothel to recruit souls -- the origin of [[The Troll Claw Oblivion Gate]]
+
+> **Kane's session.** He did the damage, took the hits, ran the surrender, saved the witness, and asked the two questions that produced the session's two biggest unknowns: what the helm is, and why the ground opened.
+
+### [[Session 15 - The Wall of Masks]]
+
+**Recognized [[Ahmendril]] in the Legend Lore vision.** When the sword-wielding, elementally-auraed figure appeared on a century-old battlefield, **Kane identified him as a masked figure he had seen before** -- and he was right. That recognition is what anchored the entire vision.
+
+**Showed [[Laeral Silverhand|Silverhand]] what [[Farraday]] looks like with Minor Illusion.** A cantrip, and it materially improved the spell that followed: Silverhand's Legend Lore, cast with that detail in hand, **reached all the way back to Farraday's childhood** where [[Lord Celleborn Ellenfear|Celleborn]]'s had not. *The more you already know, the more the spell gives you.*
+
+**He is carrying [[Samus's Helm|Samus's mask]].** [[Session 15 - The Wall of Masks|Session 15]] established what that is: **a resurrection anchor.** The question Kane asked a dying man -- *"does your helmet come with any curses or negative effects I should know about?"* -- was better than he knew. Samus's silence was a man watching the party take the thing that brings him back.
+
+> **And the answer to Kane's other question has arrived.** He asked [[Samus]] in [[Session 13 - No Honor in Here|Session 13]]: ***"Why does [[Ahmendril]] have your chain?"*** and got a deflection.
+>
+> **The chain was hanging on Samus's face.** See [[The Masks of Ahmendril]].
+
+> **Worth flagging: [[Farraday]] may share his patron.** She was cornered, called out for power, and **shadows answered** -- purple energy, a crew who *"dwell in the shadows,"* a raven mask. Kane is Shadar-kai and **the Raven Queen is his patron.** If that's the same door they both went through, Farraday is a conversation before she is a fight.
+
+**Leveled to 14.**
+
+### [[Session 16 - The Masks I Am Owed]]
+
+**Worked his sources, and they held up.** With [[Laeral Silverhand|Silverhand]] magically compromised ([[Silverhand's Missing Memory]]), Kane **checked [[Farraday]]'s sewer location against his own city network** — six years in the [[Waterdeep]] underworld plus the [[Moonwhisper Caravan]] connections. **What he learned tracks what Silverhand said.** Independent corroboration of intel from an unreliable source: exactly the right instinct.
+
+**Had a vision of pit fiends laying waste to the countryside.** Plural. **It was literal** — a second pit fiend stood a few hundred yards behind the first.
+
+**Proposed bringing the [[Order of the Fist]]** and asking the [[Lords' Alliance]] council for resources. A deliberate reversal of [[Session 12 - The Gate of the Far Realms|Session 12]], when the party withheld intel from [[Unthar Froom]] on Silverhand's now-suspect judgment. [[Unthar Froom|Unthar]] turned out to be **already mobilizing** and brought six paladins on half an hour's notice.
+
+**In the fight:**
+- **Killed an Erinyes for 57.** It discorporated
+- **Beckoned the pit fiend to fight him**
+- **Anchored the formation** — everyone within 10 ft of Kane and the paladins got **+10 to saves** from stacked auras
+
+### And then the play of the session
+
+With [[Ahmendril]] standing on the field and a pit fiend demanding masks he claimed he was owed:
+
+> **[[Kane]] shouted at the pit fiend: why attack us, when [[Ahmendril]] has all the masks?**
+
+> **He is telling the truth, and it is the only card worth playing.** The devil's debtor was [[Samus]], who is dead. **The mask maker holds the collection and is standing right there.** Kane is trying to **redirect an infernal debt onto the actual debtor** — the same coalition fracture [[Samus]] tried to sell the party in [[Session 13 - No Honor in Here|Session 13]], run from the opposite side.
+>
+> If it lands, a pit fiend and his legion change targets. See [[The Devil's Claim]].
+
+> **⚠️ And he is carrying [[Samus's Helm|the ram mask]]** into a fight where a devil asked for masks and then shouted **"SEARCH THEM!"**
+
 ---
 
 ## Background Summary

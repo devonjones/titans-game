@@ -102,7 +102,90 @@ Encouraged the party to make **Tiny Hut** standard practice going forward. Sough
 
 Confirmed in-fiction as the holder of the **Abyssal control scroll** ([[Ahmendril]]'s dragon-control instructions for [[Rofidian]] / [[Ravica]]). Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle and rode in with the party.
 
+### [[Session 13 - No Honor in Here]]
+**Threat assessment during the parley:** read the keep and concluded there are **many casters just inside** -- the single most important tactical read of the session, and it was correct (Fireball, three-beam Eldritch Blast, and a mind control all came out of that building).
+
+Cast a **divination during the party huddle** (Augury or similar; exact spell unconfirmed) before the party decided to take [[Samus's Bargain|Samus's deal]].
+
+**In the darkness:** moved up **feeling for where he thought [[Kane]] was** before the lights went out, heard the flapping of wings, and **got a hand on Kane's shoulder** -- successfully finding a party member blind. Took **10 damage and was pushed back 10 feet** by an eldritch bolt (Repelling Blast), then the 36-damage Fireball, then 28 from [[Cael Stormcrow|Stormcrow]]'s mind-controlled [[Lightning Ball]].
+
+### [[Session 14 - Like a Cheap Cigar]]
+
+**The aura won this fight.** He opened the session with his **Twilight Sanctuary running and stripping the enemy's mind control off its victims at the end of each turn** -- and kept it up the entire engagement. In a session where [[General Martavis|Martavis]] was charmed into attacking [[Kane]] and [[Cael Stormcrow|Stormcrow]] had been controlled the session before, **that aura was the party's answer to the thing that nearly beat them.**
+
+*(Side effect: it also **cancelled [[Cael Stormcrow|Stormcrow]]'s Light spell** when [[Kane]] called for illumination on the invisible succubus. Twilight Sanctuary's dim light overrode it. Worth pre-agreeing at the table whose light wins inside the sphere.)*
+
+**Triage and diagnosis:**
+- **Healed [[Kane]]** after Kane went down to the charmed Martavis
+- **Rolled Perception on [[General Martavis|Martavis]] and watched his wounds visibly close.** His read: **Martavis has regeneration of some kind.** This is the single most important observation of the session -- see the flag on [[General Martavis]]
+- Later noticed with the party that **Martavis doesn't need any healing at all**
+
+**Ran the field hospital.** After the surrender: **2d6 per round as a bonus action, one target at a time** (Aura of Vitality or equivalent), then **Prayer of Healing**. Healed everyone, including [[Viseli Bar|Viseli]] on request -- and **asked [[General Martavis|Martavis]] whether to heal the prisoners.**
+
+**Called the gate before it opened.** When the ground began collapsing, he named the shape of it: *Dukes of Hell, or folks of that sort, might show up at times like this -- **looking for payment.*** He was right. See [[The Troll Claw Oblivion Gate]].
+
+**Cast Sending to [[Laeral Silverhand|Silverhand]]:**
+
+> ***"Seamus dead, Martavis now in charge of the Zhents. New Oblivion Gate, Duke of Hell may be en route."***
+
+**Silverhand replied that she needs to know more.**
+
+**Counselled restraint and was ignored.** He told [[General Martavis|Martavis]] that order needs establishing and maintaining and that there is a price for it -- **but to hold back on the reaping**, because it would draw attention to the party's location. Martavis **assassinated all of [[Samus]]'s personal troops an hour outside [[Dragonspear]] anyway.** Vaelin also had ideas about how to root out which Zhents were dirty; Martavis pre-empted him by killing them all.
+
+**Made Tiny Huts** with [[Lord Celleborn Ellenfear|Celleborn]] (five total).
+
+**Plan for the morning: Word of Recall, whole party back to [[Waterdeep]].**
+
+### [[Session 15 - The Wall of Masks]]
+
+**He found the hole in [[Laeral Silverhand|Silverhand]]'s head.**
+
+In conversation at the castle it became apparent she may have been **charmed into forgetting something important.** **Vaelin had her doodling.**
+
+**She drew an owl mask.**
+
+> ***"What is the thing that you haven't asked for, that might help?"***
+
+He floated **Greater Restoration** and **Heal**; **she suggested Wish**; and **he attempted Divine Intervention to restore her memory. It failed.**
+
+> **This is the find of the session and possibly of the campaign.** The Open Lord of [[Waterdeep]], a [[Chosen of Mystra]], has been magically edited by [[Ahmendril]] -- and Vaelin got her to draw the evidence herself with a pencil. See [[Silverhand's Missing Memory]].
+>
+> **The doodle is a working channel.** It produced the owl mask once. **Ask again, with paper, about other subjects.** And Divine Intervention comes back after a long rest.
+
+**Named the crossroads:** *do we go close the hell gate, or pursue [[Farraday]] in [[The Waterdeep Sewers|the sewers]]?* Unresolved at session end.
+
+**Raised identifying an item** via a message to "the wizard." [[Laeral Silverhand|Silverhand]]: ***the pit fiend probably has it.*** *(Which item and which wizard is unclear -- flag for the table.)*
+
+**Leveled to 14.**
+
+### [[Session 16 - The Masks I Am Owed]]
+
+**He found the win condition and he built the party that could use it.**
+
+**The read:** ***what's keeping the gate open is most likely on the pit fiend.*** That resolved [[Session 15 - The Wall of Masks|Session 15]]'s crossroads — gate or sewers — and it corroborates [[Laeral Silverhand|Silverhand]]'s line about the unidentified item (*"the pit fiend probably has it"*). **Same object. Kill the devil, close the gate.**
+
+**The preparation:**
+- **Called for Hero's Feast before the fight** (10 min to cast, 60 to eat) — **immunity to poison and frightened**, advantage on WIS saves, +14 max HP. **Precisely counter-tuned to a pit fiend's Fear Aura and poison.** The single best possible pre-buff for this specific enemy, chosen in advance
+- **Declared he would attempt to banish it** — and [[Laeral Silverhand|Silverhand]] handed him **a scroll of Banishment** on top of his own slot. **Two attempts against a magic-resistant target**
+- **Distributed temp HP** — **39 to [[Lady Estrell]]**, more to others; [[Viseli Bar|Viseli]] ended up at **208**
+- **Set the formation:** everyone within **30 ft of Vaelin**, **10 ft of [[Kane]]** and the paladins for **+10 to saves**
+
+**The catch nobody else made:** walking the streets of [[Waterdeep]], he **noticed people who were disguised or illusory**, approached them as tourists needing directions — and **casually touching one, felt SCALES.** They claimed to be visitors from [[Chult]] avoiding offense. **[[Chult]] is [[Draymon]]'s posting.** See [[The Chultan Visitors]].
+
+**Both Banishments still unspent at session end.**
+
 ## Notes
 - **Dispel Magic** now confirmed in his kit and lethally effective
 - **Greater Restoration** confirmed (cleric of sufficient level, Twilight Domain)
+- **Reliable pre-fight threat assessment** -- his "many casters inside" call in Session 13 was exactly right, and his "Dukes of Hell come looking for payment" call in Session 14 was too
+- **Twilight Sanctuary is the party's anti-mind-control tool** -- strips charm/fear at the end of each turn, and it ran the whole of Session 14. **Caution: its dim light overrode an ally's Light spell**
+- **Sustained healing confirmed** -- 2d6/round bonus action, single target (Aura of Vitality or equivalent), plus Prayer of Healing
+- **Word of Recall** confirmed in his kit (Session 14 plan) -- though [[Lord Celleborn Ellenfear|Celleborn]]'s Teleport is what actually moved the party to [[Waterdeep]]
+- **Divine Intervention** confirmed -- attempted on [[Laeral Silverhand|Silverhand]]'s memory in Session 15 and **failed**. Retries after a long rest
+- **The party's social diagnostician.** The doodle trick that exposed [[Silverhand's Missing Memory]] was not a spell -- and neither was casually touching a stranger's arm to check for scales ([[The Chultan Visitors]])
+- **Hero's Feast** confirmed, cast from a **magic bowl**. Poison + frightened immunity, advantage on WIS saves, +14 max HP
+- **Banishment** confirmed, **plus a scroll** from [[Laeral Silverhand|Silverhand]]
+- **Sustained temp-HP distribution** across an 11-body war party
+- **He is the party's threat assessor and its quartermaster.** His pre-fight reads have been right three sessions running
+- **The party's diagnostician.** He spotted Martavis's regeneration; nobody else was looking
 - Details TBD as more is revealed in play

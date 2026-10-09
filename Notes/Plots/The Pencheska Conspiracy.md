@@ -52,13 +52,56 @@ A conspiracy to **replace ruling nobles** with substitutes -- likely shapechange
 ## Open Questions
 - **Is there a Pencheska in the [[Waterdeep]] council right now?** [[Dagult Neverember|Neverember]] and [[Thrun]] are unverified -- one of them could be a replacement already
 - **Is the household guard at the Ellenfear estate compromised?** The attackers got past them
-- **What's the relationship between Pencheska and the [[Zanithar]] / [[Ahmendril]] arc?** Top-down? Coincidental? Co-conspirators?
-- **Are the raven masks meaningful?** Iconography of an actual organization, or operational anonymity?
-- **Who runs Pencheska?** Has it been identified or is it still a shadow?
+- ~~**What's the relationship between Pencheska and the [[Zanithar]] / [[Ahmendril]] arc?**~~ **Session 13: top-down.** [[Farraday]] is an Ahmendril lieutenant and almost certainly ran the Ellenfear attack
+- ~~**Are the raven masks meaningful?**~~ **Session 13: yes — [[Farraday]]'s signature**
+- ~~**Who runs Pencheska?**~~ **Session 13: [[Farraday]], reporting to [[Ahmendril]]** (pending GM confirmation)
+- ~~**Is [[Farraday]] still in [[Waterdeep]]?**~~ **Yes — [[The Waterdeep Sewers]]. [[Laeral Silverhand|Silverhand]] gave the party a location** (Session 15)
+- **Is [[Laeral Silverhand|Silverhand]] herself compromised?** Not replaced — **edited.** See [[Silverhand's Missing Memory]]
 
 ## Priority
 
 **High.** The party is now a target. Sleeping arrangements, household security, divination defenses, and counter-intelligence all need to be considered going forward. The Duchess in particular is the highest-value target -- she escaped Daggerford but is now in a city where the conspiracy has demonstrated reach.
+
+## ✅ THE FARRADAY IDENTIFICATION — CONFIRMED (Session 15)
+
+**[[Session 15 - The Wall of Masks|Session 15]] settled it on screen.** [[Lord Celleborn Ellenfear|Celleborn]]'s Legend Lore vision on [[Farraday]] ends with her **descending on [[Ellenfear Manor]] — and the party watching themselves under attack.** She flees; the vision ends.
+
+**Pencheska is [[Farraday]]'s operation, run out of [[The Waterdeep Sewers|the Waterdeep sewers]], under [[Ahmendril]] — who briefed her personally immediately before the hit.**
+
+The original Session 13 reasoning follows.
+
+## The Session 13 Case
+
+**The raven masks have a name.**
+
+In [[Session 13 - No Honor in Here|Session 13]], [[Samus]] named three of [[Ahmendril]]'s lieutenants. The first:
+
+> ***"Farraday. Wears a raven's head mask. In Waterdeep."***
+
+Compare the [[Session 10 - Many Zanithars|Session 10]] attack on [[Ellenfear Manor]]: [[Lord Celleborn Ellenfear|Celleborn]]'s Detect Invisibility revealed *"a figure in the hallway: **raven mask**, leather armor, light clothing."* That attacker fought invisibly, nearly killed [[Cael Stormcrow|Cael]], **jumped out a window**, and (per [[Session 11 - When the World Burns|Session 11]]) **flew away**.
+
+Devon's immediate reaction at the table when Samus said the name: *"She had tried to kill us and jumped out a window, invisible."*
+
+**Working conclusion: [[Farraday]] led the Ellenfear attack.**
+
+### What This Collapses
+
+If the ID holds, several long-standing open questions resolve at once:
+
+- ~~**Are the raven masks meaningful?**~~ **Yes.** They are [[Farraday]]'s personal signature, not generic operational anonymity
+- ~~**What's the relationship between Pencheska and the [[Zanithar]] / [[Ahmendril]] arc?**~~ **Pencheska is Ahmendril's operation**, run through a named lieutenant. Not a parallel organization riding the same wave — the same command chain
+- **The [[The Stolen Keystone|keystone theft]]** plausibly falls under the same lieutenant. The arch-wizard whose teleport runes Celleborn couldn't read may be Farraday's asset, or Farraday herself
+- **The Session 10 attack targeted the party specifically** because the party is the obstacle to [[The Gate of the Far Realms|the Gate]] — not because of noble-replacement politics
+
+### ~~Caveat~~ — resolved
+
+~~This is a strong circumstantial identification, not a GM confirmation.~~ **Confirmed in [[Session 15 - The Wall of Masks|Session 15]] by Legend Lore.**
+
+### Open: was Session 10 a recovery operation?
+
+[[Farraday]] **personally recovered [[The Goat Head Mask|the goat mask]] from a dragon's lair for [[Ahmendril]]** (Session 15 vision). She then attacked the party at [[Ellenfear Manor]] on the night they were sleeping with that mask in their possession — multiple bedrooms simultaneously — **and withdrew without finishing.**
+
+**Is the goat mask still where the party left it in [[Waterdeep]]?**
 
 ## Session Appearances
 

@@ -14,6 +14,15 @@ status: In [[Ahmendril]]'s possession; piece of the sealed Far Realm gateway
 **Role in the Gateway:** The **doorway** -- the literal aperture piece
 **See also (plot tracking):** [[Notes/Plots/The Door of the Dead]]
 
+## ⚠️ It Is Warded Against Legend Lore (Session 15)
+
+[[Lord Celleborn Ellenfear|Celleborn]] recalled notes in **[[The Apotheosis Codex|Bathere's spellbook]]**: **the Door is especially resistant to Legend Lore.**
+
+Two consequences:
+
+1. **The enemy knows about the spell and hardens what matters.** Legend Lore on [[Samus's Helm|the Ram Helm]] and on [[Farraday]] produced complete biographies on the first casting, and **[[The Masks of Ahmendril|the masks are not warded]]**. **Cast on everything else before that gap closes** — starting with [[The Goat Head Mask]]
+2. **[[Bathere]] knew.** He wrote it down. Which is another point against [[Laeral Silverhand|Silverhand]]'s [[Session 10 - Many Zanithars|Session 10]] claim that Bathere and [[Ahmendril]] were working in parallel and did not know each other — **and she is now known to have been magically edited** ([[Silverhand's Missing Memory]])
+
 ## The Bhaal-or-Myrkul Connection (Session 12 Update)
 
 [[Laeral Silverhand|Silverhand]] in [[Session 12 - The Gate of the Far Realms|Session 12]] **confirmed the Door is NOT Bane** -- it's Bhaal or Myrkul.

@@ -4,12 +4,12 @@ tags:
   - Daggerford
   - Zhentarim
   - Harpers
-status: Ally
+status: Ally -- **BUT SEE THE SESSION 14 FLAG.** Regeneration observed; charmed at least once; behavior shifted hard
 ---
 # General Martavis
 
 **Role:** Zhentarim General (Phoenix faction) / **Harper Agent**
-**Status:** Ally (revealed Session 9)
+**Status:** Ally (revealed Session 9) -- **VERIFY HIM. See [[Session 14 - Like a Cheap Cigar|Session 14]] below**
 
 ## Affiliations
 - **[[Harpers]]:** Agent -- deep cover within the [[Zhentarim]]
@@ -82,8 +82,128 @@ As the party approached riding hard: open double doors, fighting visible inside,
 
 Per Silverhand's briefing earlier in the session: Martavis **fears [[Samus]]** -- *"He rose out of nothingness to lead the Zhentarim. A brutal warrior, who even Martavis fears."* The unsolo'd assault may be Martavis acting on incomplete information, urgency, or compromised judgment.
 
+### [[Session 13 - No Honor in Here]]
+**CLIFFHANGER RESOLVED: he was beaten, not killed.**
+
+The party rode in to find him **kneeling mid-swing** with [[Samus]] standing over him. Samus turned, saw the party, and spoke to someone at his side. **Martavis stood and stepped back** as they approached -- then shouted ***"Stand down."***
+
+**His troops were winning.** The Phoenix cavalry had the better of the courtyard fight against the Zhents near the barracks. His men *"looked perplexed"* at the stand-down order -- one of them snuck over to eavesdrop on the party's huddle and said *"What's going on, we were winning."* ([[Kane]] told him: *"Be ready."*)
+
+**He was the hostage.** [[Samus]] used him as the entire basis of [[Samus's Bargain|the bargain]] -- kill [[Ahmendril]]'s lieutenants, get Martavis back. Samus eventually conceded him for nothing but the party riding out of the camp.
+
+When [[Lord Celleborn Ellenfear|Celleborn]] tried to talk to him privately, Samus cut it off: *"You're not in charge."* Martavis moved back and let it happen. Samus to him: *"Mark, if you want this to descend into combat now, OK. If you don't, you'd better speak."*
+
+**Status at session end:** alive, on his feet, present at the camp — but the deal that would have freed him was broken when [[Cael Stormcrow|Stormcrow]] attacked Samus at the handshake. His position in the ensuing fight is unknown.
+
+~~**Open:** [[Kane]] recognized **Martavis's owl-mage** among the men *inside* [[Samus]]'s keep. Captive, or turned?~~ **Answered Session 14: captive.** He is [[Eldrick]], and he is back on Martavis's payroll scouting ahead of the column.
+
+### [[Session 14 - Like a Cheap Cigar]]
+
+**He was mind-controlled.** He stepped up to attack the party; [[Kane]] tried to stop him and **went down for 12**. [[Viseli Bar|Viseli]] grappled him and **kissed him** -- and the control broke.
+
+> ***"Fucking witch!"*** -- on being freed
+
+In a camp whose "brothel" was **five succubi under an infernal contract**, that is a **succubus Charm**. Which raises the question of **when it started** -- see below.
+
+**He then fought with the party.** Opportunity attack on the fleeing [[Samus]] (tried to trip, failed). After [[Cael Stormcrow|Stormcrow]] killed Samus:
+
+> ***"Samus is dead, I now command these forces! Stop fighting!"***
+
+**And they stopped.** Every objective the Phoenix arc has been building toward since [[Session 09 - The Wolf and the Phoenix|Session 9]] -- inheriting the [[Zhentarim]] -- achieved in one sentence.
+
+**Killed the succubus.** When [[Lord Celleborn Ellenfear|Celleborn]] spotted her invisible in the keep and asked *"Mark, do you want me to take out the invisible woman in front of you?"*, Martavis said ***"Yes!"***, and after Celleborn's Hold Monster paralyzed her, **Martavis put her down.** She dematerialized. **He spat on the floor where she had been.**
+
+**Explained the gate.** He told [[Kane]] that **[[Samus]] had made a deal with a devil to secure a brothel to recruit souls** -- the origin of [[The Troll Claw Oblivion Gate]].
+
+**Received the troop payroll chest** (gold and gems) from the party.
+
+**Commands about 20 men.** Roughly three-quarters of his cavalry are dead.
+
+### [[Session 15 - The Wall of Masks]]
+
+The party told him they would **head out in the morning to pursue [[Ahmendril]]'s lieutenants.**
+
+At dawn, **he said he plans to go hunt the surviving army men from the battle.**
+
+> ***He will just use his judgment to determine who needs to die or not.***
+
+**And he rode off alone.**
+
+> **⚠️ THIRD CONSECUTIVE SESSION.** [[Session 13 - No Honor in Here|Session 13]]: stood his troops down while they were winning. [[Session 14 - Like a Cheap Cigar|Session 14]]: charmed, regenerating, needed no healing, killed a surrendering warlock, renounced the [[Zhentarim]] inheritance he had spent twelve sessions earning, and **executed every one of [[Samus]]'s surrendered troops against [[Vaelin]]'s explicit advice.** Now: **riding out alone to kill more people by his own unreviewed judgment.**
+>
+> **Nobody has cast anything on him.** [[Kane]]'s Divine Sense is free and detects fiends and shapechangers at 60 feet. **Four succubi from that camp are still unaccounted for** ([[The Succubi Alliance]]).
+>
+> And the party has now separated from him entirely — they teleported to [[Waterdeep]], he rode into the field. **Whatever he is, he is operating unobserved.**
+
+---
+
+## ⚠️ THE SESSION 14 FLAG -- IS THIS STILL MARTAVIS?
+
+Four separate observations, in one session, that do not fit the man from Sessions 1-12.
+
+### 1. He regenerates
+
+**[[Vaelin]] rolled Perception and watched his wounds visibly close.** His read: **Martavis has regeneration of some kind.** Nothing in twelve sessions has suggested this.
+
+### 2. He never needs healing
+
+Later, while [[Vaelin]] worked down the line healing the entire camp at 2d6 a round, the party **noticed Martavis doesn't need any healing.** This is a man who was beaten in single combat by [[Samus]] the day before.
+
+### 3. He was demonstrably magically compromised
+
+He spent part of the fight **charmed and attacking [[Kane]]**. Whatever charmed him was still in that camp.
+
+### 4. The behavior turned
+
+| Before | Session 14 |
+|---|---|
+| Ran soup kitchens under deep cover | **Murdered a warlock** he had visibly considered taking prisoner |
+| Recovered the taxes because it was right | **Spat on the floor** where the succubus had been |
+| Twelve sessions maneuvering to inherit the Zhentarim | **Renounced the inheritance** -- they're all *"devil worshippers"* |
+| -- | **Assassinated every one of [[Samus]]'s personal troops**, casters first, an hour outside [[Dragonspear]] -- **after [[Vaelin]] explicitly advised him to hold back on the reaping** |
+| -- | Expressed regret that **the other four succubi got away** |
+
+### And four shapechangers escaped this camp
+
+[[The Succubi Alliance]] -- **five succubi**, one killed, **four at large.** Succubi are shapechangers with telepathy and charm. They were embedded in this exact camp, with these exact people.
+
+### The counter-argument, stated fairly
+
+- **He has always killed surrendering enemies.** [[Session 09 - The Wolf and the Phoenix|Session 9]]: his men killed all survivors including one who surrendered. *"No witnesses."* This is established, not new
+- **He was just beaten, held hostage, and magically violated.** That changes people
+- **Regeneration could be an item, a boon, or Harper kit** the party has never been read in on
+- **He distinguished his own people from Samus's** -- [[Eldrick]], a surrendered caster, was *not* killed in the reaping and is riding point
+- **"Devil worshippers" is now literally true.** [[Samus]] had an active devil contract. Refusing to command those troops is arguably correct
+
+### What to actually do
+
+**Cast something on him. Nobody has.**
+
+- [ ] **Detect Evil and Good** ([[Kane]]'s Divine Sense) -- detects fiends and shapechangers within 60 ft, no save
+- [ ] **Dispel Magic / Greater Restoration** -- if he's charmed rather than replaced
+- [ ] **Zone of Truth** -- [[Laeral Silverhand|Silverhand]] used one on the party for the teleport oath; the party knows how
+- [ ] **True Seeing** -- the definitive answer
+- [ ] **Ask him something only Martavis knows** -- the Thayan war, the emblem, [[Viggio Martel|Viggio]]'s body on the tree
+- [ ] **[[Vaelin]]'s aura already strips charm each round.** If he stayed charmed *inside* that aura, it is not a charm
+
+> **The cheapest test is [[Kane]]'s Divine Sense, and it is free.**
+
+### Retroactive question
+
+**Was he charmed in [[Session 13 - No Honor in Here|Session 13]] too?**
+
+His ***"Stand down"*** -- shouted at the party while his own Phoenix troops were **winning** the courtyard fight, to his men's visible confusion (*"What's going on? We were winning"*) -- has never made sense as a tactical call. If he was already charmed at the parley, **the entire Session 13 negotiation was staged around a compromised hostage.**
+
+
 ## Notes
 - Deep cover Harper agent -- maintained cover for the entire campaign until Session 9
+- **Lost to [[Samus]] in person** (Session 13) -- Silverhand's warning that Martavis fears him was well founded
+- **Regeneration observed** (Session 14, [[Vaelin]]'s Perception) -- unexplained, and he needs no healing
+- **Was charmed** (Session 14) -- broken by [[Viseli Bar|Viseli]]'s kiss
+- **Inherited and then renounced the [[Zhentarim]]** within a day
+- **Killed a succubus** and executed Samus's surrendered troops against advice
+- Commands ~20 riders; ~3/4 of his cavalry dead
+- His **stand-down order** while his own troops were winning suggests he judged Samus unbeatable in that moment, or was protecting something
 - Commands the Phoenix Zhent faction; troops are loyal to him personally
 - All cavalry so far -- may have been rushing to position
 - Kills surrendering enemies -- "no witnesses" approach. Pragmatic, not merciful

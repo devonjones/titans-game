@@ -141,7 +141,42 @@ The Grey Wolves (Commander [[Bennet]], guarding Viggio's manor in Session 3) wer
 - Confirmed: **[[Ahmendril]] holds 2 of 3 pieces of [[The Gate of the Far Realms]]**. The Zhent operation is part of the gateway-assembly plan, not a separate operation
 - The **arch-wizard** who teleported the keystone thieves into Waterdeep is presumably part of the same coalition -- elite wizardly support at Ahmendril's tier
 
+## Session 13: No Honor in Here
+- **[[Samus]] met in person for the first time.** Ram-horn hat, curly auburn viking hair, something on his face that garbles his speech. **He beat [[General Martavis|Martavis]] in single combat**
+- **THE COALITION IS FRACTURED.** [[Ahmendril]] **"has Samus's chain"** — Samus admitted the relationship, called it *"a mutually beneficial arrangement,"* refused to explain, and then **offered to have the party kill Ahmendril's three lieutenants** in exchange for Martavis's freedom. See [[Samus's Bargain]]
+- **[[Ahmendril]]'s lieutenant structure disclosed:** [[Farraday]] (raven mask, [[Waterdeep]]), [[Celine]] (Astral Plane), [[Draymon]] ([[Chult]])
+- **The Zhentarim are losing the field fight.** Martavis's Phoenix cavalry had the better of the courtyard engagement; one Zhent complained *"we were winning"* about the stand-down
+- **Samus's real strength is not his troops.** It's the **casters in the keep** — Fireball, an airborne warlock (Eldritch Blast + Repelling Blast, level 11+), and a mind-control effect that turned [[Cael Stormcrow|Stormcrow]] on his own party
+- **Samus's darkness is not a spell.** Produced from his mouth; resisted [[Lord Celleborn Ellenfear|Celleborn]]'s dispels until he finally landed one. Same profile as [[The Assassin]]'s Aura of Darkness
+- **The party broke the deal at the handshake.** Samus's *"Doesn't appear I can count on any honor in here"* is on the record in front of the whole camp
+
+## Session 14: Like a Cheap Cigar
+
+- **[[Samus]] IS DEAD.** Killed by [[Cael Stormcrow|Stormcrow]] -- Lightning Bolt through a closed door, decapitated. **The head of the Zhentarim in [[Daggerford]] is off the board after fourteen sessions**
+- **[[General Martavis|Martavis]] claimed the organization and then threw it away.** *"Samus is dead, I now command these forces! Stop fighting!"* -- **and they stopped.** Within the day he renounced it: they are all *"devil worshippers"*
+- **And then he killed them.** An hour outside [[Dragonspear]] he halted the column and **assassinated all of Samus's personal troops, beginning with the casters**, against [[Vaelin]]'s advice
+- **[[Samus]] had a second creditor.** Per Martavis: *"Samus had made a deal with a devil to secure a brothel to recruit souls."* The pavilion was an **infernal soul-harvesting operation staffed by five succubi.** His death called the note -- see [[The Troll Claw Oblivion Gate]]
+- **First confirmed succubus kill.** [[Lord Celleborn Ellenfear|Celleborn]] Hold-Monstered one in the keep; Martavis killed her; she dematerialized. **Four escaped.** [[The Succubi Alliance]] is confirmed with a body
+- **[[Eldrick]] recovered.** Martavis's owl-mage was a **captive**, not a turncoat. [[Kane]] stopped his bleeding; he now scouts for Martavis
+- **Martavis commands ~20 men.** About three-quarters of the Phoenix cavalry are dead
+- **The Zhent payroll chest** (gold and gems) was given to Martavis by the party
+
+### The Succession Vacuum
+
+| Tier | Status |
+|---|---|
+| **[[Ahmendril]]** | Alive. Holds 2 of 3 [[The Gate of the Far Realms|Gate]] pieces. **Just lost his mortal operations chief** |
+| **[[Samus]]** | **DEAD** |
+| **[[Viggio Martel]]** | Dead (Session 9) |
+| **Wolf field officers** | Dead (Sessions 8-9) |
+| **Samus's personal troops** | **Executed by Martavis** (Session 14) |
+| **Phoenix faction** | ~20 riders under Martavis, who has renounced the Zhent inheritance |
+
+**Open:** does [[Ahmendril]] appoint a new Samus, or take direct control of what's left?
+
+
 ## Connected Plots
+- [[Samus's Bargain]] - The Session 13 offer and its collapse
 - [[The Zhentarim Occupation]] - Current military presence in Daggerford
 - [[The Destabilization Strategy]] - Suspected architects of regional chaos
 - [[The Refugee Crisis]] - Driving refugees toward Daggerford; refugees being used as ritual sacrifice victims

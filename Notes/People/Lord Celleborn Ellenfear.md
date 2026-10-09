@@ -113,8 +113,82 @@ Asked [[Laeral Silverhand|Silverhand]] about [[Lords' Alliance]] teleport circle
 
 **Confirmed Dead Three subject-matter expertise.** Wrote his doctoral thesis on them; recognizes when divine forces (planetar) intervene in his work.
 
+### [[Session 13 - No Honor in Here]]
+
+**Opened the parley.** Tried to split [[General Martavis|Martavis]] from [[Samus]]: *"Mark, we want to talk to you, without this dude around."* Samus: *"You're not in charge."* Held the line on wanting proof of the party's allies first: *"First we want to know our allies are OK."* Then *"We need to know more."*
+
+Called the huddle: *"We need to consult among ourselves."* After the terms landed, gave the verdict: ***"Let's go. I don't give a fuck about this guy. Let's go."***
+
+**THE MVP OF THE FIGHT.** When [[Samus]] filled the area with darkness, Celleborn was **the party's only dispel option** -- [[Cael Stormcrow|Stormcrow]] has no Dispel Magic. He:
+- Attempted the dispel -- **cast on the effect, not on the spell** (correctly diagnosing it as a non-spell darkness effect). No go
+- Burned a **Fae point**. No go
+- **Action Surged**. No go
+- Took the 36-damage Fireball and 28 from Stormcrow's controlled [[Lightning Ball]] along the way
+- **Finally landed it and dispelled the darkness**, ending the blind fight
+
+His diagnosis is now the party's best evidence that Samus's darkness is a **breath/aura ability rather than a spell** -- the same profile as [[The Assassin]]'s Aura of Darkness in [[Session 04 - Good Timing|Session 4]].
+
+### [[Session 14 - Like a Cheap Cigar]]
+
+**Opened the round that broke [[Samus]].** Gestured at him and cast **Phantasmal Killer** -- a nightmare, damage, and **Samus frightened for the round** (disadvantage on ability checks and attack rolls while the spell was in his sight). **4d10 psychic, save every round.** [[Kane]] then hit him for 43 and 39 into that disadvantage.
+
+**Under attack with Mirror Image up** through the melee -- his images absorbing hits the way [[Kane]]'s did last session.
+
+**Ran the counter-invisibility work:**
+- Cast **Detect Invisibility** after the surrender. Nothing at first
+- Then **looked inside the keep and saw the invisible woman**
+- Asked permission before acting: *"Mark, do you want me to take out the invisible woman in front of you?"* -- [[General Martavis|Martavis]]: ***"Yes!"***
+- **Cast Hold Monster. She was paralyzed.** Martavis put her down. **Invisibility dropped and she dematerialized -- she was a fiend.** First confirmed succubus kill of the campaign ([[The Succubi Alliance]])
+
+> **Hold Monster landed on a succubus.** That is a hard data point: they are not immune, they can be locked down, and the party's wizard can do it. Worth remembering with **four more still at large.**
+
+**Called for discipline on the loot.** *"I want to Identify all the magic items before we do anything with them."* **This applies to [[Samus's Helm]] and the [[Frost Brand Maul]], and it should be honored** -- [[Kane]] is currently carrying an unidentified helm off a dead boss for the second time in the campaign (see [[The Goat Head Mask]]).
+
+**Asked [[General Martavis|Martavis]] for the locations of teleport circles the party could use** -- following up on the [[Lords' Alliance]] network access from [[Session 12 - The Gate of the Far Realms|Session 12]].
+
+**Argued for [[Waterdeep]]** in the what-next discussion: *let's go back.*
+
+**Made Tiny Huts** with [[Vaelin]] (five total) for the night outside [[Dragonspear]].
+
+### [[Session 15 - The Wall of Masks]]
+
+**THE SESSION WAS HIS.** Two **Legend Lore** castings rewrote the campaign's backstory.
+
+**On [[Samus's Helm|the Ram Helm]]:** a group vision of [[Ahmendril]] -- **a humanoid gish with an elemental aura, a drawn sword, and a thrown Otiluke's Freezing Sphere** -- defeating [[Samus]], accepting his surrender, and **teleporting him to a wizard's library full of masks** to craft the ram's head. Then the post-credits scene: **Samus dies to a paladin, and comes back kneeling before Ahmendril, wearing the mask.** See [[The Masks of Ahmendril]].
+
+**On [[Farraday]]:** her whole middle and late life -- the [[The Waterdeep Sewers|sewer]] campaign, **killing a Beholder [[Zanithar]]**, tea with Ahmendril, the raven mask, **her death at the hands of a drow paladin with a blue fist shield ([[Order of the Fist]])**, her return an era later, **recovering [[The Goat Head Mask|the goat mask]] from a dragon's lair**, and finally **her attack on his own parents' house** with the party watching themselves from outside.
+
+**Recalled the crucial caveat:** notes in [[The Apotheosis Codex|the necromancer's book]] say **[[Notes/Items/The Door of the Dead|the Door]] is especially resistant to Legend Lore.**
+
+> **The enemy hardens what matters. The Door is warded; the masks are not.** Cast on everything else before that gap closes -- starting with [[The Goat Head Mask]], which the party asked him to do and never got to.
+
+**Teleported the party to the [[Waterdeep]] castle** in the morning.
+
+**Leveled to 14.** *(Eric was at a concert; Celleborn acted throughout regardless.)*
+
 ## Notes
 - ~~**Permanent HP reduction** from wraith — needs Greater Restoration or similar~~ **Restored** by Vaelin in Session 7
+- **The party's dispel specialist.** Session 13 confirmed he is the only one who can strip enemy magic — and that he'll spend a Fae point and an Action Surge to do it
+- **And the party's counter-invisibility specialist.** Detect Invisibility + **Hold Monster landed on a succubus** (Session 14). Four more are at large
+- **Phantasmal Killer** confirmed — 4d10 psychic, frightened, save each round. It set up Kane's 43/39 on [[Samus]]
+- **Insists on Identify before use.** Honor this: [[Samus's Helm]] is unidentified and [[Kane]] is carrying it
 - **Subject-matter expert on the Dead Three** -- wrote his doctoral thesis on them. Go to him for Dead Three context, symbolism, history
+- **Legend Lore is his best weapon.** Two castings in Session 15 produced more intelligence than a season of fighting. **Note the scaling: the more the party already knows about a subject, the deeper the vision** -- [[Laeral Silverhand|Silverhand]]'s casting on [[Farraday]], made after [[Kane]] illusioned her face, reached further back than his did. **Gather detail first**
 - The Goat Head Mask puzzle is his problem for now — he wants to understand it
 - Details TBD as more is revealed in play
+
+### [[Session 16 - The Masks I Am Owed]] — ABSENT
+
+*Eric was travelling. Celleborn was written out in-fiction.*
+
+**Called away by his father to research something they got from a dragon hoard.**
+
+> **Worth following up.** His father's team **harvested [[Ravica]]'s corpse** in [[Session 12 - The Gate of the Far Realms|Session 12]] — a wizard, an alchemist/smith, and a merchant, working an ancient black dragon under Celleborn's own Gentle Repose.
+>
+> And [[Session 15 - The Wall of Masks|Session 15]] established that **[[The Goat Head Mask|the goat mask]] came out of a dragon's lair, hidden in a pool of acid** — which means a **black** dragon, and [[Ravica]] is the campaign's black dragon.
+>
+> **What came out of which hoard, and does it connect?** Ask him when he's back.
+
+**The party lost its [[The Masks of Ahmendril|Legend Lore]] engine, its dispel specialist, and its counter-invisibility for this fight.** [[Laeral Silverhand|Silverhand]] substituted **[[Lady Estrell]]**, a wizard, in his place.
+
+**Still outstanding from his own to-do list:** Legend Lore on [[The Goat Head Mask]], and Identify on [[Samus's Helm]] and the [[Frost Brand Maul]]. He asked to do all of it and has not yet had the chance.

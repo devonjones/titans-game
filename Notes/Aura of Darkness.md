@@ -44,7 +44,19 @@ It is **not** the *Darkness* spell (centered on a point, dispelled by concentrat
 3. Can it be dispelled? Counterspelled?
 4. Did the same operator return in the [[Session 10 - Many Zanithars|Session 10]] [[The Pencheska Conspiracy|Pencheska night attack]]? That attack used different signature ([[Lord Celleborn Ellenfear|Celleborn]] cast Detect Invisibility and saw raven masks instead) -- probably a different operator
 
+## The Infernal Hypothesis (Session 14)
+
+[[Samus]] -- the other confirmed user of a non-spell darkness effect -- turned out to have an **active devil contract** and **five succubi** working for him ([[The Succubi Alliance]], [[The Troll Claw Oblivion Gate]]).
+
+**Devils and their servants come with darkness as standard equipment.** That is now the most economical explanation for the same signature turning up on two unrelated enemies in the same campaign: **not the same creature, but the same supplier.**
+
+If that holds, it retroactively implicates [[Viggio Martel|Viggio]]'s manor -- where [[The Assassin]] deployed this in [[Session 04 - Good Timing|Session 4]], directly above a [[The Dead Three Temple|Dead Three temple]] -- as having had an infernal connection the party never identified.
+
+**Still unresolved:** Samus is dead and his body is in a hell-pit, so the effect can't be examined. **[[Lord Celleborn Ellenfear|Celleborn]] did eventually dispel Samus's darkness** in [[Session 13 - No Honor in Here|Session 13]] after multiple failures -- so whatever it is, it is not undispellable, just resistant.
+
 ## Connections
 - [[The Assassin]] -- The user in Session 4
 - [[Viggio's Party]] -- Where it was deployed
 - [[The Pencheska Conspiracy]] -- Possibly related operator class, but signatures differ
+- [[Samus]] -- Second confirmed user (Session 13); killed Session 14
+- [[The Troll Claw Oblivion Gate]] -- The infernal connection behind Samus

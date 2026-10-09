@@ -90,3 +90,40 @@ Established by 1032 DR when Ahghairon became the first Lord. The Guild Wars led 
 Beneath the city lies an extensive dungeon complex. On its third level is Skullport, a secret city filled with the worst elements of humanity, stalked by drow and illithids.
 
 **Sources:** [Waterdeep](https://forgottenrealms.fandom.com/wiki/Waterdeep)
+
+### [[Session 14 - Like a Cheap Cigar]]
+**The party is coming back.** [[Lord Celleborn Ellenfear|Celleborn]] argued for it in the what-next discussion, [[General Martavis|Martavis]] wanted it too (about a week by road), and **[[Vaelin]] intends to cast Word of Recall in the morning and take the whole party here directly.**
+
+**What's waiting:**
+- **[[Farraday]]** -- [[Ahmendril]]'s lieutenant, raven mask, based here. Named by [[Samus]] as the recommended first target, and **almost certainly the [[Session 10 - Many Zanithars|Session 10]] Ellenfear Manor attacker**
+- **[[Laeral Silverhand|Silverhand]]**, who was given a 25-word Sending about a dead Zhent leader, a Zhent succession, and **a new infernal gate**, and replied that **she needs to know more**
+- A city still rebuilding from the [[Session 11 - When the World Burns|Session 11]] dragon attack and Tarrasque breach, minus its castle keystone
+
+**What the party is carrying in:** **[[Samus's Helm]]** (unidentified, possibly cursed), the [[Frost Brand Maul]], a **[[General Martavis|general who may be compromised]]**, and the knowledge that **four succubi are unaccounted for.**
+
+### [[Session 15 - The Wall of Masks]]
+**The party teleported in** ([[Lord Celleborn Ellenfear|Celleborn]]'s Teleport) and went straight to the castle. **[[Laeral Silverhand|Silverhand]] wanted to see them immediately.** Afterwards everyone went outside to watch **a lunar eclipse.**
+
+**Two things about this city changed:**
+
+**1. [[Farraday]] lives in [[The Waterdeep Sewers|the sewers]].** She has, on and off, for a century — she fought her way through them with a shadow crew, wiped out a criminal syndicate, **killed a Beholder [[Zanithar]] down there**, and after her resurrection came back and **set up a home, keeping a low profile.** [[Laeral Silverhand|Silverhand]] gave the party **a location**.
+
+**2. The Open Lord has been magically edited.** [[Laeral Silverhand|Silverhand]] was charmed into forgetting something important; **she draws an owl mask when doodling**; and by her own assessment the fix is **Wish**. See [[Silverhand's Missing Memory]].
+
+**Also here:** [[The Goat Head Mask]] is still in storage in the city, un-Legend-Lore'd, and it may have been what [[Farraday]] came for at [[Ellenfear Manor]] in [[Session 10 - Many Zanithars|Session 10]]. **Confirm it is where it was left.**
+
+**And [[Ahmendril]] may be findable here.** He is a **master mask maker**, and masks are traditional at **Midsummer** — making [[Waterdeep]], [[Neverwinter]], and [[Baldur's Gate]] the candidate cities for his workshop.
+
+### [[Session 16 - The Masks I Am Owed]]
+**Staging ground.** The party worked the city before teleporting out to [[The Troll Claw Oblivion Gate]].
+
+- **[[Kane]] worked his underworld sources** and **independently confirmed [[Farraday]]'s sewer location** -- essential, because [[Laeral Silverhand|Silverhand]] is magically compromised
+- **They found an entrance to the underworld** -- the [[The Waterdeep Sewers|sewer]] lead -- **and did not go in.** It is still there
+- **⚠️ [[The Chultan Visitors|Disguised, scaled "tourists"]] on the streets.** [[Vaelin]] touched one and felt **scales**; they claimed to be from [[Chult]], avoiding offense. **Unexamined, unnamed, still in the city**
+- **The party walked past a council guard** into the [[Lords' Alliance]] council chamber, where [[Laeral Silverhand|Silverhand]] was already in session with **[[Unthar Froom]]**
+- **[[Order of the Fist]] mobilized** -- six paladins. **[[Lady Estrell]]** assigned. A **scroll of Banishment** provided
+- **The party left a note with [[Laeral Silverhand|Silverhand]]** summarizing their investigations, in case they didn't return
+
+> **What is still sitting here, unguarded, while the party fights devils:** **[[The Goat Head Mask]]** -- in storage in this city, never Legend Lore'd, and **a pit fiend is now demanding masks he claims he is owed** ([[The Devil's Claim]]).
+>
+> In a city that currently contains [[Farraday]] in the sewers and disguised strangers on the streets.

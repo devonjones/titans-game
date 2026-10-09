@@ -46,9 +46,12 @@ See [[The Planetar's Warning]] for the full exchange. Bottom line:
 ## Who's Trying to Reassemble It
 
 - **[[Ahmendril]]** (current [[Zanithar]]) -- has the Door and Keystone; presumably working to acquire the Key, or believing he already has it
-- **[[Samus]]** -- runs Ahmendril's mortal operations; the party is en route to him as of session end
+  - **[[Farraday]]** -- lieutenant, raven mask, [[Waterdeep]]. Likely ran the [[The Pencheska Conspiracy|Pencheska]] operations including the keystone theft
+  - **[[Celine]]** -- lieutenant, Astral Plane
+  - **[[Draymon]]** -- lieutenant, [[Chult]]
+- ~~**[[Samus]]** -- runs Ahmendril's mortal operations~~ **DEAD ([[Session 14 - Like a Cheap Cigar|Session 14]]), killed by [[Cael Stormcrow|Stormcrow]].** [[Ahmendril]] has lost his mortal operations chief. **The fracture died with him**
 - **The [[Cult of the Dragon]]** -- resurrected [[Rofidian]] and [[Ravica]]; presumably allied or in coordination
-- **The [[The Pencheska Conspiracy|Pencheska Conspiracy]]** -- likely the keystone-theft operatives in [[Session 11 - When the World Burns|Session 11]]
+- **The [[The Pencheska Conspiracy|Pencheska Conspiracy]]** -- likely the keystone-theft operatives in [[Session 11 - When the World Burns|Session 11]]; **now believed to be [[Farraday]]'s operation under Ahmendril**
 
 ## How To Stop It
 
@@ -60,6 +63,8 @@ The strategic options:
 4. **Destroy individual pieces** -- requires understanding the artifact-tier destruction problem ([[Laeral Silverhand|Silverhand]] couldn't destroy [[The Goat Head Mask]] -- comparable difficulty likely)
 5. **Petition the gods directly** for active intervention -- the planetar suggests divine forces are willing to gatekeep but not (yet) to act offensively
 6. **Stop the activation site** -- if assembly + ritual is required at a specific place ([[Mount Hotenow]]?), holding that site denies the completion even if the pieces are assembled
+7. ~~**Split the coalition**~~ **CLOSED (Session 14).** [[Samus]] *was* the fracture, and the party killed him. Nobody else on the enemy side has shown any inclination to defect. **This was the only strategy that used the enemy's own structure against him, and it is gone**
+8. **Kill the lieutenants anyway** *(the surviving half of #7)* -- the intelligence outlived the man who gave it. [[Farraday]] ([[Waterdeep]]), [[Celine]] (Astral Plane), [[Draymon]] ([[Chult]]). No payment, no release, no contract -- but killing them still guts [[Ahmendril]]'s ability to operate at range, and **[[Farraday]] is where the party is already going**
 
 ## What We Have That Helps
 
@@ -67,8 +72,30 @@ The strategic options:
 - **Lords' Alliance teleport network** -- under oath now; rapid travel to known circle locations
 - **[[Lord Celleborn Ellenfear|Celleborn]]'s Dead Three expertise** -- subject-matter expert
 - **[[Laeral Silverhand|Silverhand]]** -- Chosen of Mystra, Harper, will continue to advise; possibly capable of artifact destruction
-- **Path to [[Samus]]** -- now in progress; intelligence source
-- **[[General Martavis|Martavis]]'s Phoenix cavalry** -- ally with material force
+- ~~**Path to [[Samus]]**~~ **Closed. He's dead** -- but [[Eldrick]] and the surviving Zhents were inside his operation and have not been interviewed
+- **[[General Martavis|Martavis]]'s Phoenix cavalry** -- **down to ~20 riders**, and **Martavis himself is now under suspicion** (regeneration, charm, behavioral turn -- see [[General Martavis]]). Verify before relying on him
+
+## Complication: The Infernal Front (Session 14)
+
+Killing [[Samus]] opened **[[The Troll Claw Oblivion Gate]]** -- his devil contract on the succubus brothel coming due. A **Pit Fiend** is climbing out of it on the Trade Way, and it is **unwatched**.
+
+This does not advance the Gate of the Far Realms plot directly. **It competes with it for the party's time**, and it puts a second infernal breach a day's ride from the **[[The Avernus Portal|Avernus portal]] the party is personally responsible for sealing** beneath [[Dragonspear]].
+
+**Watch for:** the two threads converging. The [[The Dead Three|Dead Three]] have infernal associations, [[Bathere]] guarded a hell portal *and* held [[Notes/Items/The Door of the Dead|a Gate piece]], and [[Mount Hotenow]] is still the presumed activation site. Two hell-doors and a Far Realm door in the same region may not be a coincidence.
+
+## Session 15: The Masks
+
+Two **Legend Lore** castings ([[Session 15 - The Wall of Masks|Session 15]]) opened a second front on the [[Ahmendril]] problem that does not run through the Gate pieces at all.
+
+- **[[The Masks of Ahmendril|His masks resurrect his lieutenants]].** Killing them buys roughly eighty years, not permanence — **unless you take the mask**
+- **He is a humanoid wizard and a master mask maker**, not simply a beholder. **That is a findable trade**: [[Neverwinter]], [[Baldur's Gate]], [[Waterdeep]], and masks sell at **Midsummer**
+- **His pendant** — the leading [[Notes/Items/The Key|Key]] candidate — has been at his neck for **over a century**
+- **He sends lieutenants to recover hidden artifacts**, not just to hold territory. [[Farraday]] pulled [[The Goat Head Mask|the goat mask]] out of a dragon's lair for him. **[[Celine]] and [[Draymon]] may be on the same kind of errand right now**
+- **[[Notes/Items/The Door of the Dead|The Door]] is warded against Legend Lore** (per [[The Apotheosis Codex]]) — **the masks are not.** Use the spell on everything that isn't the Door, immediately
+- **He has been beaten before**, ~100 years ago, by heroes including the **[[Order of the Fist]]**
+- **⚠️ He has magically edited [[Laeral Silverhand|Silverhand]]**, the party's entire source for this plot. See [[Silverhand's Missing Memory]]
+
+> **That last point contaminates this page.** Everything above the Session 15 line came from Silverhand, and Silverhand has a hole in her memory shaped like an owl mask. **Corroborate the Gate architecture independently.**
 
 ## Connections
 
@@ -78,9 +105,13 @@ The strategic options:
 - [[The Door of the Dead]] -- Earlier plot thread; now subsumed by this composite
 - [[The Stolen Keystone]] -- Earlier plot thread; now subsumed
 - [[The Planetar's Warning]] -- Divine intervention restricting Key search
+- [[Samus's Bargain]] -- The Session 13 offer to kill Ahmendril's lieutenants
+- [[Farraday]] / [[Celine]] / [[Draymon]] -- Ahmendril's three named lieutenants
 - [[Ahmendril]] / [[Zanithar]] -- The assembler
 - [[The Dead Three]] -- Original builders
 - [[The Far Realm]] -- What the Gate opens
 - [[The Dragoncult Wars]] -- Historical context
 - [[Cult of the Dragon]] -- Coalition partner
 - [[Mount Hotenow]] -- Probable activation site
+- [[The Troll Claw Oblivion Gate]] -- Competing infernal crisis opened by Samus's death
+- [[Samus's Helm]] -- Taken off Samus; the "helms" of the bargain may have meant something literal

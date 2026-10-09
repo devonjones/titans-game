@@ -9,7 +9,7 @@ priority: High
 ---
 # The Goat Head Mask
 
-**Type:** Artifact — evil, attuned to a deceased enemy
+**Type:** Artifact — evil, attuned to a deceased enemy. **One of [[The Masks of Ahmendril]] — but NOT made by him**
 **Current Possession:** The party (not attuned; unused)
 **Introduced:** [[Session 07 - The Door of the Dead]]
 
@@ -17,6 +17,52 @@ priority: High
 The helm that [[Bathere]] wore at [[Dragonspear]]. Recovered from his corpse after the fight. It is an **artifact** (confirmed by [[Lord Celleborn Ellenfear|Celleborn]]) with **non-detection magic** that resists investigation. [[Kane]] used **Divine Sense**: the Mask is **evil**.
 
 It is **still attuned to [[Bathere]]** even though Bathere is dead.
+
+## ✅ PROVENANCE SOLVED (Session 15)
+
+**[[Farraday]] found it. In a dragon's lair. In a pool of acid.**
+
+From [[Lord Celleborn Ellenfear|Celleborn]]'s Legend Lore vision in [[Session 15 - The Wall of Masks|Session 15]]: after her resurrection, [[Ahmendril]] sent her and her crew out of the city. **They scaled a mountain, waited for a dragon to leave, entered the lair, and she found a mask settled in a pool of acid — "well-hidden."**
+
+**They brought it back to [[Ahmendril]]. It was this mask.**
+
+### What that explains
+
+| Anomaly | Explanation |
+|---|---|
+| **Still attuned to a dead [[Bathere]]** | **That is what these masks do.** It is a resurrection anchor — see [[The Masks of Ahmendril]]. Bathere is mid-cycle |
+| [[Laeral Silverhand|Silverhand]]: *"might be a phylactery"* | Functionally close. Not a phylactery — **a return anchor** |
+| **She could not destroy it** | **[[Ahmendril]] didn't make this one.** It is older than his workshop and tougher than his craft |
+| **Non-detection; resists investigation** | [[Samus's Helm|The ram mask]] gave up a full biography on the first Legend Lore. **This is a different tier of object** |
+| Why [[Bathere]] had it at all | **Ahmendril gave it to him.** Which sits badly against [[Laeral Silverhand|Silverhand]]'s [[Session 10 - Many Zanithars|Session 10]] claim that Bathere *did not know* Ahmendril — see the contradiction below |
+
+### Someone hid this deliberately
+
+In acid. In a dragon's lair. On a mountain. **That is concealment, not a hoard item.** Somebody wanted this mask never found, and [[Ahmendril]] sent a lieutenant to get it anyway.
+
+**Acid pool means black dragon.** The campaign has one: **[[Ravica]]** — ancient, black, [[The Dragoncult Wars|Dragoncult Wars]] era, revived by Ahmendril, killed by the [[The Tarrasque|Tarrasque]], corpse now harvested and under Gentle Repose in [[Waterdeep]]. **Did Ahmendril later resurrect the dragon whose lair he had robbed?**
+
+### The Bathere contradiction
+
+[[Laeral Silverhand|Silverhand]] said in [[Session 10 - Many Zanithars|Session 10]] that **[[Bathere]] did not know [[Ahmendril]]** — their projects were parallel. But Bathere was wearing a mask Ahmendril's lieutenant personally recovered *for him*, and **Bathere named Ahmendril to the party in [[Session 06 - Visitors Visitors|Session 6]].**
+
+One of those is wrong — **or Bathere was a lieutenant who went off-book**, running his own dracolich project while sitting on a Gate piece and a hell portal. Which would make him the precedent for [[Samus]], who was also chained and also making his own arrangements.
+
+**Note that Silverhand is now known to be magically compromised** ([[Silverhand's Missing Memory]]). Her Bathere claim is exactly the kind of thing an edit would produce.
+
+### ⚠️ AND NOW A DEVIL IS ASKING FOR MASKS (Session 16)
+
+The pit fiend at [[The Troll Claw Oblivion Gate]]: ***"Have you brought the masks? The masks I am owed?"*** — then **"SEARCH THEM!"**
+
+**This mask is sitting unguarded in [[Waterdeep]]** while the party is on a battlefield where a devil is demanding masks and [[Ahmendril]] has appeared in person.
+
+See [[The Devil's Claim]]. And note how well it fits *this* mask specifically: **it was recovered, not crafted** — hidden in acid, in a dragon's lair, well-concealed, **and a [[Chosen of Mystra]] could not destroy it.** If the masks are infernal property, the one nobody can destroy is the one that was found rather than made.
+
+### ⚠️ Was Session 10 a recovery operation?
+
+**The woman who personally retrieved this mask for [[Ahmendril]] attacked the party at [[Ellenfear Manor]] on the night they were sleeping with it** — multiple bedrooms at once — **and then withdrew without finishing.**
+
+**Is it still where it was left in [[Waterdeep]]? Check.**
 
 ## Why This Is a Problem
 - **Still attuned** = whatever it does for its wearer is, in some sense, still live. The link to Bathere's dead body has not dissolved
@@ -42,7 +88,7 @@ It is **still attuned to [[Bathere]]** even though Bathere is dead.
 - What it does for its wearer
 - Whether it's part of the dracolich ritual
 - Whether it was made by the Dead Three, a devil, or something else
-- What happens if [[Bathere]]'s body is destroyed
+- What happens if [[Bathere]]'s body is destroyed — **probably nothing. [[Samus]]'s body went into a hell-pit and the mask is what mattered**
 - Whether it can be safely destroyed
 
 ## Options on the Table
@@ -54,6 +100,8 @@ It is **still attuned to [[Bathere]]** even though Bathere is dead.
 6. **Attune to it deliberately** with someone expendable or well-protected, and see what it grants/demands
 
 ## Action Items
+- [ ] **CAST LEGEND LORE ON IT.** The party asked [[Lord Celleborn Ellenfear|Celleborn]] to do all the helms in [[Session 15 - The Wall of Masks|Session 15]] and only got to the ram. **The party and the mask are both in [[Waterdeep]] now.** [[Notes/Items/The Door of the Dead|The Door]] is warded against Legend Lore; **the masks are not — cast before that gap closes**
+- [ ] **CONFIRM IT IS STILL WHERE IT WAS LEFT.** Unguarded, in a city with [[Farraday]] in [[The Waterdeep Sewers|the sewers]] and [[The Chultan Visitors|disguised strangers]] on the streets — while a devil demands masks
 - [ ] Store the Mask separately from [[Bathere]]'s body
 - [ ] Brief [[Lady Morwen Daggerford|the Duchess]] on the Mask's existence
 - [ ] Seek expert consultation (don't attempt identify ourselves yet)

@@ -19,7 +19,7 @@ tags:
 ## [[Cael Stormcrow]]
 ![[cael2.png|150]]
 **Player:** Devon
-- Storm Sorcerer 10 / Tempest Cleric 2, [[Emerald Enclave]]
+- Storm Sorcerer 11 / Tempest Cleric 2, [[Emerald Enclave]]
 - Former crow's nest navigator on [[The Moonrunner]] out of Moonshae
 - Sole survivor when an unnatural storm destroyed the ship; lightning struck him and he became a convergence of sky and sea
 - White hair, storm-gray eyes, lightning scars across back and arms
@@ -144,3 +144,97 @@ Day spent shopping (Vaelin's new plant, **Revivify diamonds for everyone**) and 
 **Took the [[Lords' Alliance]] teleport-circle oath** (Zone of Truth + blood + Geas). Joined the network.
 
 **Cliffhanger:** woke to news Martavis had already attacked Samus's castle. Teleported to a field 2 miles out, rode hard to the castle, saw open double doors, combat inside, and **[[General Martavis|Martavis]] kneeling**.
+
+### [[Session 13 - No Honor in Here]]
+*Full party. Everyone holds Inspiration (at least the humans).*
+
+**Rode into [[Samus]]'s camp** in the [[Troll Claw Hills]] to find [[General Martavis|Martavis]] beaten but alive, and **[[Samus]] wanting to talk.**
+
+**[[Samus's Bargain]]:** Samus named **three of [[Ahmendril]]'s lieutenants** — **[[Farraday]]** (raven mask, [[Waterdeep]]), **[[Celine]]** (Astral Plane), **[[Draymon]]** ([[Chult]]) — and offered Martavis's freedom for their helms. [[Kane]] negotiated him down to *"ride out of my camp and I'll send Mark behind you."* Samus revealed **[[Ahmendril]] holds his chain** and recommended killing Farraday first.
+
+**The party agreed — then broke it.** Kane shook hands; [[Cael Stormcrow|Stormcrow]] cast [[Synaptic Static]] on Samus at the handshake. Samus survived (nat 20, then *"chose to succeed"* — possible Legendary Resistance).
+
+**The fight went badly.** An **airborne warlock** broke Kane's grapple with Repelling Blast; **Samus filled the area with darkness from his mouth** (not a spell — resisted dispel); an enemy **Fireball hit everyone for 36**; and **something mind-controlled [[Cael Stormcrow|Stormcrow]] into casting [[Lightning Ball]] on the entire party for 28.** [[Lord Celleborn Ellenfear|Celleborn]] finally dispelled the darkness after burning a Fae point and an Action Surge on failed attempts.
+
+> ***"Doesn't appear I can count on any honor in here."*** — [[Samus]]
+
+**Combat still in progress at session end.**
+
+**Biggest takeaway:** the enemy coalition has a **fracture** — Samus wants Ahmendril's lieutenants dead — and the party now has **names and locations** for Ahmendril's command structure for the first time.
+
+### [[Session 14 - Like a Cheap Cigar]]
+*Full party. Picks up mid-combat from Session 13.*
+
+**[[Samus]] IS DEAD.** [[Lord Celleborn Ellenfear|Celleborn]] frightened him with **Phantasmal Killer**; [[Kane]] cut him for **43 then 39**; [[Viseli Bar|Viseli]] ate **35** from his maul; he **fled inside and slammed the doors**; [[Cael Stormcrow|Stormcrow]] **Lightning Bolted the doors open (33)**, Samus shut them again, and **Stormcrow shot him through the closed door -- decapitation.** The head rolled into the room *"smoking, like a cheap cigar."*
+
+**[[General Martavis|Martavis]] was charmed** and attacked [[Kane]] (Kane down, 12) until **[[Viseli Bar|Viseli]] grappled and kissed him** and broke it. *"Fucking witch!"*
+
+**The camp surrendered** on Martavis's *"Samus is dead, I now command these forces!"* -- then a **succubus** was found invisible in the keep, **[[Lord Celleborn Ellenfear|Celleborn]] Hold-Monstered her**, Martavis killed her, and she **dematerialized.** First confirmed succubus kill of the campaign. **Four more escaped.**
+
+**Loot:** [[Frost Brand Maul]] (to [[Viseli Bar|Viseli]]), **[[Samus's Helm]]** (to [[Kane]], **unidentified and possibly cursed**), +2 plate, a pact blade, 40 sets of full plate, the troop payroll chest (**given to Martavis**), and 1,000 gp later off the bodies.
+
+**Then the ground opened.** The keep collapsed, an **orange glow** appeared where it stood, winged fiends flew out, and **[[Cael Stormcrow|Stormcrow]] detected a Pit Fiend rising, "with friends."** Per [[General Martavis|Martavis]]: **[[Samus]] had made a deal with a devil to secure a brothel to recruit souls** -- the pavilion from Session 13. **The contract came due when the party killed the debtor.** See [[The Troll Claw Oblivion Gate]].
+
+[[Vaelin]] Sent to [[Laeral Silverhand|Silverhand]]: *"Seamus dead, Martavis now in charge of the Zhents. New Oblivion Gate, Duke of Hell may be en route."* **She needs to know more.**
+
+**On the road to [[Daggerford]]:** [[Eldrick]] -- Martavis's owl-mage, the Session 13 *captive-or-turned* question -- turned up among the surrendered casters, **badly hurt, bleeding stopped by [[Kane]]**, and is now scouting ahead with his owl. **Answer: captive.**
+
+**An hour outside [[Dragonspear]], [[General Martavis|Martavis]] halted the column and assassinated all of Samus's personal troops, casters first** -- after [[Vaelin]] had advised him to hold back. He had already renounced commanding them as *"devil worshippers."*
+
+> **⚠️ VERIFY MARTAVIS.** [[Vaelin]] watched his wounds **visibly close** and read **regeneration**; the party noticed he **needs no healing**; he was **charmed at least once**; and his behavior turned hard. **Four shapechanging succubi escaped this camp.** Nobody has cast anything on him. See [[General Martavis]].
+
+**Party status:** rested, five Tiny Huts up, an hour from [[Dragonspear]]. **[[Vaelin]] plans Word of Recall to [[Waterdeep]] in the morning.**
+
+### [[Session 15 - The Wall of Masks]]
+*Eric (Celleborn) was at a concert; Celleborn acted throughout. No combat.*
+
+**THE MASKS ARE THE MECHANISM.** [[Lord Celleborn Ellenfear|Celleborn]] cast **Legend Lore** on [[Samus's Helm|the Ram Helm]] and on [[Farraday]]; [[Laeral Silverhand|Silverhand]] cast a third, deeper one. Both lieutenants **die on screen and then kneel before [[Ahmendril]], wearing their masks.** [[Ahmendril]] is an **expert mask maker** with a **workshop and a wall of masks**, wears an **owl mask**, and was once a **humanoid wizard with a sword**. See [[The Masks of Ahmendril]].
+
+> **THE CHAIN IS THE MASK.** [[Kane]] asked [[Samus]] why [[Ahmendril]] held his chain and got a deflection. The answer was on Samus's face — and it is now in Kane's pack.
+
+**[[Farraday]] is fully identified.** Orphan, street criminal, **warlock**, adventurer, **killer of a Beholder [[Zanithar]]** in [[The Waterdeep Sewers|the Waterdeep sewers]] — then recruited by [[Ahmendril]] over tea, killed ~100 years ago by a **drow paladin with a blue fist shield ([[Order of the Fist]])**, returned ~80 years later, and sent to **recover [[The Goat Head Mask|the goat mask]] from a dragon's lair, hidden in a pool of acid.**
+
+**And the vision ended with her attacking [[Ellenfear Manor]] — the party watching themselves from outside.** The [[Session 10 - Many Zanithars|Session 10]] identification is **confirmed**.
+
+**⚠️ [[Laeral Silverhand|SILVERHAND]] HAS BEEN MAGICALLY EDITED.** [[Vaelin]] had her doodling; **she drew an owl mask.** Greater Restoration and Heal were floated; **she suggested Wish**; Vaelin's **Divine Intervention failed.** See [[Silverhand's Missing Memory]].
+
+**[[Viseli Bar|Viseli]]'s class confirmed:** **Path of the Totem Warrior Barbarian 10+** (Speak with Animals, Beast Sense, Commune with Nature).
+
+**Other business:**
+- **[[Notes/Items/The Door of the Dead|The Door]] is warded against Legend Lore** per [[The Apotheosis Codex]]. **The masks are not** — cast on the rest first
+- **The masks carry non-detection**, killing [[Cael Stormcrow|Stormcrow]]'s locate-the-mask plan. Silverhand gave the party **a location for [[The Waterdeep Sewers|Farraday's sewer home]]** instead
+- The pit fiend's companions are **Erinyes**
+- **Fire in the distance** from the [[Troll Claw Hills]] — [[The Troll Claw Oblivion Gate]] is burning the country
+- **[[General Martavis|Martavis]] rode off alone** to hunt the surviving army, *"using his judgment to determine who needs to die or not."* **Still unverified**
+- [[Lord Celleborn Ellenfear|Celleborn]] **teleported the party to [[Waterdeep]]**; everyone went outside to watch a **lunar eclipse**
+
+**PARTY LEVELED TO 14.** [[Cael Stormcrow|Cael]] is now **Sorcerer 12 / Cleric 2** -- ASI to **CHA 20** (lightning/thunder DC 21, attack +13, HP 102), and **swapped [[Chromatic Orb]] for [[Investiture of Wind]]** -- 60 ft. of hovering flight, at the cost of concentration and his only sub-3rd-level ranged attack.
+
+**The crossroads ([[Vaelin]]):** **close the hell gate, or go into the sewers after [[Farraday]]?** Unresolved.
+
+### [[Session 16 - The Masks I Am Owed]]
+*Eric travelling; [[Lord Celleborn Ellenfear|Celleborn]] written out -- called away by his father to research something from a dragon hoard.*
+
+**THE PARTY CHOSE THE GATE.** [[Vaelin]]'s read settled [[Session 15 - The Wall of Masks|Session 15]]'s crossroads: **what's keeping the gate open is most likely ON the pit fiend.**
+
+**They prepared properly for once.** [[Kane]] corroborated the [[Farraday]] intel through his own city sources (important -- [[Laeral Silverhand|Silverhand]] is compromised), proposed bringing the [[Order of the Fist]], and the party asked the [[Lords' Alliance]] council for resources. **[[Unthar Froom]] was already mobilizing** and brought **five heavily armored veterans**. [[Laeral Silverhand|Silverhand]] added **[[Lady Estrell]]**, a wizard, and **a scroll of Banishment**. [[Vaelin]] ran **Hero's Feast** from a magic bowl -- poison and fear immunity, advantage on WIS saves, +14 max HP -- then distributed temp HP (**[[Viseli Bar|Viseli]] to 208**). Formation: within 30 ft of Vaelin, 10 ft of [[Kane]] and the paladins for **+10 to saves**.
+
+**They left a note with [[Laeral Silverhand|Silverhand]] in case they didn't come back.** *(Right instinct, compromised custodian.)*
+
+**On the street beforehand:** [[Vaelin]] spotted disguised "tourists," touched one, and **felt SCALES.** They claimed to be visitors from [[Chult]] -- **where [[Draymon]] is.** Nobody cast anything on them. See [[The Chultan Visitors]].
+
+### ⚠️ *"Have you brought the masks? The masks I am owed?"*
+
+**The pit fiend's opening line.** The party said *"What masks?"* He shouted **"SEARCH THEM!"**
+
+**[[Samus]]'s devil contract was paid in masks** -- the brothel was what he *got*; the masks were what he *owed*. His [[Samus's Bargain|*"bring me their helms"*]] offer was **debt collection**, and the chain [[Ahmendril]] held had **a second end** nobody knew about. See **[[The Devil's Claim]]**.
+
+**The fight:** [[Cael Stormcrow|Stormcrow]] opened with **[[Chain Lightning]]** (one mob down, one bloodied) -- pit fiends are immune to fire and poison, **not lightning**. **[[Viseli Bar|Viseli]] crit an Erinyes for 68** with the [[Frost Brand Maul]]; the paladins finished it. **The pit fiend looked surprised and shouted "FALL BACK!"** [[Kane]] killed the other Erinyes for **57**. [[Lady Estrell]] wrapped the devil in earth tendrils; he broke free. [[Cael Stormcrow|Stormcrow]] landed **[[Static Cage]]** for 30.
+
+**Then everyone rolled DEX saves, "magic leaves," and [[Ahmendril]] APPEARED.**
+
+**[[Kane]] shouted at the pit fiend: why attack us when [[Ahmendril]] has all the masks?** -- trying to point an infernal creditor at the real debtor.
+
+**Fireballs rained down. Combat ongoing at session end.**
+
+**Field:** 4 PCs + [[Unthar Froom]] and 5 veterans + [[Lady Estrell]]. **Two pit fiends** ([[Kane]]'s vision was literal), Erinyes, a legion, and [[Ahmendril]]. **[[Vaelin]]'s two Banishments are still unspent.**

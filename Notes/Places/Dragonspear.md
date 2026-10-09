@@ -26,6 +26,15 @@ status: Cleared
 - [[Session 06 - Visitors Visitors]] — **Party arrived.** Castle infested with undead. Met [[Bathere]] (goat-headed lord). Combat begins
 - [[Session 07 - The Door of the Dead]] — **Cleared.** Bathere killed. Castle searched. Sealed Avernus portal and fountain relic discovered. Dead dragon, dracolich research, and Goat Head Mask recovered
 
+### [[Session 14 - Like a Cheap Cigar]]
+**The party camped an hour outside the entrance** on the road from the [[Troll Claw Hills]] -- five Tiny Huts, [[General Martavis|Martavis]] and his ~20 surviving riders alongside.
+
+**[[General Martavis|Martavis]] halted the column here and assassinated all of [[Samus]]'s personal troops**, beginning with the casters, after [[Vaelin]] had advised him to hold back on the reaping. The party looted the bodies: 1,000 gp plus all the arms and armor they could carry.
+
+> **⚠️ [[The Troll Claw Oblivion Gate]] is now open, one day's ride north.** A Pit Fiend was rising out of it when the party left. **Dragonspear's own [[The Avernus Portal|Avernus portal]] is sealed only by the fountain statue relic, and the party owns that seal.** Two infernal breaches, one stretch of the Trade Way. **Check the fountain.**
+
+**[[Vaelin]] plans Word of Recall to [[Waterdeep]] in the morning** -- so the party may pass Dragonspear without stopping.
+
 ---
 
 ## Forgotten Realms Lore

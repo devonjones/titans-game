@@ -36,6 +36,16 @@ When the [[The Tarrasque|Tarrasque]] rose from the sea at dawn, **it killed Ravi
 - [[The Disk]] that was drained for her revival is presumably now expended
 - **Resurrected by the [[Cult of the Dragon]]** (confirmed [[Session 12 - The Gate of the Far Realms|Session 12]])
 
+## ⚠️ Was The Goat Mask Hidden In Her Lair? (Session 15)
+
+[[Lord Celleborn Ellenfear|Celleborn]]'s Legend Lore vision on [[Farraday]] in [[Session 15 - The Wall of Masks|Session 15]] shows her crew **scaling a mountain, waiting for a dragon to leave, entering the lair, and finding a mask "settled in a pool of acid" — well-hidden.** They brought it to [[Ahmendril]]. **It was [[The Goat Head Mask]].**
+
+**An acid pool means a black dragon.** Ravica is the campaign's black dragon: **ancient**, from the **[[The Dragoncult Wars|Dragoncult Wars]]** era, and later revived by [[Ahmendril]] himself.
+
+If it was her lair, the loop is tight: **[[Ahmendril]] robbed her hoard through a lieutenant, and centuries later resurrected her.** Either she never knew, or the mask was placed there *by* someone using an ancient dragon as a vault.
+
+**Testable.** Her corpse is in [[Waterdeep]] under [[Lord Celleborn Ellenfear|Celleborn]]'s Gentle Repose and has been harvested by his father's team — and **Legend Lore works on her.** [[Notes/Items/The Door of the Dead|The Door]] is warded against it; nothing suggests Ravica is.
+
 ## Open Questions
 
 1. **Where is the corpse?** [[Waterdeep]] docks. Is anyone securing it?

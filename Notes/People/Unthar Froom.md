@@ -4,13 +4,13 @@ tags:
   - Waterdeep
   - OrderOfTheFist
   - Paladin
-status: Allied (limited trust)
+status: **ACTIVE ALLY.** In the field with the party against the pit fiend (Session 16)
 ---
 # Unthar Froom
 
 **Role:** Head of the [[Order of the Fist]]
 **Race:** Dwarf
-**Status:** Allied -- but [[Laeral Silverhand|Silverhand]] excludes him from full briefings; limited trust
+**Status:** **Active ally in the field** as of [[Session 16 - The Masks I Am Owed|Session 16]]
 **First Encountered (in scene):** [[Session 12 - The Gate of the Far Realms]]
 
 ## Overview
@@ -23,7 +23,30 @@ Encountered in [[Session 12 - The Gate of the Far Realms|Session 12]] giving ord
 
 He recognized the party (or at least recognized [[Lord Celleborn Ellenfear|Celleborn]]); the party recognized him by name.
 
-## Why the Party Backs Off
+## ✅ He Showed Up (Session 16)
+
+The party found him **already in council with [[Laeral Silverhand|Silverhand]]**, and he was **already planning the assault**:
+
+> **He wants to round up paladins and go at the pit fiend.** Proposed meeting **within the next half hour**, and suggested [[Laeral Silverhand|Silverhand]] might teleport them.
+
+**He returned with five heavily armored veterans.** On thirty minutes' notice.
+
+He also supplied the tactical briefing: **pit fiends are immune to fire and poison, resist spells**, and the party has magic weapons.
+
+In the fight, his paladins **finished the Erinyes [[Viseli Bar|Viseli]] crit for 68**, and the **stacked paladin auras gave everyone within 10 feet a +10 bonus to saves** -- the single most important mechanical fact of the engagement.
+
+> ### The Session 12 exclusion looks like a mistake
+>
+> The party withheld intelligence from him in [[Session 12 - The Gate of the Far Realms|Session 12]] **because [[Laeral Silverhand|Silverhand]] had excluded him** and never said why.
+>
+> Since then:
+> - **[[Session 15 - The Wall of Masks|Session 15]]:** a Legend Lore vision showed **the [[Order of the Fist]] beat [[Ahmendril]]'s masked cabal a century ago** -- a female drow paladin, white hair, **blue fist on her shield**, killed [[Samus]] in that battle
+> - **[[Session 15 - The Wall of Masks|Session 15]]:** [[Laeral Silverhand|Silverhand]] is **magically compromised** and doodles [[Ahmendril]]'s owl mask ([[Silverhand's Missing Memory]]). **Her exclusion of Unthar may have been an implanted judgment, not her own**
+> - **[[Session 16 - The Masks I Am Owed|Session 16]]:** he mobilized against the gate **on his own initiative** and brought six bodies into a CR 20 fight for allies who had been stonewalling him
+>
+> **He has earned a full briefing.** And his Order may hold archives on [[Ahmendril]] that the Open Lord no longer remembers.
+
+## Why the Party Backed Off (Session 12 -- superseded)
 
 [[Lord Celleborn Ellenfear|Celleborn]] **remembered** that Unthar was **one of the people asked to leave the room** when the party first met with [[Laeral Silverhand|Silverhand]] in [[Session 10 - Many Zanithars|Session 10]].
 
@@ -47,7 +70,9 @@ So the party, following Celleborn's lead, **politely declines** to share full in
 1. **Why did Silverhand exclude him?** Personal politics, compromise concerns, or jurisdictional?
 2. **Does he report to a higher authority** within the Order, or is he the top? (He identified himself as "the head" -- but heads of factions can still have masters)
 3. **What's the Order of the Fist's relationship to the [[Lords' Alliance]]?** An Order-of-the-Fist paladin administered the [[Lords' Alliance]] teleport-circle oath in Session 12 -- so the Order is at least teleport-network adjacent
-4. **Is he genuinely hunting the Dead Three, or is that public-facing cover for something else?**
+4. ~~**Is he genuinely hunting the Dead Three, or is that cover?**~~ **He brought six paladins to a pit fiend on half an hour's notice. He's genuine**
+5. **What do the Order's archives say about [[Ahmendril]], the masks, and the battle on the invisible stairs?** They killed two of his lieutenants ~100 years ago
+6. **Who was the drow paladin** -- female, white hair, blue fist shield -- who killed [[Samus]]? Is she alive? Are her records?
 
 ## Connections
 
@@ -56,3 +81,6 @@ So the party, following Celleborn's lead, **politely declines** to share full in
 - [[Laeral Silverhand]] -- Limits his information access
 - [[The Dead Three]] -- Stated target of his current operation
 - [[Waterdeep]] -- Based here
+
+### [[Session 16 - The Masks I Am Owed]]
+**Found in council with [[Laeral Silverhand|Silverhand]], already planning the assault** on [[The Troll Claw Oblivion Gate]]. Proposed moving within the half hour. **Returned with five heavily armored veterans.** Briefed the party on pit fiend immunities. Teleported in with them; his paladins' **stacked auras gave +10 to saves**, and they finished the Erinyes [[Viseli Bar|Viseli]] crit.

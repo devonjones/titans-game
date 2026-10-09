@@ -46,10 +46,29 @@ The historic portal to **Avernus** (first layer of the Nine Hells) beneath Drago
 - [ ] Consider posting a permanent guard or ward at Dragonspear
 - [ ] Document the statue's exact location, appearance, and any markings
 
+## ⚠️ A Second Door Opened Nearby (Session 14)
+
+**[[The Troll Claw Oblivion Gate]]** opened in the [[Troll Claw Hills]] when [[Samus]] died -- an infernal breach with a **Pit Fiend** climbing out of it, **unwatched**, on the Trade Way. The party rode past it and arrived here within a day.
+
+This changes the risk profile on the fountain relic:
+
+- **Devils now have a foothold one day's ride from Dragonspear.** The "someone else might know about the relic" risk stops being hypothetical
+- Reopening Dragonspear has historically been an *objective* for infernal forces, not an accident
+- The party's own note above says it plainly: **"Anyone who breaks the fountain opens hell."** Someone with a reason to want that is now nearby and numerous
+
+**[[The Apotheosis Codex|Bathere's spellbook]] contains Gate Seal** (4th-level abjuration). It was already flagged as suspicious that Bathere had it. With two hell-doors in the region and the party holding the book, **it is now a tool worth actually evaluating** -- both for reinforcing this seal and for the new gate.
+
+### Added action items
+- [ ] **Physically check the fountain statue** on this pass through Dragonspear
+- [ ] Ask [[Lord Celleborn Ellenfear|Celleborn]] whether he can prepare **Gate Seal** from [[The Apotheosis Codex]]
+- [ ] Include this portal in the report to [[Laeral Silverhand|Silverhand]] about the new gate -- **two breaches, one region, one of them ours**
+
+
 ## Connected Plots
 - [[Dragonspear]] — The location
 - [[Bathere]] — Former guardian (willingly or not)
 - [[The Door of the Dead]] — Similar theme; worth investigating whether they connect
 
 ## Session Appearances
+- [[Session 14 - Like a Cheap Cigar]] — **Risk escalated.** [[The Troll Claw Oblivion Gate]] opened a day's ride away; the party camped an hour outside Dragonspear
 - [[Session 07 - The Door of the Dead]] — **Discovered.** Found in the cellars, confirmed sealed, identified the fountain relic as the binding

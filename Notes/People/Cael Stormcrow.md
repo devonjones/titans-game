@@ -12,8 +12,8 @@ status: Active
 
 **Player:** Devon
 **Race:** Variant Human (Moonshae Ffolk)
-**Class:** Storm Sorcerer 10 / Tempest Cleric 2
-**Level:** 12
+**Class:** Storm Sorcerer 12 / Tempest Cleric 2
+**Level:** 14
 **Alignment:** Lawful Neutral
 
 ## Affiliations
@@ -106,6 +106,110 @@ During the night dragon attack: rushed to arms; went to the roof with the party.
 
 ### [[Session 12 - The Gate of the Far Realms]]
 Day spent in [[Waterdeep]] post-attack. Helped at the dragon corpse and the briefings. **Floated the idea to [[Lady Morwen Daggerford|Lady Morwen]] of using the [[Order of the Fist]]/Hellknight as a message-routing channel** (specifics unclear). Took the [[Lords' Alliance]] teleport-circle oath (Zone of Truth + Geas) and joined the network. After the rest, teleported with the party to a field 2 miles from [[Samus]]'s castle and rode in. At session end: **[[General Martavis|Martavis]] visible inside the open double doors, kneeling**. Cliffhanger.
+
+### [[Session 13 - No Honor in Here]]
+Rode into [[Samus]]'s camp in the [[Troll Claw Hills]]. Argued for talking rather than killing: *"Look, we can only ask so many questions of a corpse. Let's talk to him."* Present for the whole [[Samus's Bargain|negotiation]].
+
+**Then broke it.** When [[Kane]] shook Samus's hand on the deal, **Stormcrow immediately cast [[Synaptic Static]] on Samus.** Samus rolled a natural 20 on the INT save and *"chose to succeed"* (possible Legendary Resistance -- see [[Samus]]); some damage got through.
+
+**Fought the rest of the session blind.** Samus filled the area with darkness from his mouth. Stormcrow moved and cast **[[Lightning Ball]] above the doorframe** -- correctly picking a *point-targeted* spell that works without line of sight. It caught [[Kane]] in the blast. (Note: the dispel attempts were all [[Lord Celleborn Ellenfear|Celleborn]]'s -- Cael has no Dispel Magic.) Took **36 from an enemy Fireball**. Got a reaction event during the melee.
+
+**MIND-CONTROLLED.** Late in the fight, something unseen took him and he **cast [[Lightning Ball]] on the entire party** -- 28 damage, DC 19 DEX, his own save DC, his own slot, his own storm turned around on his friends. Control source unidentified; the darkness meant no one could see who did it and Counterspell was impossible. [[Lord Celleborn Ellenfear|Celleborn]] dispelled the darkness immediately afterward.
+
+**The storm broke on the wrong people.** First time in the campaign Cael's power has been used against the party.
+
+### [[Session 14 - Like a Cheap Cigar]]
+
+**HE KILLED SAMUS.**
+
+The fight resumed with the reminder that his mind-controlled [[Lightning Ball]] had hit the whole party. Then [[Samus]] -- frightened by [[Lord Celleborn Ellenfear|Celleborn]]'s Phantasmal Killer, carved for 43 and 39 by [[Kane]] -- **ran inside the keep and slammed the doors.**
+
+[[Kane]]: ***"Stormcrow, blow that door."***
+
+- **Lightning Bolt into the doors: 33 damage. They blew open**
+- He could see Samus just inside, behind cover
+- **Samus slammed the doors shut again**
+- **Stormcrow shot him through the closed door.** The bolt **splintered the door to shards** and **took Samus's head off** -- it rolled further into the room, **smoking, like a cheap cigar**
+
+> **The convergence doesn't knock.** Last session [[Samus]]'s darkness took every sight-dependent spell Cael owned and turned his own storm on his friends. This session Samus put a door between them, twice, and **it did not matter.** Lightning goes through. The man who spent an entire session making sure nobody could see him died because seeing him was never the requirement.
+>
+> This is the biggest kill of Cael's campaign -- bigger than [[Bathere]]. Samus beat [[General Martavis|Martavis]] in single combat, out-negotiated the party, and out-fought them blind. He died to a bolt through a plank.
+
+**After the kill:**
+- **Looted [[Samus]]** and noticed the maul **broadcasting a chill** -- the [[Frost Brand Maul]], which he handed to [[Viseli Bar|Viseli]]
+- **Misty Stepped into the keep**, Thaumaturgy, lightning -- announcing himself while the party hunted the invisible succubus
+- Cast **Light** on [[Kane]]'s call (*"Stormcrow, light up in front of me!"*) -- **no effect. [[Vaelin]]'s aura cancelled it.** Worth pre-agreeing at the table whose light wins inside Twilight Sanctuary
+- **Detected a Pit Fiend rising** out of the orange glow where the keep had stood, *"with friends"* -- see [[The Troll Claw Oblivion Gate]]
+
+**No damage taken this session.**
+
+**LEVELED TO 13 -- [[Sorcerer]] 11 / [[Cleric]] 2.** The party leveled **as soon as the fight against [[Samus]] was over.**
+
+> **Sixth-level slots open, and the storm learns to pick its targets.** [[Chain Lightning]] is the first spell Cael has ever had that **chooses** -- one bolt out, three more leaping to whoever stands nearest, and with [[Tempest Domain/Destructive Wrath|Destructive Wrath]] every one of them lands maximized. **80 damage to each of four people, guaranteed, ignoring lightning resistance.** The convergence stops being weather that happens to a battlefield and becomes weather that reads it.
+
+HP 95 · 11 sorcery points · lightning/thunder DC 20, attack +12 · new spell: **[[Chain Lightning]]**
+
+### [[Session 15 - The Wall of Masks]]
+
+Downtime and revelation. No combat.
+
+**Present for all three Legend Lore visions** -- [[Samus's Helm|the Ram Helm]], [[Farraday]], and [[Laeral Silverhand|Silverhand]]'s deeper casting on Farraday. Watched the party's own [[Session 10 - Many Zanithars|Session 10]] near-death at [[Ellenfear Manor]] replayed from the outside, and **saw the woman who nearly killed him identified by name and face.**
+
+**Proposed the hunt:** *use a spell to locate her mask.* Established that **she does not keep it in a lead box** -- and then the plan died anyway when it emerged that **[[The Masks of Ahmendril|the masks carry non-detection]]**. The reasoning was right; the mask is simply its own countermeasure.
+
+**Detected nothing this session and needed to detect nothing.** His [[Session 14 - Like a Cheap Cigar|Session 14]] Pit Fiend read got its footnote from [[Laeral Silverhand|Silverhand]]: **the friends are Erinyes.**
+
+**Saw fire in the distance**, from the direction of the [[Troll Claw Hills]] -- [[The Troll Claw Oblivion Gate]] burning the country behind them.
+
+**LEVELED TO 14 -- [[Sorcerer]] 12 / [[Cleric]] 2.**
+
+> **The storm stops asking the ground for permission.**
+>
+> Cael has spent fourteen levels as weather that has to stand somewhere. This level he takes **[[Investiture of Wind]]** -- sixty feet of flight, hovering, for ten minutes, with the wind turning aside every arrow that comes at him. The man who survived the *Moonrunner* by holding on to a crow's nest in a gale now **rides the thing that killed his crew.** Convergence of sky and sea, and this is the sky half finally arriving.
+>
+> And the convergence itself gets sharper: **[[Charisma|CHA]] 18 → 20.** Every bolt he throws lands harder to resist -- **lightning and thunder DC 21, attack +13.**
+
+**The choices ([[Levelling Plan|per the plan]]):**
+
+| | Level 13 | **Level 14** |
+|---|---|---|
+| Class | Sorcerer 11 / Cleric 2 | **Sorcerer 12 / Cleric 2** |
+| HP | 95 | **102** |
+| [[Charisma\|CHA]] | 18 (+4) | **20 (+5)** |
+| Sorcerer save DC | 17 | **18** |
+| Sorcerer save DC, lightning/thunder | 20 | **21** |
+| Sorcerer attack | +9 | **+10** |
+| Sorcerer attack, lightning/thunder | +12 | **+13** |
+| Sorcery Points | 11 | **12** |
+| [[Sorcerer/Metamagic/Empowered Spell\|Empowered Spell]] dice | 4 | **5** |
+| [[Intimidation]] | +9 | **+10** |
+
+- **ASI:** CHA 18 → 20
+- **Swap:** **dropped [[Chromatic Orb]]**, learned **[[Investiture of Wind]]** (Sorcerer 12 grants no new spell known, so this was a trade, not a gain)
+
+> **The cost is real, and it's the price of the standing GM trade.** Dropping Chromatic Orb leaves Cael with **no ranged damage option below a 3rd-level slot** -- there is no native ranged lightning cantrip on the 2014 sorcerer list. And Investiture is **concentration**, so it cancels [[Storm Sphere]]: **he can run his mobility or his damage engine, not both.** The 6th-level slot also competes head-on with [[Chain Lightning]]; the standard loadout is **Investiture with the 6th, Chain Lightning with the 7th.**
+>
+> **Take it for the flight, not the cube** -- the cube is bludgeoning, which means no [[Elemental Adept]], no [[Storm Sorcery/Heart of the Storm|Heart of the Storm]], no [[Tempest Domain/Destructive Wrath|Destructive Wrath]], no Lichtenberg subtle, and no Lichtenberg DC bonus. It is the one thing in his kit that isn't the storm.
+
+### [[Session 16 - The Masks I Am Owed]]
+
+**At [[The Troll Claw Oblivion Gate]], in a field of devils, fighting the one enemy his kit was built for.**
+
+> **Pit fiends are immune to fire and poison. Not lightning.**
+>
+> The standing GM trade — Cael gets lightning reflavors, and in exchange **never casts anything else** — has always been a real constraint. Against devils it costs him **nothing.** Every other caster on that field has to think about immunities. Cael just throws the storm.
+
+**Opened with [[Chain Lightning]]** — the spell he earned for killing [[Samus]]. **One mob down, another bloodied.** First use in play, and a mass devil engagement is exactly the turn it was taken for.
+
+**Then [[Static Cage]] on the pit fiend: 30 damage**, with **[[Elemental Adept]]** turning every 1 into a 2 and ignoring resistance outright.
+
+**Then "magic leaves"** — everyone rolled DEX saves, and **[[Ahmendril]] appeared.** Consistent with his death-tyrant magic suppression ([[Session 12 - The Gate of the Far Realms|Session 12]]), which would shut Cael's concentration spells down and leave [[Kane]]'s and [[Viseli Bar|Viseli]]'s weapons untouched.
+
+**Then fireballs. Injuries.**
+
+**Still unused: nothing he needs.** For a fight against magic-resistant devils, **[[Sorcerer/Metamagic/Heightened Spell|Heightened Spell]] (3 SP) is the best purchase on the sheet** — it forces disadvantage on the first save, cancelling the pit fiend's Magic Resistance advantage outright. He has **12 sorcery points.**
+
+**Combat ongoing at session end.**
 
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.

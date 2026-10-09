@@ -77,3 +77,16 @@ The Alliance has a history of hiring adventurers to raid Zhentarim strongholds a
 Connerad Brawnanvil, Dagult Neverember, Laeral Silverhand (Open Lord of Waterdeep), Ulder Ravengard.
 
 **Sources:** [Lords' Alliance](https://forgottenrealms.fandom.com/wiki/Lords'_Alliance)
+
+### [[Session 16 - The Masks I Am Owed]]
+**The party went to the council for resources** -- [[Kane]]'s proposal, to bring the [[Order of the Fist]] along against the pit fiend.
+
+They were turned away from [[Laeral Silverhand|Silverhand]] ("in counsel"), went to the council chamber instead, and **walked straight past the guard who cracked the door.** Inside, [[Laeral Silverhand|Silverhand]] was with **[[Unthar Froom]]** -- who was **already organizing paladins for the same assault.**
+
+**What the Alliance put into the field within half an hour:**
+- **[[Unthar Froom]] plus five heavily armored veterans** ([[Order of the Fist]])
+- **[[Lady Estrell]]**, a wizard, presented by [[Laeral Silverhand|Silverhand]]
+- **A scroll of Banishment** for [[Vaelin]]
+- **A teleport** onto the battlefield
+
+> **This is the alliance infrastructure working as intended** -- and a quiet vindication of the [[Session 12 - The Gate of the Far Realms|Session 12]] teleport oath. The party asked, and the Alliance delivered eleven bodies and a scroll onto a CR 20 battlefield the same afternoon.

@@ -27,6 +27,16 @@ The three-piece model is confirmed. The Key exists, has not been recovered by [[
 
 See **[[The Planetar's Warning]]** for the full exchange. Divine forces are actively gatekeeping the Key's location.
 
+## ⚠️ He Has Worn It For Over A Century (Session 15)
+
+The **Legend Lore vision on [[Samus's Helm|the Ram Helm]]** in [[Session 15 - The Wall of Masks|Session 15]] shows [[Ahmendril]] on a battlefield well over a hundred years ago, in his humanoid gish form, wearing an **owl mask** — and **his pendant is hanging from his neck.**
+
+**The pendant predates everything the party knows about him.** It was not acquired during the current Gate-assembly campaign. He has carried it across at least one full death-and-return cycle of his own.
+
+That is consistent with it being **the Key** — or with it being whatever makes him a [[Zanithar]]. See [[The Masks of Ahmendril]].
+
+**And it is worth asking whether it is neither, and the Key is the second owl mask on his workshop wall.**
+
 ## Primary Candidate: Ahmendril's Gemstone Pendants
 
 [[Ahmendril]] was described in [[Session 04 - Good Timing|Session 4]] as wearing **two gemstone pendants -- one blue, one red.**

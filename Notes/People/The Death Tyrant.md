@@ -76,12 +76,25 @@ The Abyssal **control scroll** is currently in [[Vaelin]]'s possession -- a high
 - [[The Zhentarim Occupation]] -- Per Session 9, **commands [[Samus]]** -- the Zhent operation in Daggerford was his cover/distraction
 - [[The Pencheska Conspiracy]] -- Possible coordination (replacing rulers as cover for ritual sites?)
 
-## Hierarchy (Confirmed Session 9, Recontextualized Session 10)
+## Hierarchy (Confirmed Session 9, Recontextualized Session 10, Expanded Session 13)
 
 - **Ahmendril (Zanithar)** -- top of the enemy hierarchy
-  - **[[Samus]]** -- runs Zhentarim operations for him; based in [[Daggerford]] or [[Troll Claw Hills]]
+  - **The Lieutenants** (named by [[Samus]] in [[Session 13 - No Honor in Here|Session 13]]):
+    - **[[Farraday]]** -- raven's head mask; [[Waterdeep]]. **Almost certainly the [[Session 10 - Many Zanithars|Session 10]] attacker** who nearly killed [[Cael Stormcrow|Cael]] and flew out a window
+    - **[[Celine]]** -- usually in the **Astral Plane**
+    - **[[Draymon]]** -- in **[[Chult]]**
+  - ~~**[[Samus]]** -- runs Zhentarim operations for him~~ **DEAD ([[Session 14 - Like a Cheap Cigar|Session 14]]).** Killed by [[Cael Stormcrow|Stormcrow]]. **Ahmendril has lost his mortal operations chief, and the "chain" leverage went into the ground with him**
     - **[[Viggio Martel|Viggio]]** (dead) -- Samus's council asset in Daggerford
     - Unnamed Wolf cavalry captain (dead, killed [[Session 08 - Running the Gauntlet|Session 8]]) -- one of Samus's field officers
+
+### The Session 13 Reframe
+
+Two things changed:
+
+1. **Ahmendril has a named lieutenant structure**, geographically distributed (Waterdeep / Astral Plane / Chult). This is the first concrete map of his organization the party has ever had -- and it came from inside
+2. ~~**The coalition is not solid.**~~ **CLOSED BY SESSION 14.** [[Samus]] *was* the fracture. The party killed him. The coalition is now solid by subtraction -- **the only defector is dead**
+
+If [[Farraday]] is the Session 10 raven-masked attacker, then **[[The Pencheska Conspiracy|Pencheska]] is Ahmendril's operation run through Farraday**, not a parallel organization -- which folds the Ellenfear attack and probably [[The Stolen Keystone|the keystone theft]] directly into his command chain.
 
 ## Current Status (Session 12 Update)
 - **At large.** Per the planetar in [[Session 12 - The Gate of the Far Realms|Session 12]]: ***"He moves around a lot."*** Don't expect a fixed location
@@ -98,7 +111,7 @@ The Abyssal **control scroll** is currently in [[Vaelin]]'s possession -- a high
 
 ## What the Party Has Against Him
 - [[Vaelin]] holds the **Abyssal control scroll** -- the only known leash on his revived [[Rofidian|dragon]]
-- The party is en route to [[Samus]] (his lieutenant) for intelligence
+- ~~The party is en route to [[Samus]] (his lieutenant) for intelligence~~ **Samus is dead.** Remaining human sources on Ahmendril: [[Eldrick]] and the surviving Zhents, none interviewed
 - [[Lords' Alliance]] teleport network access (oath-bound)
 - [[Lord Celleborn Ellenfear|Celleborn]]'s [[The Dead Three|Dead Three]] expertise
 
@@ -109,6 +122,89 @@ The Abyssal **control scroll** is currently in [[Vaelin]]'s possession -- a high
 - Who or what are **Rofidian** and **Ravica** -- the two dragons named in the scroll?
 - If we kill this Ahmendril, what happens next? Does the mantle pass immediately? Is there a window?
 - Did the [[Session 10 - Many Zanithars|Session 10 night attack]] target us because we have the control scroll?
+
+### The Session 14 Reframe
+
+**His man in the field is dead and his organization is scattered.**
+
+- **[[Samus]] killed** by [[Cael Stormcrow|Stormcrow]]
+- **Samus's personal troops executed** by [[General Martavis|Martavis]] an hour outside [[Dragonspear]]
+- **The Zhent chain of command below Ahmendril is now empty**: Samus dead, [[Viggio Martel|Viggio]] dead, the Wolf field officers dead, the Wolf army destroyed
+- **His three lieutenants are untouched** -- [[Farraday]], [[Celine]], [[Draymon]] -- and they are now the entire visible structure
+
+**And Samus was leveraged twice.** Ahmendril held his chain, but [[Samus]] **also** had a devil contract on a succubus brothel ([[The Troll Claw Oblivion Gate]]). **Did Ahmendril know?** A subordinate with a second creditor is a subordinate with a second loyalty -- which may be exactly why he was moving against the lieutenants.
+
+**Open:** does Ahmendril appoint a new Samus, or take direct control of the remnant? He *"moves around a lot"*; running mortal operations personally would be a change of posture -- and possibly the first chance to find him.
+
+## ⚠️ HE IS A MASK MAKER (Session 15)
+
+Two **Legend Lore** visions in [[Session 15 - The Wall of Masks|Session 15]] rewrote what he is.
+
+### He is -- or was -- a humanoid wizard with a sword
+
+In a vision from well over a century ago:
+
+- **An aura of elemental energy surrounds him**
+- **He draws a sword**
+- **He throws what is probably an Otiluke's Freezing Sphere** and annihilates a crowd
+- *"Clearly a high level spellcaster, but obviously adept with a sword"*
+
+**A gish.** Not a beholder, not a Death Tyrant. The death-tyrant presentation is a **later form, or a different body wearing the same [[Zanithar]] mantle.**
+
+**He wears an owl mask.** [[Kane]] recognized it.
+
+### He keeps a workshop
+
+A **wizard's library** with **a collection of masks on the wall**, grown between the two visions (*"different array of masks, new ones added"*). Focus on **animal masks and mystical masks.** **Most appear decorative, not combat gear.**
+
+**There is a second owl mask on the wall.**
+
+**His pendant** -- the vault's primary candidate for [[Notes/Items/The Key|the Key]] -- was around his neck in the earliest vision. **He has worn it for over a century.**
+
+### The masks bring his lieutenants back
+
+See **[[The Masks of Ahmendril]]**. Both [[Samus]] and [[Farraday]] die on screen and then **kneel before him wearing their masks.** [[Farraday]]'s gap is **~80 years**.
+
+**And he does not make them all.** He sent [[Farraday]] to **recover [[The Goat Head Mask|the goat mask]] from a dragon's lair, hidden in a pool of acid.** There is a **collection program** -- which reframes [[Celine]] (Astral Plane) and [[Draymon]] ([[Chult]]) as possible **search assignments** rather than garrisons.
+
+### He recruits the people who beat him
+
+- **[[Samus]]:** defeated in single combat, **surrender accepted**, negotiated, given a mask
+- **[[Farraday]]:** **killed a [[Zanithar]]** -- one of his own predecessors -- and he came to her house **for tea**, talked, and came to an agreement
+
+**He does not command loyalty. He buys it with resurrection.** His lieutenants are contractors on a very long contract, which is exactly why [[Samus]] spent [[Session 13 - No Honor in Here|Session 13]] trying to break his.
+
+> **THE CHAIN IS THE MASK.**
+
+### He has edited the Open Lord of Waterdeep
+
+**[[Laeral Silverhand|Silverhand]] draws an owl mask when she doodles** and cannot remember what she has lost. Fixing it, by her own assessment, takes a **Wish**. See [[Silverhand's Missing Memory]].
+
+### How to find him
+
+**He is a master craftsman**, and that is a findable trade -- materials, reputation, buyers. **[[Neverwinter]], [[Baldur's Gate]], [[Waterdeep]]** are the candidate cities, and **masks are traditional at Midsummer.**
+
+This is the first practical handle on a man the planetar described as *"moves around a lot."*
+
+### He lost, once
+
+The vision shows a masked group who **saw a god (possibly Helm)**, fought, **and lost to a band of heroes** about 100 years ago. **A drow paladin with white hair and a blue fist on her shield** -- **[[Order of the Fist]]** -- killed the ram-masked figure.
+
+**He has been beaten before, by a faction that still exists.**
+
+## ⚠️ HE IS ON THE FIELD (Session 16)
+
+**[[Ahmendril]] appeared in person at [[The Troll Claw Oblivion Gate]]** -- his first appearance in a scene since [[Session 04 - Good Timing|Session 4]].
+
+**The sequence matters:** the party all rolled **DEX saves**, then **"magic leaves,"** then **he appeared.** His confirmed signature is **magic suppression via the death-tyrant eye** ([[Session 12 - The Gate of the Far Realms|Session 12]]) -- an antimagic effect would shut down [[Static Cage]], the Hero's Feast, every concentration spell, and [[Lady Estrell]] entirely, while leaving [[Kane]]'s, [[Viseli Bar|Viseli]]'s, and the paladins' weapons untouched.
+
+**Why he came:** a pit fiend was demanding ***"the masks I am owed."*** See [[The Devil's Claim]].
+
+**The mask maker turned up to a fight about masks** -- which means either the debt is his, or the collateral is, or both.
+
+> **[[Kane]] immediately tried to use it:** *"why attack us, when [[Ahmendril]] has all the masks?"* An attempt to point an infernal creditor at the actual debtor. **It is true.**
+
+**And his pendant** -- the leading candidate for [[Notes/Items/The Key|the Key]], worn at his neck for over a century -- **is on that battlefield.**
 
 ## Session Appearances
 
