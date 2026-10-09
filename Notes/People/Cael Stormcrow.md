@@ -169,7 +169,7 @@ Downtime and revelation. No combat.
 >
 > And the convergence itself gets sharper: **[[Charisma|CHA]] 18 → 20.** Every bolt he throws lands harder to resist -- **lightning and thunder DC 21, attack +13.**
 
-**The choices ([[Levelling Plan|per the plan]]):**
+**The choices ([[Leveling Plan|per the plan]]):**
 
 | | Level 13 | **Level 14** |
 |---|---|---|

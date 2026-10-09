@@ -191,7 +191,7 @@ They sleep with watches.
 
 **THE PARTY LEVELS. Level 14.**
 
-**[[Cael Stormcrow|Cael]] → [[Sorcerer]] 12 / [[Cleric]] 2**, per the [[Levelling Plan]]:
+**[[Cael Stormcrow|Cael]] → [[Sorcerer]] 12 / [[Cleric]] 2**, per the [[Leveling Plan]]:
 
 - **ASI: [[Charisma|CHA]] 18 → 20.** Lightning/thunder **DC 21**, attack **+13**, [[Sorcerer/Metamagic/Empowered Spell|Empowered Spell]] now rerolls 5 dice, 12 sorcery points, HP 102
 - **Swap: dropped [[Chromatic Orb]], learned [[Investiture of Wind]]** -- Sorcerer 12 grants no new spell known, so this is a trade rather than a gain
