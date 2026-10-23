@@ -44,7 +44,7 @@ The party is actively trying to reach Waterdeep with [[Lady Morwen Daggerford|th
 - **[[Thrun]]**: *"We need to destroy them before reinforcement."* (sally)
 - **[[Laeral Silverhand]]** mediated and welcomed the Duchess
 
-The Duchess + Silverhand had a private briefing with the party present. **Silverhand was revealed as a [[Harpers|Harper]]** and dropped multiple major plot reveals (see [[Zanithar]], [[The Dragoncult Wars]], [[The Disk]] for two-disc system, scroll = dragon control).
+The Duchess + Silverhand had a private briefing with the party present. **Silverhand was revealed as a [[Harpers|Harper]]** and dropped multiple major plot reveals (see [[Zanithar]], [[The Dragoncult Wars]], [[The Disk]] for two-disc system, and [[The Ritual Tablet]] -- ~~scroll = dragon control~~ **GM-corrected 2026-10-22: a resurrection ritual, not a leash**).
 
 Party stayed overnight at [[Ellenfear Manor]] (Celleborn's family estate). **Night attack by Pencheska operatives** -- see [[The Pencheska Conspiracy]]. Stormcrow nearly died. Attackers escaped via window/bannister.
 

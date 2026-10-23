@@ -21,7 +21,7 @@ This single sentence rewrites the entire Session 7 interpretation:
 
 - **Bathere was NOT preparing the dracolich ritual for Ahmendril.** Their projects were parallel
 - **The "ancient ones" in the [[Session 05 - Signed S|Session 5]] scroll do NOT refer to Ahmendril's transformation.** They refer to **two ancient dragons being revived** (per Silverhand's Session 10 briefing on the [[The Dragoncult Wars|Dragoncult Wars]])
-- **Ahmendril's actual plan**: revive two ancient dragons using two discs (black + red); the Abyssal scroll is the dragon-control mechanism. See [[The Disk]] and [[Ahmendril|Death Tyrant note]]
+- **Ahmendril's actual plan**: revive two ancient dragons using two discs (black + red); [[The Ritual Tablet]] (**a resurrection ritual**; only *potentially* confers control -- see [[The Disk]]) is the dragon-control mechanism. See [[The Disk]] and [[Ahmendril|Death Tyrant note]]
 - **Ahmendril showed up at [[Dragonspear]] to TAKE [[The Door of the Dead]] from Bathere's collection**, not to direct Bathere's research
 
 ## What Bathere Was Actually Doing

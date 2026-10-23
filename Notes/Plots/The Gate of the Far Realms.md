@@ -68,7 +68,7 @@ The strategic options:
 
 ## What We Have That Helps
 
-- **The Abyssal control scroll** (in [[Vaelin]]'s possession) -- bypasses Ahmendril's [[Rofidian|dragon]]
+- **[[The Ritual Tablet]]** (in [[Vaelin]]'s possession) -- the ritual that raised [[Ahmendril]]'s dragons. ~~bypasses his dragon~~ **it does NOT control them** (GM-corrected 2026-10-22). Valuable as intelligence, not as leverage
 - **Lords' Alliance teleport network** -- under oath now; rapid travel to known circle locations
 - **[[Lord Celleborn Ellenfear|Celleborn]]'s Dead Three expertise** -- subject-matter expert
 - **[[Laeral Silverhand|Silverhand]]** -- Chosen of Mystra, Harper, will continue to advise; possibly capable of artifact destruction

@@ -162,7 +162,7 @@ A **planetar appears**.
 Discussion turns to next moves:
 
 - **Ahmendril has some kind of magic-suppression ability** -- believed connected to his eye (single red death-tyrant eye)
-- **[[Vaelin]] possesses [[Ahmendril]]'s [[The Disk|Abyssal control scroll]]** -- top-priority artifact
+- ~~**[[Vaelin]] possesses [[Ahmendril]]'s [[The Disk|Abyssal control scroll]]**~~ -- **ERROR, corrected 2026-10-22; see [[The Disk]]**
 - Plan: **go find [[Samus]]** and see what he knows. Samus rose out of nothingness to lead the Zhentarim; **a brutal warrior even [[General Martavis|Martavis]] fears**
 
 ### Silverhand Will Teleport Us
@@ -238,8 +238,11 @@ The paladin casts **Zone of Truth**. The party takes the oath. **[[Laeral Silver
 - This is now reframed as **a deliberate, controlled ability**, not an ambient artifact effect
 - Tactical implication: **Ahmendril is in an antimagic zone of his own** when facing him
 
-### Vaelin Holds the Control Scroll
-- Confirmed in-fiction: [[Vaelin]] holds the Abyssal **dragon-control scroll**
+### ~~Vaelin Holds the Control Scroll~~ **(ERROR — corrected 2026-10-22)**
+
+> **The GM has confirmed there is no such scroll.** This "confirmed in-fiction" line inherited the [[Session 10 - Many Zanithars|Session 10]] error and hardened it. See [[The Disk]].
+
+- ~~Confirmed in-fiction: [[Vaelin]] holds the Abyssal **dragon-control scroll**~~
 - This is the **only known leash** on [[Rofidian]] (Ravica is dead)
 - DON'T lose it. DON'T test it without intel
 
@@ -285,7 +288,7 @@ The paladin casts **Zone of Truth**. The party takes the oath. **[[Laeral Silver
 - **[[Ahmendril]] / [[Zanithar]]** -- Has 2 of 3 pieces; "moves around a lot"; eye = active antimagic
 - **[[Samus]]** -- Next interrogation / combat target; party is en route via teleport
 - **[[General Martavis|Martavis]] vs Samus** -- IN PROGRESS at the Zhent HQ; party arriving 2 miles out, riding hard
-- **[[Rofidian]]** -- Still alive, fleeing the [[The Tarrasque|Tarrasque]]; control scroll with [[Vaelin]]
+- **[[Rofidian]]** -- Still alive, fleeing the [[The Tarrasque|Tarrasque]]. ~~control scroll with [[Vaelin]]~~ **no such scroll**
 - **[[Ravica]]** -- Dead; **Gentle Repose cast**; corpse being harvested by Celleborn's father's team; no re-resurrection risk
 - **[[The Goat Head Mask]]** -- Probably NOT the Key (Ahmendril failed to take it at Dragonspear)
 - **[[Unthar Froom]] / Order of the Fist** -- Allied but limited trust; hunts the Dead Three; Silverhand excludes him from full briefings

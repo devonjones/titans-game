@@ -14,7 +14,7 @@ priority: Medium
 
 ## Summary
 
-A historical conflict referenced by [[Laeral Silverhand]] in [[Session 10 - Many Zanithars|Session 10]] when [[Vaelin]] briefed her on [[Ahmendril]]'s plan. The current ritual -- two discs, two dragons being revived, an Abyssal control scroll -- is **connected to the Dragoncult Wars**, which Silverhand mentioned as if it were known history.
+A historical conflict referenced by [[Laeral Silverhand]] in [[Session 10 - Many Zanithars|Session 10]] when [[Vaelin]] briefed her on [[Ahmendril]]'s plan. The current ritual -- two discs, two dragons being revived, and [[The Ritual Tablet]] (**a resurrection ritual, not a control mechanism** -- GM-corrected 2026-10-22) -- is **connected to the Dragoncult Wars**, which Silverhand mentioned as if it were known history.
 
 What the party knows: it happened, it involved dragons, and the current Zanithar's operation is patterned on it. **What we don't know is everything else.**
 
@@ -33,7 +33,7 @@ What the party knows: it happened, it involved dragons, and the current Zanithar
 - **[[Ahmendril]]** -- current Zanithar, running a ritual Silverhand says connects to these wars
 - **[[Zanithar]]** -- recurring role; previous Zanithars may have been participants
 - **[[The Disk]]** -- the two-disc system may be a Dragoncult War-era ritual
-- **The Abyssal scroll** -- dragon-control instructions; possibly an artifact or copy from the wars themselves
+- **[[The Ritual Tablet]]** -- a **resurrection ritual** that only *potentially* confers control (GM-corrected 2026-10-22); possibly an artifact or copy from the wars themselves
 - **Rofidian and Ravica** (named in the scroll) -- the likely target dragons; possibly Dragoncult War-era dragons being revived
 
 ## Next Steps
@@ -57,7 +57,7 @@ What the party knows: it happened, it involved dragons, and the current Zanithar
 **Strong possibility these are Rofidian and Ravica** -- the dragons [[Ahmendril]] is reviving per [[Laeral Silverhand|Silverhand]]'s Session 10 briefing. If so:
 - The ritual has been **completed** (faster than expected)
 - Both discs must have been drained
-- The control scroll (in [[Vaelin]]'s possession) is now the only known leash, and the dragons are clearly NOT on the leash -- they're attacking Waterdeep on their own
+- ~~The control scroll is the only known leash~~ **[[The Ritual Tablet]] is NOT a leash** (GM-corrected 2026-10-22), and the dragons are clearly NOT on the leash -- they're attacking Waterdeep on their own
 - Ahmendril either hasn't activated the scroll, doesn't have it (Vaelin does), or activated it elsewhere with the dragons fulfilling his orders
 
 The **Dragoncult Wars** historical context is now active and current. [[Laeral Silverhand|Silverhand]] should be pressed for the specifics of how the wars ended last time -- the precedent matters now.

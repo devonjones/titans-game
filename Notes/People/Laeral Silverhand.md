@@ -37,7 +37,7 @@ The Duchess requests a private conversation. Room empties except the Duchess, Si
 - When Vaelin describes [[Ahmendril]], Silverhand calls him "**[[Zanithar]]**": ***"There have been many Zanithars. He is periodically killed and replaced."***
 - Vaelin continues with the disc details. Silverhand: this is connected to the **[[The Dragoncult Wars|Dragoncult Wars]]**
 - Confirms there are **two discs** (black + red), not one
-- Confirms the vellum scroll is **dragon control instructions**
+- Discussed **[[The Ritual Tablet]]** -- **and this is where a vault error entered.** The write-up recorded her as confirming *dragon-control instructions* and *"a leash."* **GM-corrected 2026-10-22: it is a tablet, and it only *potentially* confers control.** What she actually said is now uncertainWhether she said anything of the kind is itself now doubtful
 - Examines [[The Goat Head Mask]]; confirms it's still attuned to [[Bathere]]
 - **Reveals herself as a [[Harpers|Harper]]**
 

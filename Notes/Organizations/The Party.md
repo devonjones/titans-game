@@ -108,7 +108,7 @@ Received owl note from [[General Martavis|Martavis]]: *"I heard you got my gift.
 - [[Ahmendril]] is a "**[[Zanithar]]**" -- recurring role, periodically killed and replaced
 - Connected to the **[[The Dragoncult Wars]]**
 - **Two discs**, not one (black + red, mixing); see [[The Disk]]
-- The Abyssal scroll = **dragon-control instructions**, not just ritual instructions
+- **[[The Ritual Tablet]]** = a **resurrection ritual** that only *potentially* confers control -- ~~dragon-control instructions~~ **GM-corrected 2026-10-22; not a leash.** See [[The Disk]]
 - [[Bathere]] did NOT know Ahmendril -- their projects were parallel
 - Silverhand is a Harper; already knew Martavis was
 
@@ -265,6 +265,6 @@ Day spent shopping (Vaelin's new plant, **Revivify diamonds for everyone**) and 
 
 > ### ***"I believe you have something that belongs to me."***
 
-**[[Vaelin]] is carrying the Abyssal control scroll** — the only known leash on him. See [[Rofidian]] and [[The Disk]].
+**[[Vaelin]] is carrying [[The Ritual Tablet]]** — the ritual that raised him. **Not a leash** (GM-corrected 2026-10-22). See [[Rofidian]] and [[The Disk]].
 
 **[[Ahmendril]] appeared at the end of [[Session 16 - The Masks I Am Owed|Session 16]] and is absent from this session entirely.**

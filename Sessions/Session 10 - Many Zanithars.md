@@ -100,6 +100,9 @@ When [[Vaelin]] describes [[Ahmendril|the Death Tyrant figure]], **Silverhand re
 - We previously only knew about one disc ([[The Disk]] taken from the temple). The second exists.
 
 ### The Scroll
+
+> **⚠️ CORRECTED 2026-10-22 — THE "CONTROL" READING BELOW IS WRONG.** The GM: *"we have no such scroll"*; the object is **[[The Ritual Tablet]]**, and it is *"a ritual to resurrect the dead dragons and **potentially** gain control of them"* — with **"potentially" doing the heavy lifting.** It **is** the Session 5 / Session 10 object and the party **does** hold it; what it does not do is command a dragon. The *"whoever holds the scroll commands them"* / *"it's a leash"* framing below propagated across the vault for seven sessions. See [[The Disk]] and [[The Ritual Tablet]]. Left in place as the record of what was written.
+
 - The vellum scroll Vaelin recovered in [[Session 05 - Signed S|Session 5]] -- the Abyssal one -- **contained directions to CONTROL the dragons after revival**
 - It's not just a ritual scroll. It's a leash. Whoever holds the scroll commands the resurrected dragons
 
@@ -214,7 +217,7 @@ Confirmed at the table. [[Laeral Silverhand]] is a [[Harpers|Harper]]. Add her t
 - We have only seen one ([[The Disk]] from the temple); the other is somewhere else
 - This recontextualizes [[The Dead Three Temple|the Daggerford temple ritual]] -- it was one of two parallel preparation sites
 
-### The Scroll = Dragon Control
+### ~~The Scroll = Dragon Control~~ **(ERROR — see correction above)**
 - The vellum/Abyssal scroll from [[Session 05 - Signed S|Session 5]] wasn't just ritual instructions
 - It contains **directions to CONTROL the dragons after revival**
 - Whoever holds the scroll **commands the resurrected dragons**
@@ -267,7 +270,7 @@ Confirmed at the table. [[Laeral Silverhand]] is a [[Harpers|Harper]]. Add her t
 - **[[The Dragoncult Wars]]** -- **NEW.** Historical context Silverhand referenced
 - **[[The Disk|The Discs]]** -- **Updated.** Two discs (black + red), not one. Second location unknown
 - **[[The Door of the Dead]]** -- Ahmendril still has it
-- **The Scroll** -- Now confirmed as the dragon-control mechanism. Currently with [[Vaelin]]. **High-priority artifact**
+- ~~**The Scroll** -- Now confirmed as the dragon-control mechanism~~ **(ERROR -- see correction above. It is [[The Ritual Tablet]], a resurrection ritual that only *potentially* confers control.)** Currently with [[Vaelin]]. **High-priority artifact**
 - **[[The Avernus Portal]]** -- Sealed; relic in the fountain at Dragonspear
 - **[[The Goat Head Mask]]** -- Still attuned to Bathere; Silverhand has seen it
 - **Waterdeep Siege** -- Ongoing; council debating offense vs defense; naval blockade visible

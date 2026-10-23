@@ -90,7 +90,7 @@ Gave the entire party **Darkvision (300 feet)** on approach to [[Dragonspear]]. 
 **After the fight:** rolled **History** (with Celleborn) identifying the **statue in the fountain** as the relic sealing the **[[The Avernus Portal|Avernus portal]]** beneath the castle. Helped interpret [[Bathere]]'s dracolich research.
 
 ### [[Session 10 - Many Zanithars]]
-Briefed [[Laeral Silverhand|Silverhand]] on everything from [[Dragonspear]] (Bathere, dracolich research, dead dragon, [[The Door of the Dead]], [[The Avernus Portal]], [[The Goat Head Mask]]). Silverhand revealed [[Ahmendril]] is a "[[Zanithar]]" -- recurring, periodically killed and replaced -- and connected the ritual to the **[[The Dragoncult Wars|Dragoncult Wars]]**. Confirmed **two discs** (black + red), the scroll = dragon control instructions. Watered his plants before heading to [[Ellenfear Manor]]. Cast **Divination** about sleeping arrangements: answer said his castle quarters would be "a terrible idea" -- slept at Ellenfear instead. 
+Briefed [[Laeral Silverhand|Silverhand]] on everything from [[Dragonspear]] (Bathere, dracolich research, dead dragon, [[The Door of the Dead]], [[The Avernus Portal]], [[The Goat Head Mask]]). Silverhand revealed [[Ahmendril]] is a "[[Zanithar]]" -- recurring, periodically killed and replaced -- and connected the ritual to the **[[The Dragoncult Wars|Dragoncult Wars]]**. Confirmed **two discs** (black + red). ~~The scroll = dragon control instructions~~ -- **ERROR, GM-corrected 2026-10-22:** the object is [[The Ritual Tablet]], a resurrection ritual that only *potentially* confers control. Watered his plants before heading to [[Ellenfear Manor]]. Cast **Divination** about sleeping arrangements: answer said his castle quarters would be "a terrible idea" -- slept at Ellenfear instead. 
 
 During the night attack: hit twice for 28 dam each, saved both poison saves (26 and 20). Cast **Spirit Guardians** + grabbed shield. Twilight Sanctuary not yet online at first; activated it later for 14 temp HP to allies. Withstood multiple attacks that glanced off armor (quipped *"Would you like to try something different?"*). **His plant was knocked out the window during the fight** -- watered for nothing. Healed [[Cael Stormcrow|Stormcrow]] after Kane stabilized him.
 
@@ -100,7 +100,7 @@ Encouraged the party to make **Tiny Hut** standard practice going forward. Sough
 ### [[Session 12 - The Gate of the Far Realms]]
 **Day of triage.** Took off ahead to follow the path of destruction toward the second dragon. Joined [[Laeral Silverhand|Silverhand]] (who was lifting a building off victims) and **healed casualty after casualty** in the dragon-attack aftermath. Used all his spells through the day healing people. Cast **Commune** (5th-level cleric -- three yes/no questions to his deity) after the planetar appeared during Celleborn's Divination ritual; concluded **the gods specifically don't want the Key found**.
 
-Confirmed in-fiction as the holder of the **Abyssal control scroll** ([[Ahmendril]]'s dragon-control instructions for [[Rofidian]] / [[Ravica]]). Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle and rode in with the party.
+Confirmed in-fiction as the holder of **[[The Ritual Tablet]]** — ~~Ahmendril's dragon-*control* instructions~~ **a resurrection ritual that only *potentially* confers control** (GM-corrected 2026-10-22). **It is not a leash.** See [[The Disk]]. Took the [[Lords' Alliance]] teleport-circle oath. Teleported to the field 2 miles from [[Samus]]'s castle and rode in with the party.
 
 ### [[Session 13 - No Honor in Here]]
 **Threat assessment during the parley:** read the keep and concluded there are **many casters just inside** -- the single most important tactical read of the session, and it was correct (Fireball, three-beam Eldritch Blast, and a mind control all came out of that building).
@@ -192,13 +192,13 @@ He floated **Greater Restoration** and **Heal**; **she suggested Wish**; and **h
 >
 > **The head of a paladin order asked a party cleric for orders and took them.** That is a standing worth noting.
 
-> ## ⚠️ He is holding what the dragon came for
+> ## ⚠️ What the dragon wants is NOT in his pack
 >
 > At session end an **ancient red dragon** — almost certainly **[[Rofidian]]** — landed and said ***"I believe you have something that belongs to me."***
 >
-> **[[Vaelin]] carries the Abyssal control scroll** — *dragon-control instructions*, per [[Laeral Silverhand|Silverhand]], and the vault's long-standing **"only known leash"** on Rofidian.
+> **He is carrying [[The Ritual Tablet]]** — the ritual that raised Rofidian. **GM-corrected: it does not command the dragon**, it only *potentially* could, and *potentially* is doing the heavy lifting. See [[The Disk]].
 >
-> **It is in his pack, and the dragon is standing in front of him.**
+> **So it is still very plausibly what the dragon came for** — not because it works, but because it is his and he wants it gone. **Copy it before any negotiation.** [[Lord Celleborn Ellenfear|Celleborn]] reads Abyssal.
 
 ## Notes
 - **Dispel Magic** now confirmed in his kit and lethally effective
@@ -216,6 +216,6 @@ He floated **Greater Restoration** and **Heal**; **she suggested Wish**; and **h
 - **Heal** (6th) confirmed -- 70 points to [[Viseli Bar|Viseli]]
 - **Flight** confirmed in combat
 - **He commands the [[Order of the Fist]] paladins in the field** -- [[Unthar Froom]] asks him where to stand
-- **⚠️ He carries the Abyssal control scroll**, and an ancient red dragon has arrived saying the party has something of his
+- **He carries [[The Ritual Tablet]]** — the ritual that raised [[Rofidian]] and [[Ravica]]. **Not a leash** (GM-corrected 2026-10-22). Possibly what the dragon came for
 - **The party's diagnostician.** He spotted Martavis's regeneration; nobody else was looking
 - Details TBD as more is revealed in play

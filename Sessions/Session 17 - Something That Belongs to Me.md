@@ -264,9 +264,11 @@ He sees [[Unthar Froom]], the party, and a coterie of paladins. **Moves up and c
 >
 > ### "Something that belongs to me" — what?
 >
-> **The leading candidate: [[Vaelin]] is carrying the Abyssal control scroll.**
+> **The leading candidate: [[Vaelin]] is carrying [[The Ritual Tablet]].**
 >
-> That scroll is **dragon-control instructions** — per [[Laeral Silverhand|Silverhand]] in [[Session 10 - Many Zanithars|Session 10]], *whoever holds it commands the revived dragons.* The vault has called it **"the only known leash"** on Rofidian for seven sessions. **A dragon would absolutely come for the object that commands him**, and it is in this party's hands, on this field, right now.
+> **⚠️ CORRECTED 2026-10-22.** The vault spent seven sessions calling this a *dragon-control scroll* and *"the only known leash"* on Rofidian. The GM: *"we have no such scroll"*; it is **a tablet**, and it is *"a ritual to resurrect the dead dragons and **potentially** gain control of them"* — with **"potentially" doing the heavy lifting.** **The party has no working leash.** See [[The Disk]].
+>
+> **It is still very plausibly what he came for.** It is the ritual that **raised him.** It does not command him, but it is *his*, and a dragon will not tolerate it in someone else's hands — **he does not need it to work, he needs it gone.**
 >
 > **Other candidates, in order:**
 > - **[[Ravica]]'s corpse** — his paired dragon, harvested for armor and weapons by [[Lord Celleborn Ellenfear|Celleborn]]'s father's team, under Gentle Repose in [[Waterdeep]]
@@ -288,7 +290,7 @@ He sees [[Unthar Froom]], the party, and a coterie of paladins. **Moves up and c
 | **[[Cael Stormcrow|Stormcrow]]** | **Died or dropped — see the gap above.** Ended alive, in the paladin formation, having **killed the pit fiend with a cantrip** |
 | **[[Viseli Bar|Viseli]]** | **208 → 60 HP.** Took roughly **460 raw damage** across the session; Rage halved most of it. Restrained by a chain devil at one point |
 | **[[Kane]]** | Hit repeatedly; **healed himself**. Killed a ravaged devil, Sentinel-locked a charger, fought a giant crow. *(Run at the table — Peter absent)* |
-| **[[Vaelin]]** | **Banishment FAILED.** Healed all session — 26 and then a 70-point **Heal** on Viseli, temp HP to Stormcrow. Commanded the paladins. **Still holds the Abyssal control scroll** |
+| **[[Vaelin]]** | **Banishment FAILED.** Healed all session — 26 and then a 70-point **Heal** on Viseli, temp HP to Stormcrow. Commanded the paladins. **Still holds [[The Ritual Tablet]]** |
 | **[[Lord Celleborn Ellenfear|Celleborn]]** | **Teleported in mid-fight.** Protection from Evil and Good, Hypnotic Pattern on the second wave, Momentary Stasis, Action Surge, Finger of Death, Chronal Shift. **Confirmed Chronurgy Wizard** |
 | **[[Lady Estrell]]** | **25-ft Globe of Invulnerability** — blocked an incoming Wall of Fire. Killed a devil |
 | **[[Unthar Froom]] + paladins** | Took orders from [[Vaelin]]. Focused the caged pit fiend. **At least one paladin killed by the flying fiend** |
@@ -319,15 +321,15 @@ Pit fiends are immune to fire and poison. **[[Cael Stormcrow|Cael]] killed two o
 ### A red dragon has arrived and wants something
 **[[Rofidian]]**, almost certainly — the ancient red [[Ahmendril]] revived, last seen fleeing [[Waterdeep]] with the [[The Tarrasque|Tarrasque]] behind him. **He has lost the Tarrasque, he dislikes paladins, and he says the party has something of his.**
 
-**[[Vaelin]] is holding the Abyssal scroll that commands him.**
+**[[Vaelin]] is holding [[The Ritual Tablet]] — the ritual that raised him.** It does **not** command him (GM-corrected); it is simply his.
 
 ---
 
 ## Open Questions
 
 1. **Did [[Cael Stormcrow|Stormcrow]] actually die?** Dropped to 0, or killed and revived? **The party has Revivify diamonds.** This needs a table answer
-2. **What does the dragon want?** The **control scroll** is the strongest candidate. [[Ravica]]'s corpse and **the masks** are live alternatives — and [[Kane]] is carrying one
-3. **Do we give it to him?** The scroll is the only leash on an ancient red dragon. Handing it over disarms the party completely; refusing starts a fight the party is in no shape for
+2. **What does the dragon want?** **[[The Ritual Tablet]]** is the strongest candidate — the party has it, and it raised him. [[Ravica]]'s corpse, the **dragon-hoard item [[Lord Celleborn Ellenfear|Celleborn]]'s father is researching**, and **the masks** are live alternatives
+3. **Do we give it to him?** It is **not** a leash, so handing it over surrenders no control the party actually had — but it is the only physical record of the ritual, and it would hand him [[Ravica]]'s resurrection. **Copy it first.** Refusing starts a fight the party is in no shape for
 4. **Where is [[Ahmendril]]?** He appeared at the end of [[Session 16 - The Masks I Am Owed|Session 16]] and does not appear in these notes at all. **Did he leave, or is he still here?**
 5. **What caused "the magic went away"?** The dragon's own aura, or [[Ahmendril]] arriving with it, as in Session 16?
 6. **Is [[Rofidian]] working for [[Ahmendril]], or has he gone independent?** He disliked the *paladins* — not necessarily the party
@@ -346,7 +348,7 @@ Pit fiends are immune to fire and poison. **[[Cael Stormcrow|Cael]] killed two o
 ## Active Plot Threads
 
 - **[[Rofidian]]** — **ON THE FIELD.** Ancient red dragon, landed, antimagic, wants something the party has
-- **[[The Disk|The Abyssal control scroll]]** — in [[Vaelin]]'s hands. **The leash on the dragon standing in front of him**
+- **[[The Ritual Tablet]]** — in [[Vaelin]]'s hands. The ritual that raised the dragon standing in front of him. **Not a leash** (GM-corrected 2026-10-22)
 - **[[The Troll Claw Oblivion Gate]]** — **STILL OPEN.** The pit fiend holding it is dead and unlooted
 - **[[The Devil's Claim]]** — the devil that demanded the masks is dead. **Does the claim die with him?**
 - **[[Ahmendril]]** — appeared last session, **absent from this one.** Unaccounted for

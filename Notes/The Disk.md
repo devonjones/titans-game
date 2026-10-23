@@ -25,7 +25,7 @@ A circular disk with a gold rim. The face is divided in a yin-yang pattern -- on
 - Each disc is being **drained** (filled with essence) at a separate ritual site
 - The two discs together are the **vessel system for reviving two ancient dragons**
 - Connected to the **[[The Dragoncult Wars|Dragoncult Wars]]** -- this is a known ritual pattern, not a novel scheme
-- The accompanying **Abyssal vellum scroll** is **dragon-control instructions** -- whoever holds it commands the revived dragons
+- ~~The accompanying **Abyssal vellum scroll** is **dragon-control instructions**~~ **WRONG on both counts -- it is [[The Ritual Tablet|a tablet]], and it does not grant control. See the correction below**
 
 ## The Two Sites
 
@@ -48,11 +48,46 @@ Two **ancient dragons** are the targets of revival. Names in the scroll:
 
 Almost certainly the dragons' names, not separate cultists or operators (per Session 10 reread).
 
-## The Scroll
+## The Ritual Tablet (formerly "The Scroll")
 
-The **Abyssal vellum scroll** ([[Session 05 - Signed S|Session 5]]) was originally read as ritual instructions. [[Laeral Silverhand|Silverhand]] confirmed: it actually contains **directions to CONTROL the dragons after they're revived.**
+> # ⚠️ GM CORRECTION (2026-10-22)
+>
+> **This object is a TABLET, and it does not grant control of anything.**
+>
+> > **GM:** *"We have no such scroll."*
+> >
+> > **GM:** *"The tablet is a ritual to resurrect the dead dragons and potentially gain control of them."*
+> >
+> > **GM:** *"It is the one from Session 10, it just doesn't do what you thought. **Potentially** is doing the heavy lifting there."*
+>
+> | | Vault said | Actually |
+> |---|---|---|
+> | **Form** | A scroll, on vellum | **A tablet** |
+> | **Function** | **Grants control** — whoever holds it commands the revived dragons; *"the only known leash"* | **A resurrection ritual that *potentially* confers control.** Not a leash, not a command. **"Potentially" is doing the heavy lifting** |
+> | **Which object** | The [[Session 05 - Signed S\|Session 5]] find, discussed again in [[Session 10 - Many Zanithars\|Session 10]] | ✅ **Same object** |
+> | **Who has it** | [[Vaelin]] | ✅ **Believed correct** |
+>
+> **So the party does hold it.** It simply never was a mechanism for commanding an ancient dragon.
+>
+> **Everything the vault learned *from* it stands** — the dragons' names, [[Mount Hotenow]], the disc mechanism, the [[Cult of the Dragon]] link. **What is withdrawn** is the claim that holding it does anything to a dragon.
+>
+> **The error's blast radius:** for seven sessions this was listed as a party asset and *"the only known leash"* on [[Rofidian]], and in [[Session 17 - Something That Belongs to Me\|Session 17]] it was named the leading answer to the red dragon's *"I believe you have something that belongs to me."* **That framing is all withdrawn.** The party should assume **no control over [[Rofidian]] whatsoever.**
+>
+> **Full writeup: [[The Ritual Tablet]].**
 
-**Currently in [[Vaelin]]'s possession.** Top-priority artifact -- without the scroll, [[Ahmendril]] has no leash on what he resurrects. With the scroll in our hands, we hold the only known control mechanism.
+### What it says
+
+A **scrap of Abyssal vellum**, found on the temple floor in [[Session 05 - Signed S|Session 5]], translated by [[Lord Celleborn Ellenfear|Celleborn]]:
+
+> **The Ritual of the Ancient Ones:**
+> - Ritual sacrifice of **two innocents**
+> - Place their essence on a **disk**
+> - Take the disk to **[[Mount Hotenow]]**
+> - Finish the ritual there to **raise the ancient ones**
+> - Connected to the **[[Cult of the Dragon]]**
+> - Names: **[[Rofidian]]** and **[[Ravica]]**
+
+**That is the whole of it.** It is how the vault learned the dragons' names, [[Mount Hotenow]]'s significance, and the disk mechanism — all of which remain good. **It is not a control mechanism and the party does not hold it.**
 
 ## Theories (Updated)
 - ~~Lich/dracolich transformation for Ahmendril (Session 7 hypothesis from Bathere's notes)~~ -- **Likely wrong.** Bathere did not know Ahmendril; Bathere's research was his own arc that paralleled this one
@@ -68,33 +103,21 @@ The **Abyssal vellum scroll** ([[Session 05 - Signed S|Session 5]]) was original
 - **Can the discs be destroyed?** Or only emptied?
 - **If we destroy the scroll,** does Ahmendril abandon the ritual, or do the dragons rise uncontrolled?
 
-## ⚠️ THE DRAGON HAS COME FOR THE SCROLL (Session 17)
+## ⚠️ The Dragon Came Asking (Session 17)
 
-At the end of [[Session 17 - Something That Belongs to Me|Session 17]], an **ancient red dragon** -- almost certainly **[[Rofidian]]** -- landed in front of the party at [[The Troll Claw Oblivion Gate]] and said:
+**[[Rofidian]] landed in front of the party** at [[The Troll Claw Oblivion Gate]] and said ***"I believe you have something that belongs to me."***
 
-> ### ***"I believe you have something that belongs to me."***
+The party **does** hold **[[The Ritual Tablet]]** — the ritual that raised him. **It does not command him**, but from a dragon's point of view it is his, and it is intolerable in anyone else's hands. He does not need it to work; he needs it gone.
 
-**The Abyssal control scroll is in [[Vaelin]]'s pack.**
+**And the party may have advertised it.** This vault called it a working leash for seven sessions. If that framing reached the fiction — a briefing, the council, or **the note left with [[Laeral Silverhand|Silverhand]] in [[Session 16 - The Masks I Am Owed|Session 16]] summarising everything the party knows** — then the party has been telling people it holds a dragon's leash.
 
-Per [[Laeral Silverhand|Silverhand]] in [[Session 10 - Many Zanithars|Session 10]], the scroll is **dragon-control instructions** -- *whoever holds it commands the revived dragons.* This vault has described it as **"the only known leash"** on [[Rofidian]] for seven sessions.
-
-**A dragon coming to collect "something that belongs to me" from the people holding the object that commands him is the obvious reading.**
-
-### The decision
-
-**Hand it over and the party disarms itself of its only control over an ancient red dragon** -- and arms him against the one thing that could stop him.
-
-**Refuse and the party starts a fight with a CR 24 dragon** at the end of a session where [[Cael Stormcrow|Stormcrow]] went down and [[Viseli Bar|Viseli]] ended on 60 of 208 hit points.
-
-**He opened by talking.** So did the pit fiend. **There is a negotiation here, and the scroll is the party's entire bargaining position.**
-
-> **Other candidates for what he wants:** [[Ravica]]'s harvested corpse, or **a mask** ([[The Goat Head Mask|the goat mask]] was stolen out of a dragon's lair, and [[Kane]] is carrying [[Samus's Helm|another one]]). See [[Rofidian]].
+**Copy it before any negotiation.** [[Lord Celleborn Ellenfear|Celleborn]] reads Abyssal and has translated it once already. See [[The Ritual Tablet]] and [[Rofidian]].
 
 ## Session Appearances
 - [[Session 04 - Good Timing]] -- Disc 1 observed; taken by [[Ahmendril]]
 - [[Session 05 - Signed S]] -- Ritual scroll recovered; Mount Hotenow destination; names Rofidian and Ravica
 - [[Session 07 - The Door of the Dead]] -- (Stale framing from this session: "lich/dracolich" interpretation came from Bathere's notes, which were Bathere's own arc, not Ahmendril's. See Session 10 for the corrected framing)
-- [[Session 10 - Many Zanithars]] -- **Two discs confirmed.** Scroll = dragon control. Connected to the [[The Dragoncult Wars|Dragoncult Wars]]
+- [[Session 10 - Many Zanithars]] -- **Two discs confirmed.** ~~Scroll = dragon control~~ **(ERROR -- see the correction above; it is [[The Ritual Tablet]] and it is not a leash).** Connected to the [[The Dragoncult Wars|Dragoncult Wars]]
 
 ### [[Session 11 - When the World Burns]] -- Possibly Complete
 Two dragons attacked [[Waterdeep]] this session. **Strong possibility the two-disc revival ritual has been completed** and Rofidian + Ravica are now alive and flying.
@@ -102,7 +125,7 @@ Two dragons attacked [[Waterdeep]] this session. **Strong possibility the two-di
 If this is correct:
 - **Both discs were drained.** The second disc location (long an open question) is now backfilled -- it was completed somewhere we didn't reach in time
 - **Ahmendril executed faster than expected.** The party's window to interrupt the ritual is closed; the question is now how to manage the consequences
-- **The Abyssal control scroll is still in [[Vaelin]]'s possession** -- the dragons are not on his leash. Either the scroll only works for the original ritualist (Ahmendril), or it requires activation we haven't performed, or it works for whoever holds it but we haven't tried it (DON'T try it without further intel)
+- **[[The Ritual Tablet]] is still in [[Vaelin]]'s possession** -- but **it was never a leash** (GM-corrected 2026-10-22). Either the scroll only works for the original ritualist (Ahmendril), or it requires activation we haven't performed, or it works for whoever holds it but we haven't tried it (DON'T try it without further intel)
 - **The Tarrasque rose at dawn**, killed one dragon (black), and is pursuing the other. The dragons attacking Waterdeep alone may have been enough to trigger world-threatening-event level response
 
 Caveat: the two attacking dragons could be unrelated -- coincidence of timing -- but the convergence with the Tarrasque appearance argues strongly otherwise.

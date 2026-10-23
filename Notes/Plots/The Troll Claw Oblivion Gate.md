@@ -145,7 +145,7 @@ The party said *"What masks?"* He shouted **"SEARCH THEM!"** and the Erinyes cam
 
 > ***"I believe you have something that belongs to me."***
 
-**See [[Rofidian]].** The leading candidate is the **Abyssal control scroll in [[Vaelin]]'s pack** -- the only known leash on him.
+**See [[Rofidian]].** The leading candidate is **[[The Ritual Tablet]]** in [[Vaelin]]'s pack -- the ritual that raised him. **It does not command him** (GM-corrected 2026-10-22), but it is his.
 
 ## Why It Opened
 

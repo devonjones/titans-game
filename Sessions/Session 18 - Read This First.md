@@ -50,7 +50,11 @@ It doesn't seem to like the paladins. And it said:
 
 **It is almost certainly Rofidian** — the ancient red dragon Ahmendril raised from the red disc, who attacked Waterdeep and then fled through the broken wall with the Tarrasque on his tail. **He has evidently lost the Tarrasque.**
 
-**And Vaelin is carrying the scroll that commands him.** The Abyssal scroll, the one Silverhand told us is dragon-control instructions — *whoever holds it commands the revived dragons.* It has been called the only leash on this dragon for seven sessions, and it is in Vaelin's pack right now.
+**And Vaelin is carrying the ritual that raised him.** It is the Abyssal tablet we pulled out of the temple under Viggio's manor, back at the very start of all this — the one that says: sacrifice two innocents, put their essence on a disk, take it to Mount Hotenow, and raise the ancient ones. It names Rofidian and Ravica.
+
+**Important correction: it is not a leash.** We have been telling ourselves for a while that whoever holds it *commands* the dragons. **It does not do that.** It is a resurrection ritual that *might*, under conditions nobody has worked out, confer some control — and "might" is carrying all the weight in that sentence. **We have no control over this dragon.**
+
+But it is still very plausibly what he wants. **It is the ritual that made him, and it is in our hands.** He doesn't need it to work. He needs it gone.
 
 ---
 
@@ -68,10 +72,12 @@ It doesn't seem to like the paladins. And it said:
 
 ## The question on the table
 
-**Do we give the dragon the scroll?**
+**Do we give the dragon the tablet?**
 
-Hand it over and we throw away the only control anyone has over an ancient red dragon — and hand it to him. Refuse, and we start a fight we are in no condition to have.
+It is not a leash, so handing it over costs us no control we actually had. But it is the **only physical record of the ritual** — the names, Mount Hotenow, the disk mechanism — and giving an ancient red dragon the ritual that resurrects dragons hands him **Ravica**, whose corpse is sitting in Waterdeep and whose re-resurrection Celleborn specifically blocked with Gentle Repose.
 
-He opened by talking. So did the pit fiend. **There is a deal here somewhere, and that scroll is the only card we are holding.**
+**Copy it before we offer anything.** Celleborn reads Abyssal and has already translated it once.
 
-*(He may not even mean the scroll. Ravica's carved-up corpse is in Waterdeep under Celleborn's father's knives. And Kane is carrying Samus's mask — while the goat mask was stolen out of a dragon's lair in the first place. Worth finding out what he means before we offer anything.)*
+He opened by talking. So did the pit fiend. **There is a deal here somewhere.**
+
+*(And he may not mean the tablet at all. Ravica's carved-up corpse is in Waterdeep under Celleborn's father's knives — and Celleborn's father pulled **something out of a dragon hoard** that Celleborn went off to study last session. Kane is also carrying Samus's mask, and the goat mask was stolen out of a dragon's lair in the first place. **Ask what he means before we offer anything.**)*

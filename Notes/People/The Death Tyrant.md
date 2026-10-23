@@ -43,7 +43,7 @@ Per [[Laeral Silverhand|Silverhand]]'s briefing in [[Session 10 - Many Zanithars
 
 - Ahmendril is **bringing back two ancient dragons** -- this is what "raise the ancient ones" actually meant
 - **Two discs** (black + red, "mixing into each other"), not one. We've seen the one from the [[The Dead Three Temple|Daggerford temple]]; the second is somewhere else
-- The Abyssal vellum scroll from [[Session 05 - Signed S|Session 5]] is **dragon-control instructions** -- whoever holds it commands the revived dragons
+- **[[The Ritual Tablet]]** is a **resurrection ritual that only *potentially* confers control** (GM-corrected 2026-10-22): sacrifice, disk, [[Mount Hotenow]], raise the ancient ones
 - Connection to the **[[The Dragoncult Wars|Dragoncult Wars]]** -- historical precedent
 - **[[Bathere]] did NOT know Ahmendril.** Their projects were parallel, not coordinated. Bathere's dracolich research may have been *used* by Ahmendril, but Bathere wasn't taking orders from him
 
@@ -64,7 +64,7 @@ In hindsight: the bodies he ordered to Dragonspear were probably **disc fodder**
 - **[[The Disk|One of the two discs]]** -- the one from the Daggerford temple
 - Presumed access to the **second disc** (wherever it is)
 
-The Abyssal **control scroll** is currently in [[Vaelin]]'s possession -- a high-priority artifact that takes away Ahmendril's leash on the dragons if the ritual completes.
+[[The Ritual Tablet]] is currently in [[Vaelin]]'s possession -- **a resurrection ritual, not a leash** (GM-corrected 2026-10-22) -- a high-priority artifact that takes away Ahmendril's leash on the dragons if the ritual completes.
 
 ## Connected Plots
 - [[Zanithar]] -- The role he holds; killing him doesn't end the threat
@@ -110,7 +110,7 @@ If [[Farraday]] is the Session 10 raven-masked attacker, then **[[The Pencheska 
 - Two gemstone pendants (blue + red, per Session 4) -- possibly [[Notes/Items/The Key|the Key]], possibly inert jewelry, possibly something else
 
 ## What the Party Has Against Him
-- [[Vaelin]] holds the **Abyssal control scroll** -- the only known leash on his revived [[Rofidian|dragon]]
+- [[Vaelin]] holds **[[The Ritual Tablet]]** -- the ritual that raised his dragons. **Not a leash** (GM-corrected 2026-10-22); **nobody has a working leash on [[Rofidian]]**
 - ~~The party is en route to [[Samus]] (his lieutenant) for intelligence~~ **Samus is dead.** Remaining human sources on Ahmendril: [[Eldrick]] and the surviving Zhents, none interviewed
 - [[Lords' Alliance]] teleport network access (oath-bound)
 - [[Lord Celleborn Ellenfear|Celleborn]]'s [[The Dead Three|Dead Three]] expertise
@@ -121,7 +121,7 @@ If [[Farraday]] is the Session 10 raven-masked attacker, then **[[The Pencheska 
 - Where is the second disc, and who is draining it?
 - Who or what are **Rofidian** and **Ravica** -- the two dragons named in the scroll?
 - If we kill this Ahmendril, what happens next? Does the mantle pass immediately? Is there a window?
-- Did the [[Session 10 - Many Zanithars|Session 10 night attack]] target us because we have the control scroll?
+- Did the [[Session 10 - Many Zanithars|Session 10 night attack]] target us because of something we carry -- [[The Ritual Tablet]], perhaps? (**Not** because it is a leash; it isn't one)
 
 ### The Session 14 Reframe
 
