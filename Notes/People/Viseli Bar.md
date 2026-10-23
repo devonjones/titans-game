@@ -147,3 +147,27 @@ Rage, enlarged one size via the [[Cloak of Tranquility]], swinging the **[[Frost
 > **And worth remembering what else she brings here:** the [[Cloak of Tranquility]] gives **advantage on INT/WIS/CHA saves** plus a **Rage-fuelled auto-success.** Stacked on the Hero's Feast (advantage on WIS saves, immunity to frightened) and **+10 from the paladin auras**, Viseli is effectively immune to a pit fiend's mental and fear effects. **She is the one who can stand in front of it.**
 
 **Combat ongoing at session end.**
+
+### [[Session 17 - Something That Belongs to Me]]
+
+**She took the whole war on her body.**
+
+**208 hit points at the start. 60 at the end.** Roughly **460 points of raw damage** came at her across the session; **Rage halved almost all of it**, and that is the only reason she is alive.
+
+The ledger:
+- Rushed the devils flanking from behind; **hit twice with darts**, and correctly **left the two skeletal ones alone** *(bone devils — high AC, poison sting)*
+- **Killed a devil**
+- **A chain devil wrapped her in a chain and restrained her**, and the rest of them piled on: **103 damage (52 after Rage)**
+- "Rocs" for **7, 7, 5 (10 after Rage)** — **made her CON save**
+- Fireball: **16 (8)**
+- **Healed 26** by [[Vaelin]]
+- Hit a devil twice, bloodied it
+- **Then pounded for 153 (76 after Rage) in one round. 208 → 71**
+- Fireball from the caged pit fiend: **70 (34)**
+- **[[Vaelin]] cast HEAL on her for 70**
+- Horned devil: **50 (25), then 46 (23), then 24 (12)**
+- **Ends the session at 60**
+
+> **She was the anvil.** The party's damage dealers got to operate because the devil army spent the entire fight hitting the one person built to absorb it. **Every single one of those numbers is halved** — the raw total would have killed most of the party twice over.
+
+*(The raw notes are her player's, which is why her hit points are tracked exactly and other beats are impressionistic — and note-taking pauses mid-session while she programs saving throws into Let's Roll. Again.)*

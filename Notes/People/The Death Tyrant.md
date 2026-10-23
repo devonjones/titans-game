@@ -206,6 +206,19 @@ The vision shows a masked group who **saw a god (possibly Helm)**, fought, **and
 
 **And his pendant** -- the leading candidate for [[Notes/Items/The Key|the Key]], worn at his neck for over a century -- **is on that battlefield.**
 
+## ⚠️ Where Was He? (Session 17)
+
+**[[Ahmendril]] appeared in person at the end of [[Session 16 - The Masks I Am Owed|Session 16]] -- and does not appear in [[Session 17 - Something That Belongs to Me|Session 17]] at all.**
+
+The party fought a devil legion to a standstill on the same field and never saw him.
+
+**Two things in Session 17 point at him anyway:**
+
+1. **"We feel the magic go away"** as the red dragon flew over. **The same phrasing as Session 16**, where it immediately preceded his appearance and was attributed to his **death-tyrant magic suppression.** Either the dragon carries its own antimagic, **or Ahmendril arrived with it**
+2. **[[Rofidian]] is his dragon** -- the ancient red he revived with the red half of [[The Disk|the two discs]]. An ancient red dragon turning up on the battlefield where Ahmendril was last seen, announcing the party has something of his, is **not obviously independent of him**
+
+**Open: did he leave, is he invisible, or did he ride in on the dragon?**
+
 ## Session Appearances
 
 ### [[Session 11 - When the World Burns]] -- The Ritual Likely Worked

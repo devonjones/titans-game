@@ -8,7 +8,7 @@ status: Active
 
 **Player:** Eric
 **Race:** Eladrin Elf
-**Class:** Wizard
+**Class:** Wizard — **Chronurgy Magic** (confirmed [[Session 17 - Something That Belongs to Me|Session 17]])
 **Alignment:** Unknown
 
 ## Affiliations
@@ -166,17 +166,6 @@ His diagnosis is now the party's best evidence that Samus's darkness is a **brea
 
 **Leveled to 14.** *(Eric was at a concert; Celleborn acted throughout regardless.)*
 
-## Notes
-- ~~**Permanent HP reduction** from wraith — needs Greater Restoration or similar~~ **Restored** by Vaelin in Session 7
-- **The party's dispel specialist.** Session 13 confirmed he is the only one who can strip enemy magic — and that he'll spend a Fae point and an Action Surge to do it
-- **And the party's counter-invisibility specialist.** Detect Invisibility + **Hold Monster landed on a succubus** (Session 14). Four more are at large
-- **Phantasmal Killer** confirmed — 4d10 psychic, frightened, save each round. It set up Kane's 43/39 on [[Samus]]
-- **Insists on Identify before use.** Honor this: [[Samus's Helm]] is unidentified and [[Kane]] is carrying it
-- **Subject-matter expert on the Dead Three** -- wrote his doctoral thesis on them. Go to him for Dead Three context, symbolism, history
-- **Legend Lore is his best weapon.** Two castings in Session 15 produced more intelligence than a season of fighting. **Note the scaling: the more the party already knows about a subject, the deeper the vision** -- [[Laeral Silverhand|Silverhand]]'s casting on [[Farraday]], made after [[Kane]] illusioned her face, reached further back than his did. **Gather detail first**
-- The Goat Head Mask puzzle is his problem for now — he wants to understand it
-- Details TBD as more is revealed in play
-
 ### [[Session 16 - The Masks I Am Owed]] — ABSENT
 
 *Eric was travelling. Celleborn was written out in-fiction.*
@@ -192,3 +181,37 @@ His diagnosis is now the party's best evidence that Samus's darkness is a **brea
 **The party lost its [[The Masks of Ahmendril|Legend Lore]] engine, its dispel specialist, and its counter-invisibility for this fight.** [[Laeral Silverhand|Silverhand]] substituted **[[Lady Estrell]]**, a wizard, in his place.
 
 **Still outstanding from his own to-do list:** Legend Lore on [[The Goat Head Mask]], and Identify on [[Samus's Helm]] and the [[Frost Brand Maul]]. He asked to do all of it and has not yet had the chance.
+
+### [[Session 17 - Something That Belongs to Me]]
+
+**[[Laeral Silverhand|Silverhand]] teleported him onto the battlefield mid-combat.** He arrived to find [[Unthar Froom]], the party, and a coterie of paladins fighting a devil army, and **opened with Protection from Evil and Good on himself** — against fiends that is advantage on saves, immunity to their charm and possession, and disadvantage on their attacks against him. Correct cold open.
+
+**Called the flank:** *"Watch out for the devils moving up behind you."*
+
+**Hypnotic Pattern on the entire second wave** of devils as they closed on the paladins. **His best play of the fight** — the party was losing the attrition race, and taking a whole wave out of the fight without spending damage was worth more than any blast he had.
+
+**Then threw everything at the primary pit fiend:**
+- **Momentary Stasis** — failed
+- **Action Surge → Finger of Death** — failed
+- **Chronal Shift** to force the reroll — **the pit fiend *chose to succeed*, but still took half: 37**
+
+> ## CHRONURGY WIZARD — CONFIRMED
+>
+> **Momentary Stasis** and **Chronal Shift** are both **Chronurgy Magic** features (*Explorer's Guide to Wildemount*), gained at wizard 2. That is a subclass identification straight off two spell names, and it retroactively explains the **"Fae point"** and **Action Surge** economy he has been spending since [[Session 13 - No Honor in Here|Session 13]].
+>
+> **Chronal Shift: twice per long rest**, a reaction, forcing a reroll of any attack, check or save within 30 feet. **He can use it on enemies.** That is a hard counter worth tracking as a party resource, not just his.
+
+> **And his Chronal Shift is what exposed the Legendary Resistance.** Forcing the reroll made the pit fiend spend one and say so — *"chooses to succeed"* — **the same phrase [[Samus]] used in [[Session 13 - No Honor in Here|Session 13]]**, which settles that old question. See [[Samus]].
+
+## Notes
+- ~~**Permanent HP reduction** from wraith — needs Greater Restoration or similar~~ **Restored** by Vaelin in Session 7
+- **The party's dispel specialist.** Session 13 confirmed he is the only one who can strip enemy magic — and that he'll spend a Fae point and an Action Surge to do it
+- **And the party's counter-invisibility specialist.** Detect Invisibility + **Hold Monster landed on a succubus** (Session 14). Four more are at large
+- **Phantasmal Killer** confirmed — 4d10 psychic, frightened, save each round. It set up Kane's 43/39 on [[Samus]]
+- **Insists on Identify before use.** Honor this: [[Samus's Helm]] is unidentified and [[Kane]] is carrying it
+- **Subject-matter expert on the Dead Three** -- wrote his doctoral thesis on them. Go to him for Dead Three context, symbolism, history
+- **Legend Lore is his best weapon.** Two castings in Session 15 produced more intelligence than a season of fighting. **Note the scaling: the more the party already knows about a subject, the deeper the vision** -- [[Laeral Silverhand|Silverhand]]'s casting on [[Farraday]], made after [[Kane]] illusioned her face, reached further back than his did. **Gather detail first**
+- The Goat Head Mask puzzle is his problem for now — he wants to understand it
+- **CHRONURGY WIZARD** (confirmed Session 17) -- **Chronal Shift** (2/long rest, reaction, force a reroll of any attack/check/save within 30 ft, **usable on enemies**) and **Momentary Stasis**. Track Chronal Shift as a party resource
+- **Confirmed spell list additions:** Protection from Evil and Good, Hypnotic Pattern, Finger of Death, Phantasmal Killer, Hold Monster, Legend Lore, Teleport, Mirror Image, Detect Invisibility, Gentle Repose
+- Details TBD as more is revealed in play

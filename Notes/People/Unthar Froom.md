@@ -84,3 +84,15 @@ So the party, following Celleborn's lead, **politely declines** to share full in
 
 ### [[Session 16 - The Masks I Am Owed]]
 **Found in council with [[Laeral Silverhand|Silverhand]], already planning the assault** on [[The Troll Claw Oblivion Gate]]. Proposed moving within the half hour. **Returned with five heavily armored veterans.** Briefed the party on pit fiend immunities. Teleported in with them; his paladins' **stacked auras gave +10 to saves**, and they finished the Erinyes [[Viseli Bar|Viseli]] crit.
+
+### [[Session 17 - Something That Belongs to Me]]
+**Fought the whole session alongside the party**, and **put himself under [[Vaelin]]'s direction**:
+
+> **[[Unthar Froom]]:** *"Where do you want us?"*
+> **[[Vaelin]]:** *"Prepare to receive charge from the pit fiend banking towards us."*
+
+**The head of the Order asked a party cleric for orders and took them.** Four sessions after the party was withholding intelligence from him.
+
+His paladins **focused the caged pit fiend** and **piled onto the flying one**. **At least one paladin was killed** by it.
+
+> **And then the red dragon landed, and "he doesn't seem to like the paladins."** Worth asking Unthar why — the [[Order of the Fist]] has history with [[Ahmendril]]'s operation going back a century ([[Session 15 - The Wall of Masks|Session 15]]), and **[[Rofidian]] is Ahmendril's revived dragon.** The Order may have fought him before too.

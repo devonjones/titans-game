@@ -4,7 +4,7 @@ tags:
   - Active
   - Infernal
   - Dangerous
-status: **THE PARTY IS FIGHTING HERE.** Two pit fiends, Erinyes, a legion -- and [[Ahmendril]] on the field
+status: **STILL OPEN.** The pit fiend carrying the anchor is dead and UNLOOTED -- and an ancient red dragon has landed on the field
 priority: Top
 ---
 # The Troll Claw Oblivion Gate
@@ -92,6 +92,60 @@ The party said *"What masks?"* He shouted **"SEARCH THEM!"** and the Erinyes cam
 **Unspent:** [[Vaelin]] holds **his own Banishment and [[Laeral Silverhand|Silverhand]]'s scroll of Banishment** — both unused.
 
 **Combat ongoing at session end.**
+
+## Session 17: The Devils Broke -- And The Gate Is Still Open
+
+**The party won the battle and did not achieve the objective.**
+
+### The field at the start
+
+| Position | What |
+|---|---|
+| Midfield, **60 ft up** | A flying pit fiend |
+| **100 ft back** | A second pit fiend |
+| **50-100 ft past that** | Possibly a **third**, obscured by **a giant dragon** |
+
+**The midfield pit fiend was still frozen in [[Cael Stormcrow|Stormcrow]]'s [[Static Cage]]** from the previous session. **Brimstone in the air.**
+
+**[[Laeral Silverhand|Silverhand]] teleported [[Lord Celleborn Ellenfear|Celleborn]] in** mid-combat.
+
+### How it went
+
+- **[[Vaelin]]'s Banishment on the primary pit fiend FAILED** -- the plan's centrepiece. **Magic Resistance plus Legendary Resistance** makes a pit fiend close to immune to a single save-or-suck
+- **Devils flanked from behind** -- bone devils, chain devils, a horned devil, lesser pit-fiend-shaped things, and reinforcements arriving mid-fight
+- **[[Lady Estrell]]'s 25-ft Globe of Invulnerability** physically stopped an incoming **Wall of Fire** at its boundary
+- **[[Lord Celleborn Ellenfear|Celleborn]] Hypnotic Patterned the entire second wave**
+- **A chain devil restrained [[Viseli Bar|Viseli]]** and the army focused her: **208 HP down to 60 over the session**, roughly 460 raw damage, halved by Rage
+- **[[Cael Stormcrow|Stormcrow]] Lightning Bolted the ravaged flier dead**
+- **Then the primary pit fiend landed next to him and he went down** *(see the session note -- whether he died outright is unresolved)*
+- **[[Lord Celleborn Ellenfear|Celleborn]] threw Momentary Stasis, Action Surge into Finger of Death, and Chronal Shift** at it -- **it "chose to succeed," confirming Legendary Resistance**, and took 37 anyway
+- **[[Cael Stormcrow|Stormcrow]] Misty Stepped into the paladin formation and killed it with [[Lightning Lure]] -- a cantrip**
+
+**The devils fled. The party killed them. One got away.**
+
+### ⚠️ Nobody looted the pit fiend
+
+**[[Vaelin]]'s entire premise was that the object holding the gate open is ON the pit fiend** -- corroborated by [[Laeral Silverhand|Silverhand]]'s *"the pit fiend probably has it."*
+
+**The primary pit fiend is dead on the field, and nobody searched the body.** The session ended on the dragon's arrival instead.
+
+**The gate is still open. The job is not done.**
+
+### Loose ends on this battlefield
+
+- **A dead-looking third pit fiend** lies across the field, uninvestigated
+- **The caged pit fiend's status is unclear** -- it was still throwing fireballs late in the fight
+- **One devil escaped**
+- **A giant crow** [[Kane]] fought, unidentified
+- **[[Ahmendril]] appeared at the end of [[Session 16 - The Masks I Am Owed|Session 16]] and does not appear in Session 17 at all.** Unaccounted for
+
+### And then the dragon
+
+**An ancient red dragon -- almost certainly [[Rofidian]] -- flew over, the magic went away, and it landed.**
+
+> ***"I believe you have something that belongs to me."***
+
+**See [[Rofidian]].** The leading candidate is the **Abyssal control scroll in [[Vaelin]]'s pack** -- the only known leash on him.
 
 ## Why It Opened
 

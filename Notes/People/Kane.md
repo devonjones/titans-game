@@ -174,6 +174,20 @@ With [[Ahmendril]] standing on the field and a pit fiend demanding masks he clai
 
 > **⚠️ And he is carrying [[Samus's Helm|the ram mask]]** into a fight where a devil asked for masks and then shouted **"SEARCH THEM!"**
 
+### [[Session 17 - Something That Belongs to Me]]
+*Peter was out; Kane was run at the table and fought all session.*
+
+- **Eldritch Blast, three hits, 19 damage** into the devils flanking from behind
+- **Sentinel** stopped a charging devil in its tracks
+- **Attack of opportunity** stopped another attack
+- **Stabbed a ravaged devil and killed it**, then **healed himself**
+- Took hits through the session
+- **Attacked a giant crow**
+
+> **The giant crow is worth a second look.** A crow, on a devil battlefield, and **Kane's patron is the Raven Queen.** Most likely a devil in bird shape or a quasit — but nobody established what it was, and of everyone present Kane is the one for whom a crow is not a neutral detail.
+
+> **He is still carrying [[Samus's Helm|the ram mask]]** — into a session where a devil had demanded masks, and which ended with **a dragon announcing the party has something that belongs to him.** The mask is one of the live candidates for what the dragon means.
+
 ---
 
 ## Background Summary

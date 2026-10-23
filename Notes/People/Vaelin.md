@@ -174,6 +174,32 @@ He floated **Greater Restoration** and **Heal**; **she suggested Wish**; and **h
 
 **Both Banishments still unspent at session end.**
 
+### [[Session 17 - Something That Belongs to Me]]
+
+**He ran the battlefield, and his one big swing missed.**
+
+**Banishment on the primary pit fiend: NO EFFECT.** The centrepiece of the plan. A pit fiend has **Magic Resistance** (advantage on saves vs. spells) *and* **Legendary Resistance** — close to immune to a single save-or-suck. *(Whether this was his own slot or [[Laeral Silverhand|Silverhand]]'s scroll is unrecorded. **Clarify** — it matters whether the scroll is still in hand.)* Spiritual weapon missed too.
+
+**Everything else worked:**
+- Healed [[Cael Stormcrow|Stormcrow]] and paladins on his opening turn, then **19 temp HP** to Stormcrow
+- **Healed [[Viseli Bar|Viseli]] for 26**, and later cast **HEAL on her for 70** — she went 208 → 71 → topped back up → ended at 60. **She survives this session because of him**
+- **Killed a ravaged devil**
+- **Flew** to get line on the pit fiend
+
+**And he commanded the paladins.** [[Unthar Froom]] — head of the [[Order of the Fist]] — turned to him and asked ***"Where do you want us?"***
+
+> [[Vaelin]]: ***"Prepare to receive charge from the pit fiend banking towards us."***
+>
+> **The head of a paladin order asked a party cleric for orders and took them.** That is a standing worth noting.
+
+> ## ⚠️ He is holding what the dragon came for
+>
+> At session end an **ancient red dragon** — almost certainly **[[Rofidian]]** — landed and said ***"I believe you have something that belongs to me."***
+>
+> **[[Vaelin]] carries the Abyssal control scroll** — *dragon-control instructions*, per [[Laeral Silverhand|Silverhand]], and the vault's long-standing **"only known leash"** on Rofidian.
+>
+> **It is in his pack, and the dragon is standing in front of him.**
+
 ## Notes
 - **Dispel Magic** now confirmed in his kit and lethally effective
 - **Greater Restoration** confirmed (cleric of sufficient level, Twilight Domain)
@@ -186,6 +212,10 @@ He floated **Greater Restoration** and **Heal**; **she suggested Wish**; and **h
 - **Hero's Feast** confirmed, cast from a **magic bowl**. Poison + frightened immunity, advantage on WIS saves, +14 max HP
 - **Banishment** confirmed, **plus a scroll** from [[Laeral Silverhand|Silverhand]]
 - **Sustained temp-HP distribution** across an 11-body war party
-- **He is the party's threat assessor and its quartermaster.** His pre-fight reads have been right three sessions running
+- **He is the party's threat assessor and its quartermaster.** His pre-fight reads have been right three sessions running -- **though Session 17's Banishment, the plan's centrepiece, simply failed**
+- **Heal** (6th) confirmed -- 70 points to [[Viseli Bar|Viseli]]
+- **Flight** confirmed in combat
+- **He commands the [[Order of the Fist]] paladins in the field** -- [[Unthar Froom]] asks him where to stand
+- **⚠️ He carries the Abyssal control scroll**, and an ancient red dragon has arrived saying the party has something of his
 - **The party's diagnostician.** He spotted Martavis's regeneration; nobody else was looking
 - Details TBD as more is revealed in play

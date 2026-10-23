@@ -109,3 +109,14 @@ If the campaign treats them as the same faction, that gives us a rich existing c
 
 ### [[Session 16 - The Masks I Am Owed]]
 **Six paladins in the field** at [[The Troll Claw Oblivion Gate]] under [[Unthar Froom]]. [[Kane]] proposed bringing them; the party asked the [[Lords' Alliance]] council for resources. **They were already going.**
+
+### [[Session 17 - Something That Belongs to Me]]
+**Fought the entire session**, and **took [[Vaelin]]'s orders** — [[Unthar Froom]] asked him *"Where do you want us?"* and deployed as told.
+
+The paladins **focused the caged pit fiend**, **piled onto the flying one**, and finished devils alongside the party. **At least one paladin was killed** by the pit fiend's bite/claw/claw/mace.
+
+The paladin formation also mattered defensively: **[[Cael Stormcrow|Stormcrow]] twice fell back into it** — once after [[Chain Lightning]], and once by Misty Step immediately before killing the pit fiend.
+
+> **And when the red dragon landed, "he doesn't seem to like the paladins."**
+>
+> **[[Rofidian]] is [[Ahmendril]]'s revived dragon**, and [[Session 15 - The Wall of Masks|Session 15]] established the Order **beat Ahmendril's masked cabal a century ago.** Worth asking Unthar whether the Order has history with this dragon specifically.

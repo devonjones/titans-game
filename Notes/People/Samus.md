@@ -40,7 +40,7 @@ Identified in [[Session 05 - Signed S]] as the head of the Zhentarim in Daggerfo
 What the party learned by fighting him:
 
 - **Darkness from his mouth.** He *"opens his mouth and a cloud of black ink covers the area."* This is a **breath/aura effect, not a cast spell** -- [[Lord Celleborn Ellenfear|Celleborn]] noted he was dispelling *on the effect, not on the spell*, and multiple attempts failed (including one backed by a Fae point and one by Action Surge) before he finally broke it
-- **Possible Legendary Resistance.** He rolled a natural 20 on [[Cael Stormcrow|Stormcrow]]'s [[Synaptic Static]] INT save and then *"chose to succeed"* -- that phrasing is verbatim Legendary Resistance. **Confirm with the GM.** If true, he has a limited pool of auto-successes that should be burned deliberately before committing a real save-or-die
+- **LEGENDARY RESISTANCE -- CONFIRMED.** He rolled a natural 20 on [[Cael Stormcrow|Stormcrow]]'s [[Synaptic Static]] INT save and then *"chose to succeed."* **[[Session 17 - Something That Belongs to Me|Session 17]] settled it:** a **pit fiend**, which has Legendary Resistance by stat block, used the **identical phrase** against [[Lord Celleborn Ellenfear|Celleborn]]'s Finger of Death. *"Chooses to succeed"* is **how this GM narrates Legendary Resistance.** Samus had it
 - **Melee attacker.** Stepped into his own darkness and hit [[Kane]] twice
 - **Grappleable.** Kane grappled him successfully; the grapple broke only because forced movement (an eldritch bolt) knocked Kane loose
 - **Supported.** He is not alone -- see Camp Assets below
@@ -62,7 +62,7 @@ What the party learned by fighting him:
 - ~~Where is he physically?~~ **Answered Session 13: the [[Troll Claw Hills]] camp, in person**
 - ~~Will he be at the HQ when Martavis arrives? Will he flee or fight?~~ **Answered Session 13: he was there, and he beat Martavis in single combat**
 - ~~**What is on his face?**~~ **Probably the ram mask itself** (Session 15). Never confirmed on the body. He is dead and his body went into [[The Troll Claw Oblivion Gate|a hole in the ground that became a portal to hell]].** [[Kane]] took [[Samus's Helm|the helm]]
-- ~~**Does he have Legendary Resistance?**~~ **Moot -- he's dead.** But note he died to **82 damage in two rounds from [[Kane]]** plus Phantasmal Killer plus two Lightning Bolts. If he had auto-successes, they didn't save him from raw damage
+- ~~**Does he have Legendary Resistance?**~~ **YES -- confirmed [[Session 17 - Something That Belongs to Me|Session 17]]** by matching phrasing on a pit fiend. Note he still died to **82 damage in two rounds from [[Kane]]** plus Phantasmal Killer plus two Lightning Bolts. **Legendary Resistance stops saves, not damage** -- that is the lesson
 - **What is "his chain," and why does [[Ahmendril]] hold it?** **Now unanswerable from him.** [[Eldrick]] or the surviving Zhents may know
 - **Is he the same kind of creature as [[The Assassin]]?** Both produce non-spell darkness. **His body is gone** -- no autopsy. [[Samus's Helm]] is the only physical evidence left
 - ~~**Can the [[Samus's Bargain|bargain]] be salvaged**~~ **No. There is nobody to bring helms to**

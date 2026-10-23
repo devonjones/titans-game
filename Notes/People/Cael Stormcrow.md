@@ -211,6 +211,34 @@ Downtime and revelation. No combat.
 
 **Combat ongoing at session end.**
 
+### [[Session 17 - Something That Belongs to Me]]
+
+**He killed the pit fiend. With a cantrip. After dying.**
+
+**Early:** healed by [[Vaelin]], then given 19 temp HP. Cast **[[Chain Lightning]]** into the devils flanking from behind, then **fell back into the paladin formation** for the aura and [[Lady Estrell]]'s Globe of Invulnerability -- correct, unglamorous positioning.
+
+Rolled a 19 off something protective *(trigger unrecorded -- Devon was distracted)*, said ***"that feels like a lightning ball,"*** and cast one.
+
+**Killed the ravaged flying pit fiend with a [[Lightning Bolt]].**
+
+Tried [[Static Cage]] on the second flier at disadvantage. **It saved.**
+
+> ## Then the primary pit fiend landed next to him, and **Stormcrow died.**
+>
+> **⚠️ UNRESOLVED.** He is acting again six beats later. Either he dropped to 0 and was healed, or **he was killed and revived** -- the party bought **Revivify diamonds for everyone** in [[Session 11 - When the World Burns|Session 11]], and this is exactly the moment for one. **Needs a table answer.** If he died and came back, it is the second time this campaign has nearly ended him (see [[Session 10 - Many Zanithars|Session 10]], two failed death saves) -- and the first time it succeeded.
+
+**Then he got up and finished it.**
+
+**Misty Step** out of melee, into the centre of the paladins. Then **[[Lightning Lure]]** -- a *cantrip* -- **KILLED THE PIT FIEND.**
+
+> **This is the whole character in one turn.** A pit fiend is immune to fire and poison and **not** immune to lightning; **[[Elemental Adept]]** turns every 1 into a 2 and ignores resistance outright. So the smallest spell he owns, thrown from inside a wall of paladins, was enough.
+>
+> He did not stand and trade. **He stepped out of reach first and let the storm do the arithmetic.** The thing that had just put him down died to the cheapest thing in his kit.
+>
+> **Cael has now personally killed [[Samus]] and the pit fiend holding the gate open** -- the two biggest things on the board. Both with lightning. Both from somewhere the target could not reach him.
+
+**He also spotted a dead-looking third pit fiend** across the field. Nobody went to look.
+
 ## The Haunting
 Eleven people died when he lived. He doesn't know if he earned that or just got lucky. Their names: Captain Brennan, First Mate Kyla, and nine others whose faces he remembers in dreams.
 

@@ -68,6 +68,28 @@ The **Abyssal vellum scroll** ([[Session 05 - Signed S|Session 5]]) was original
 - **Can the discs be destroyed?** Or only emptied?
 - **If we destroy the scroll,** does Ahmendril abandon the ritual, or do the dragons rise uncontrolled?
 
+## ⚠️ THE DRAGON HAS COME FOR THE SCROLL (Session 17)
+
+At the end of [[Session 17 - Something That Belongs to Me|Session 17]], an **ancient red dragon** -- almost certainly **[[Rofidian]]** -- landed in front of the party at [[The Troll Claw Oblivion Gate]] and said:
+
+> ### ***"I believe you have something that belongs to me."***
+
+**The Abyssal control scroll is in [[Vaelin]]'s pack.**
+
+Per [[Laeral Silverhand|Silverhand]] in [[Session 10 - Many Zanithars|Session 10]], the scroll is **dragon-control instructions** -- *whoever holds it commands the revived dragons.* This vault has described it as **"the only known leash"** on [[Rofidian]] for seven sessions.
+
+**A dragon coming to collect "something that belongs to me" from the people holding the object that commands him is the obvious reading.**
+
+### The decision
+
+**Hand it over and the party disarms itself of its only control over an ancient red dragon** -- and arms him against the one thing that could stop him.
+
+**Refuse and the party starts a fight with a CR 24 dragon** at the end of a session where [[Cael Stormcrow|Stormcrow]] went down and [[Viseli Bar|Viseli]] ended on 60 of 208 hit points.
+
+**He opened by talking.** So did the pit fiend. **There is a negotiation here, and the scroll is the party's entire bargaining position.**
+
+> **Other candidates for what he wants:** [[Ravica]]'s harvested corpse, or **a mask** ([[The Goat Head Mask|the goat mask]] was stolen out of a dragon's lair, and [[Kane]] is carrying [[Samus's Helm|another one]]). See [[Rofidian]].
+
 ## Session Appearances
 - [[Session 04 - Good Timing]] -- Disc 1 observed; taken by [[Ahmendril]]
 - [[Session 05 - Signed S]] -- Ritual scroll recovered; Mount Hotenow destination; names Rofidian and Ravica

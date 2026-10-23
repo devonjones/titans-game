@@ -20,13 +20,29 @@ She is **the arcane replacement for [[Lord Celleborn Ellenfear|Celleborn]]**, wh
 
 ## Observed Capability
 
+### Session 17 — the Globe
+
+**She cast a 25-foot Globe of Invulnerability** — *"something that glitters in a globe around her."*
+
+Then it was tested in front of everyone: **someone cast Wall of Fire, apparently meant to pass through the globe. It couldn't.** The wall **stopped at the boundary and continued on the other side.**
+
+> **Standard Globe of Invulnerability is a 10-foot radius.** Twenty-five feet is substantially upcast or homebrewed — and at that size it is a **mobile safe zone big enough for the formation**, blocking any spell of 5th level or lower cast into it from outside. On a battlefield of devil spellcasters throwing fireballs and walls of fire, **that is the best defensive tool anyone brought.**
+>
+> [[Cael Stormcrow|Stormcrow]] deliberately fell back into it after casting [[Chain Lightning]].
+
+**She also killed a devil** later in the fight.
+
+**She has now fought two sessions alongside the party and done real work in both.** The vetting caution below still stands on principle, but she has earned a great deal of benefit of the doubt.
+
+## Earlier Observed Capability
+
 In the opening rounds against the pit fiend:
 
 - **Tendrils of earth broke from the ground and wrapped around the pit fiend.** He broke out of them
 
 *(Spell unidentified — a grapple/restrain effect. **Maelstrom**, **Transmute Rock**, or similar. It cost the pit fiend a turn even on a successful escape.)*
 
-**[[Vaelin]] gave her 39 temporary HP** before the fight — the largest single allocation, suggesting she is squishy and the party values her.
+**[[Vaelin]] gave her 39 temporary HP** before the Session 16 fight — the largest single allocation, suggesting she is squishy and the party values her.
 
 ## ⚠️ Vetting
 
@@ -49,7 +65,8 @@ See [[Silverhand's Missing Memory]]: she was charmed into forgetting something i
 2. **Why her?** Did [[Laeral Silverhand|Silverhand]] pick her for competence, availability, or because something told her to?
 3. **What is her actual spell list?** The earth-tendrils effect is the only datapoint
 4. **Is "Lady" a noble title?** If so, which house — and does it connect to the [[Waterdeep]] nobility the [[The Pencheska Conspiracy|Pencheska]] has been targeting?
-5. **Does she survive the fight?**
+5. ~~**Does she survive the fight?**~~ **Yes — through Session 17, fighting well**
+6. **What is the Globe?** 25 feet is well beyond the standard spell. Upcast, a homebrew variant, or an item?
 
 ## Connections
 
@@ -64,3 +81,6 @@ See [[Silverhand's Missing Memory]]: she was charmed into forgetting something i
 
 ### [[Session 16 - The Masks I Am Owed]]
 **Presented by [[Laeral Silverhand|Silverhand]]** at the council. Teleported to the gate with the party. Received **39 temp HP** from [[Vaelin]]. **Wrapped the pit fiend in tendrils of earth**; he broke free.
+
+### [[Session 17 - Something That Belongs to Me]]
+**Cast a 25-foot Globe of Invulnerability** that visibly stopped an incoming **Wall of Fire** at its boundary. **Killed a devil.** Fought the whole session.

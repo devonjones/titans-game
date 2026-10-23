@@ -12,7 +12,10 @@ aliases:
 
 **See:** [[The Death Tyrant]] (canonical file with full details)
 
-> ## ⚠️ ON THE FIELD AS OF [[Session 16 - The Masks I Am Owed|SESSION 16]]
+> ## ⚠️ UNACCOUNTED FOR AS OF [[Session 17 - Something That Belongs to Me|SESSION 17]]
+> He appeared at the end of Session 16 and **does not appear in Session 17 at all.** But **his dragon [[Rofidian]] landed on that field**, and **"the magic went away"** as it flew over -- the same tell that preceded his Session 16 arrival. **Did he leave, or did he come in on the dragon?**
+
+> ## ON THE FIELD AS OF [[Session 16 - The Masks I Am Owed|SESSION 16]]
 > He appeared in person at [[The Troll Claw Oblivion Gate]], immediately after a mass DEX save and **"magic leaves"** -- consistent with his death-tyrant antimagic. A pit fiend there is demanding ***"the masks I am owed"*** ([[The Devil's Claim]]). **His pendant -- the leading [[Notes/Items/The Key|Key]] candidate -- is on that battlefield.**
 
 This page exists so that `[[Ahmendril]]` resolves directly. All content is maintained on the [[The Death Tyrant]] page.

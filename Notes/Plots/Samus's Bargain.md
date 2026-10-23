@@ -50,7 +50,7 @@ Samus conferred with someone at his side, then **conceded almost everything**:
 
 **[[Cael Stormcrow|Stormcrow]] then cast [[Synaptic Static]] on Samus.**
 
-Samus rolled a natural 20 on the INT save and *"chose to succeed"* (see [[Samus]] -- possible Legendary Resistance). [[Kane]] grappled him, Hunter's Marked, and went into a smite. The camp erupted.
+Samus rolled a natural 20 on the INT save and *"chose to succeed"* -- **confirmed Legendary Resistance** ([[Session 17 - Something That Belongs to Me|Session 17]]: a pit fiend used the identical phrasing). [[Kane]] grappled him, Hunter's Marked, and went into a smite. The camp erupted.
 
 > ***"Doesn't appear I can count on any honor in here."*** -- [[Samus]], after his attack took out Kane's mirror images
 

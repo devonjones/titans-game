@@ -4,7 +4,7 @@ tags:
   - Active
   - Infernal
   - Dangerous
-status: ACTIVE -- a pit fiend is owed the masks. Kane is carrying one
+status: The creditor is DEAD (Session 17). Does the claim die with him? Kane still carries a mask
 priority: Top
 ---
 # The Devil's Claim
@@ -23,6 +23,21 @@ The pit fiend's opening words to the party — **before any attack**:
 The party answered *"What masks?"*
 
 **He shouted "SEARCH THEM!"** and the Erinyes came forward.
+
+## ⚠️ The Creditor Is Dead (Session 17)
+
+**[[Cael Stormcrow|Stormcrow]] killed the pit fiend** at [[The Troll Claw Oblivion Gate]] in [[Session 17 - Something That Belongs to Me|Session 17]] -- Misty Step into the paladin formation, then **[[Lightning Lure]]**, a cantrip.
+
+**So the devil who demanded the masks is off the board. The debt probably is not.**
+
+- **Devils killed off their home plane re-form there.** Both Erinyes discorporated in [[Session 16 - The Masks I Am Owed|Session 16]]; the succubus did the same in [[Session 14 - Like a Cheap Cigar|Session 14]]. **A pit fiend is unlikely to be an exception**
+- **Infernal contracts are the most durable things in the Nine Hells.** A debt does not lapse because a collection agent was destroyed on the Material Plane
+- **There was a second pit fiend on that field, and possibly a third.** If this was a legion sent to collect, the collection is institutional, not personal
+- **[[Kane]] still carries [[Samus's Helm|the ram mask]]**
+
+**And the party never got the creditor's name** -- the single most useful thing to have had from him, flagged as such before the fight and still missing.
+
+> **Note the shape of the session's ending:** the devil who wanted masks died, and **moments later an ancient red dragon landed and said *"I believe you have something that belongs to me."*** [[The Goat Head Mask|The goat mask]] was stolen **out of a dragon's lair**. See [[Rofidian]] -- the mask is one of three live candidates for what he means.
 
 ## What This Reorganizes
 
@@ -94,9 +109,9 @@ With [[Ahmendril]] on the field, **[[Kane]] shouted at the pit fiend: why attack
 
 ## Open Questions
 
-1. **Who is the devil?** Still unnamed. **Contract devils have names, and names are leverage**
+1. **Who is the devil?** **Never named, and now dead** ([[Session 17 - Something That Belongs to Me|Session 17]]). The chance to get it is gone unless he re-forms or another devil carries the contract
 2. **How many masks is he owed, and which?**
-3. **Does the debt follow the mask?** [[Kane]] is holding one
+3. **Does the debt follow the mask?** [[Kane]] is holding one -- **and the creditor's death does not obviously void it**
 4. **Was [[Samus]] the courier, or just the signatory?**
 5. **Does [[Ahmendril]] know about this contract?** A subordinate who pledged his master's artifacts to a devil is a subordinate with a second loyalty — **possibly the real reason Samus was moving against the lieutenants**
 6. **Are the masks infernal in origin?**

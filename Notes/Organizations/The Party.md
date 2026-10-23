@@ -238,3 +238,33 @@ Day spent shopping (Vaelin's new plant, **Revivify diamonds for everyone**) and 
 **Fireballs rained down. Combat ongoing at session end.**
 
 **Field:** 4 PCs + [[Unthar Froom]] and 5 veterans + [[Lady Estrell]]. **Two pit fiends** ([[Kane]]'s vision was literal), Erinyes, a legion, and [[Ahmendril]]. **[[Vaelin]]'s two Banishments are still unspent.**
+
+### [[Session 17 - Something That Belongs to Me]]
+*Peter out ([[Kane]] run at the table); **Eric back** — [[Laeral Silverhand|Silverhand]] teleported [[Lord Celleborn Ellenfear|Celleborn]] onto the field mid-combat.*
+
+**THE DEVILS BROKE. THE GATE IS STILL OPEN.**
+
+**[[Vaelin]]'s Banishment on the primary pit fiend failed** — Magic Resistance plus Legendary Resistance. The party won on attrition instead: **[[Lady Estrell]]'s 25-ft Globe of Invulnerability** physically stopped an incoming Wall of Fire, **[[Lord Celleborn Ellenfear|Celleborn]] Hypnotic Patterned the whole second wave**, and **[[Viseli Bar|Viseli]] absorbed roughly 460 raw damage** — 208 hit points down to 60, Rage halving nearly all of it, [[Vaelin]] healing her 26 and then 70.
+
+**[[Cael Stormcrow|Stormcrow]] killed the ravaged flier with a [[Lightning Bolt]].** Then **the primary pit fiend landed next to him and he went down** — *whether he actually died is unresolved; the party has Revivify diamonds.* [[Lord Celleborn Ellenfear|Celleborn]] threw **Momentary Stasis, Action Surge into Finger of Death, and Chronal Shift** at it; it ***"chose to succeed"*** and took 37 anyway.
+
+**Then Stormcrow Misty Stepped into the paladin formation and killed it with [[Lightning Lure]] — a cantrip.** Pit fiends are immune to fire and poison, **not lightning**, and [[Elemental Adept]] ignores resistance.
+
+**The devils fled. The party killed them. One got away.**
+
+> ## ⚠️ NOBODY LOOTED THE PIT FIEND
+> [[Vaelin]]'s whole premise was that **the object holding the gate open is on it.** It is dead on the field and unsearched. **The objective was never achieved.**
+
+**Two confirmations:**
+- **"Chooses to succeed" is Legendary Resistance** — a pit fiend has it by stat block, so **[[Samus]] had it too** ([[Session 13 - No Honor in Here|Session 13]])
+- **[[Lord Celleborn Ellenfear|Celleborn]] is a Chronurgy Wizard** — Momentary Stasis and Chronal Shift
+
+### And then the dragon
+
+**An ancient red dragon — almost certainly [[Rofidian]] — flew over, the magic went away, and it landed.** It doesn't seem to like the paladins.
+
+> ### ***"I believe you have something that belongs to me."***
+
+**[[Vaelin]] is carrying the Abyssal control scroll** — the only known leash on him. See [[Rofidian]] and [[The Disk]].
+
+**[[Ahmendril]] appeared at the end of [[Session 16 - The Masks I Am Owed|Session 16]] and is absent from this session entirely.**

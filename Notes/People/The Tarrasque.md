@@ -81,3 +81,10 @@ The Tarrasque is the iconic kaiju-tier legendary monster of D&D. In 5e RAW (Mons
 - Sleeps for centuries; awakens during cataclysms
 
 In Forgotten Realms canon, it has historically been associated with cataclysmic events on the Sword Coast and the South. **Its appearance is a sign that something far worse is in motion** -- it doesn't cause cataclysms, it responds to them.
+
+### [[Session 17 - Something That Belongs to Me]] — where is it?
+**[[Rofidian]] has evidently lost it.** The ancient red dragon the Tarrasque chased out through the breached [[Waterdeep]] wall **turned up at [[The Troll Claw Oblivion Gate]]**, alone and unhurried enough to open a negotiation.
+
+> **So there is a Tarrasque loose somewhere on the Sword Coast, unaccounted for since [[Session 11 - When the World Burns|Session 11]].**
+>
+> Either it lost the trail, it was killed, or it stopped somewhere — and "somewhere" between [[Waterdeep]] and the [[Troll Claw Hills]] is the Trade Way, [[Daggerford]], and [[Dragonspear]].

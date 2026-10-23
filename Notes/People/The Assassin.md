@@ -41,7 +41,7 @@ Shared profile:
 |---|---|---|
 | Darkness | Aura of Darkness — an ability, not a spell | Black ink from the mouth — resists dispel-as-spell |
 | Melee lethality | 73 hp to [[Kane]] in one hit | Beat [[General Martavis|Martavis]] in single combat |
-| Hard to affect | Survived Viseli's hits, escaped clean | Nat 20 + *"chose to succeed"* on a DC 19 save |
+| Hard to affect | Survived Viseli's hits, escaped clean | Nat 20 + *"chose to succeed"* on a DC 19 save -- **confirmed Legendary Resistance** ([[Session 17 - Something That Belongs to Me|Session 17]]) |
 | Fate | **Escaped. Still out there** | **Dead (Session 14)** -- 82 damage from [[Kane]] in two rounds, then decapitated by [[Cael Stormcrow|Stormcrow]] through a closed door |
 | Infernal ties | Unknown | **Confirmed** -- devil contract, five succubi on staff |
 
